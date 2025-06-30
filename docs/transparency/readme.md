@@ -35,7 +35,12 @@ This document outlines the transparent and on-chain verified steps taken in the 
 - Contract is a minimal proxy of [Thirdweb ERC20 contract](https://github.com/thirdweb-dev/contracts)
 - Thirdweb templates audited by OpenZeppelin
 
+## Ownership Renounced
+- Ownership of the token contract was renounced permanently.
+- This makes the contract immutable and ensures no further changes can be made.
+- 🔗 [Renounce Transaction on Etherscan](https://etherscan.io/tx/0x15e4739956e05a80d03cd258eb6a35d7ace2406b7c49a99bc8aa7f7c8fbb3b8a)
+
+
 ## ✅ What’s Next
-- [ ] Contract Renouncement (planned)
 - [ ] Centralized Exchange Listings (underway)
 - [ ] GitHub archive and badge verification
