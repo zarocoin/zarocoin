@@ -54,12 +54,13 @@ This contract is a minimal proxy that inherits all logic from a Thirdweb-audited
 
 ## ⛓️ Deployment Timeline
 
-| Step                  | Status | Reference |
-|-----------------------|--------|-----------|
-| Initial Mint (1B ZARO) | ✅ Complete | [Tx](https://etherscan.io/tx/…) |
-| OTC Transfer (195M)    | ✅ Complete | [Tx](https://etherscan.io/tx/…) |
-| LP Setup (300M + 6 ETH) | 🔜 Pending |  |
-| Ownership Renounce     | 🔜 After LP Lock |  |
+| Step                     | Status     | Reference |
+|--------------------------|------------|-----------|
+| Initial Mint (1B ZARO)   | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0x1f87f4f42c429ce6499e671ff1797c530017b00fd9bcb8b4e875a8fe633cf3a4) |
+| OTC Payment (3.9 ETH)    | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0xe74bcfa7ae57bce59b1ad59e01a5d20e5a2ac1a86b7c72df720dc693c1cd9bfa) |
+| OTC Token Transfer (195M ZARO) | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0x68a9ac2854416e13d1d53e4e6a06183d23157e78d783ee3ff20f39b920fc4873) |
+| LP Setup (300M + 6 ETH)  | 🔜 Pending  | — |
+| Ownership Renounce       | 🔜 Pending (Post LP Lock) | — |
 
 ---
 
