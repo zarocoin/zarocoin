@@ -1,8 +1,12 @@
-# Documentation Hub
+# ZARO Docs
 
-This folder holds official documentation for the ZARO Coin project. It includes:
+This folder contains official documentation for the ZARO meme token project, including:
 
-- `whitepaper/`: The current informational whitepaper outlining ZARO's structure.
-- `transparency/`: On-chain proofs, OTC transactions, liquidity actions, and governance disclosures.
+- Whitepaper with disclaimers
+- Transparency summary
+- Strategic roadmap
+- Legal and regulatory statements
 
-All documentation is updated regularly to reflect on-chain actions and official announcements.
+ZARO is a community-driven memecoin project built on Ethereum, owned by no one, and operated through a decentralized community philosophy. It does not offer financial utility or investment potential — it is purely cultural.
+
+See: [https://zaroverse.com](https://zaroverse.com)
