@@ -6,6 +6,8 @@ This document outlines the transparent and on-chain verified steps taken in the 
 - **Treasury Wallet:** 0xb285dcc3A547e5649dfEa8E10134C322c67a63fC
 - **Token Contract:** 0xc311FD6DA9686507F33991543d8158EF5FaDd5E7
 - **Uniswap V2 Pool Contract:** `0x53085839a2ee860e58108665825fc7ef5e061213`
+- **UNCX Lock Transaction:** [View on Etherscan](https://etherscan.io/tx/0x334b33f9808ad75cc301b2b56a45ac2941b56b10aa45147404c334414520e2ef)
+
 
 
 ## 🚀 Initial Deployment
