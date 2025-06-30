@@ -56,9 +56,10 @@ This contract is a minimal proxy that inherits all logic from a Thirdweb-audited
 
 | Step                            | Status     | Reference |
 |---------------------------------|------------|-----------|
-| Initial Mint (1B ZARO)          | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0x6f3b827e8d42051a77a8e5a9296d7748ecbd8e08078bfc32eb5a9d18b4982df0) |
-| OTC Payment (3.9 ETH to Treasury) | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0xe74bcfa7ae57bce59b1ad59e01a5d20e5a2ac1a86b7c72df720dc693c1cd9bfa) |
-| OTC Token Transfer (195M ZARO to Founder) | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0x68a9ac2854416e13d1d53e4e6a06183d23157e78d783ee3ff20f39b920fc4873) |
+| Initial Mint (1B ZARO)          | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0x65fba18a825da8c68e45ea1f21303de94693928bded39307d3f25152f2ab5bfb) |
+| Loan from Founder to Treasury (6 ETH) | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0x9387c6744b156f7d1e3fc98ddad3972e456fa4f4b3623fe1296389f619681233) |
+| OTC Payment (3.9 ETH from Founder to Treasury) | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0x8bfec6c0fa1ebcf416bf1225bc55cef134b3190c38b2c6a79e94b7cb08d26e9d) |
+| OTC Token Transfer (195M ZARO from Treasury to Founder) | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0x06a3c67288ef42e28fb4b0b6d7b56e6f80a09889f59e27dd78ecd26480681afd) |
 | LP Setup (300M ZARO + 6 ETH)   | 🔜 Pending  | — |
 | Ownership Renounce              | 🔜 Pending (Post LP Lock) | — |
 
