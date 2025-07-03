@@ -47,6 +47,7 @@ This document outlines the transparent and on-chain verified steps taken in the 
 ## 🔍 Audit Reference
 - Token contract is a minimal proxy of [Thirdweb ERC20 contract](https://github.com/thirdweb-dev/contracts)
 - Thirdweb templates are audited by **OpenZeppelin**
+- [Audit Report](https://github.com/thirdweb-dev/contracts/blob/main/audit-reports/audit-12.pdf)
 
 ---
 
