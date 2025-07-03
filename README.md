@@ -48,7 +48,7 @@ It’s a coin. It’s a character. It’s the foundation of a meme-powered unive
 
 All source code, deployment steps, and transparency reports are available in this repository.
 
-- [Whitepaper](./docs/whitepaper/ZARO_Whitepaper_v1.0.pdf)
+- [Whitepaper](https://github.com/zarocoin/zarocoin/tree/main/docs/whitepaper)
 - [Contract Source](./contracts/ZARO.sol)
 - [Renounce + LP Lock Proof](./docs/transparency/launch_proof.pdf)
 
