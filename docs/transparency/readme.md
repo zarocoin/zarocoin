@@ -61,3 +61,21 @@ This document outlines the transparent and on-chain verified steps taken in the 
 ## ✅ What’s Next
 - [ ] Centralized Exchange Listings (underway)
 - [ ] GitHub archive & badge verification
+
+
+
+
+### 2025-07-20 – Founder Liquidity Addition (Uniswap V4)
+
+**Wallet**: [0x984e23643acABDd447E8969ba08aaE6120A9bC8b](https://etherscan.io/address/0x984e23643acABDd447E8969ba08aaE6120A9bC8b)  
+**ETH Added**: 5.0 ETH  
+**ZARO Added**: 40,074,191.65 ZARO  
+**Platform**: Uniswap V4  
+**Transaction Hash**: [0xe6a5ef9c97eca67272769cfb44f4a2d1fb587c73b7fbcc3e50c8c6363ef2d4f3](https://etherscan.io/tx/0xe6a5ef9c97eca67272769cfb44f4a2d1fb587c73b7fbcc3e50c8c6363ef2d4f3)  
+**NFT Position ID**: 38455  
+**LP Token Holder**: 0x984e2364...bc8b  
+**LP Lock Status**: Not locked — but publicly pledged: no withdrawal before $5M MC or without 30-day public notice  
+**Statement**:  
+> “I am very happy to own ZARO and ETH. The best of both worlds.”
+
+---
