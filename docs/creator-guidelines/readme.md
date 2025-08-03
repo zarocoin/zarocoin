@@ -1,4 +1,4 @@
-# ZARO Creator & Brand Bible
+# ZARO Creator & Brand Guidelines
 
 _For artists, writers, meme architects, brand stewards, lore builders, and cultural custodians of the ZaroVerse._
 
