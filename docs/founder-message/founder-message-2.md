@@ -105,7 +105,7 @@ Here’s everything we’ve built so far — all public:
 - 💗 [Philanthropy Pledge](https://github.com/zarocoin/zarocoin/blob/main/docs/philanthropy)  
 - 📈 [ZARO on CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/)  
 - 📊 [ZARO on DEX Screener](https://dexscreener.com/ethereum/0x53085839A2Ee860E58108665825Fc7Ef5e061213)
-- 📉 [TradingView Chart](https://www.tradingview.com/symbols/ZAROUSD/)  
+- 📉 [TradingView Chart](https://www.tradingview.com/symbols/ZAROWETH_530858.USD/?exchange=UNISWAP)  
 - 🧑‍🎨 [ZARO Stickers on Telegram](https://t.me/addstickers/ZaroEmoji)  
 - 🧑‍🏫 [GitHub Repo](https://github.com/zarocoin/zarocoin)
 
