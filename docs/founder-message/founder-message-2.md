@@ -102,7 +102,7 @@ Here’s everything we’ve built so far — all public:
 - 🛡 [Smart Contract Security](https://github.com/zarocoin/zarocoin/tree/main/docs/security)  
 - 🔍 [Etherscan for ZARO](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7)  
 - 📄 [White Paper](https://github.com/zarocoin/zarocoin/blob/main/docs/whitepaper/whitepaper.pdf)  
-- 💗 [Philanthropy Pledge](https://github.com/zarocoin/zarocoin/blob/main/docs/philanthropy/philanthropy.md)  
+- 💗 [Philanthropy Pledge](https://github.com/zarocoin/zarocoin/blob/main/docs/philanthropy)  
 - 📈 [ZARO on CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/)  
 - 📊 [ZARO on DEX Screener](https://dexscreener.com/ethereum/0x97e5d6f7c8ffb35a238bd451b9f7e3c172b9a4a5)  
 - 📉 [TradingView Chart](https://www.tradingview.com/symbols/ZAROUSD/)  
