@@ -1,4 +1,4 @@
-# 🧭 Founder Message #2  
+# Founder Message #2  
 ## Restoring Order in Crypto — The ZARO Way
 
 Crypto was supposed to be a revolution.  
@@ -14,7 +14,7 @@ But to build quietly, ethically, transparently — and forever.
 
 ---
 
-## 🛡 The Standard We Set
+## The Standard We Set
 
 We didn't just launch a meme coin.  
 We set the **gold standard** for what a clean Ethereum launch should look like:
@@ -39,7 +39,7 @@ We minted a mascot — and gave the keys to the people.
 
 ---
 
-## 🌍 A Mission Beyond Crypto
+## A Mission Beyond Crypto
 
 ZARO isn’t here to ride cycles.  
 ZARO is here to **reshape culture**.
@@ -54,12 +54,14 @@ This isn’t just a coin.
 This is your canvas.
 
 → [Read the ZARO Creator Guidelines](https://github.com/zarocoin/zarocoin/tree/main/docs/creator-guidelines)  
+
 → [Join our Sticker Movement](https://t.me/addstickers/ZaroEmoji)  
+
 → [Submit your art via GitHub](https://github.com/zarocoin/zarocoin)
 
 ---
 
-## ⚖️ Crypto Needs a Cleanup
+## Crypto Needs a Cleanup
 
 Too many platforms enabled fraud recently — knowingly or not.  
 Listing sites. Wallet apps. Token deployers. Launchpads.
@@ -76,7 +78,7 @@ It’s time its meme culture was too.
 
 ---
 
-## 🛠 The Road Ahead
+## The Road Ahead
 
 This isn’t a 10-day pump.  
 It’s a **10-year mission** to build a crypto-born media empire.
@@ -91,23 +93,33 @@ Not financial hype — but cultural longevity.
 
 ---
 
-## 🔗 Explore & Verify Everything
+## Explore & Verify Everything
 
 Here’s everything we’ve built so far — all public:
 
-- 🟡 [ZARO Coin Website](https://www.zarocoin.xyz)  
-- 🌌 [ZaroVerse – A New Universe Begins](https://www.zaroverse.com)  
-- 💥 [Buy ZARO on Uniswap](https://app.uniswap.org/swap/?chain=ethereum&outputCurrency=0xc311FD6DA9686507F33991543d8158EF5FaDd5E7)  
-- 📜 [Transparency Report](https://github.com/zarocoin/zarocoin/tree/main/docs/transparency)  
-- 🛡 [Smart Contract Security](https://github.com/zarocoin/zarocoin/tree/main/docs/security)  
-- 🔍 [Etherscan for ZARO](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7)  
-- 📄 [White Paper](https://github.com/zarocoin/zarocoin/blob/main/docs/whitepaper/whitepaper.pdf)  
-- 💗 [Philanthropy Pledge](https://github.com/zarocoin/zarocoin/blob/main/docs/philanthropy)  
-- 📈 [ZARO on CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/)  
-- 📊 [ZARO on DEX Screener](https://dexscreener.com/ethereum/0x53085839A2Ee860E58108665825Fc7Ef5e061213)
-- 📉 [TradingView Chart](https://www.tradingview.com/symbols/ZAROWETH_530858.USD/?exchange=UNISWAP)  
-- 🧑‍🎨 [ZARO Stickers on Telegram](https://t.me/addstickers/ZaroEmoji)  
-- 🧑‍🏫 [GitHub Repo](https://github.com/zarocoin/zarocoin)
+- [ZARO Coin Website](https://www.zarocoin.xyz)
+  
+- [ZaroVerse – A New Universe Begins](https://www.zaroverse.com)
+  
+- [Buy ZARO on Uniswap](https://app.uniswap.org/swap/?chain=ethereum&outputCurrency=0xc311FD6DA9686507F33991543d8158EF5FaDd5E7)
+  
+- [Transparency Report](https://github.com/zarocoin/zarocoin/tree/main/docs/transparency)
+  
+- [Smart Contract Security](https://github.com/zarocoin/zarocoin/tree/main/docs/security)
+  
+- [Etherscan for ZARO](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7)
+  
+- [White Paper](https://github.com/zarocoin/zarocoin/blob/main/docs/whitepaper/whitepaper.pdf)
+  
+- [Philanthropy Pledge](https://github.com/zarocoin/zarocoin/blob/main/docs/philanthropy)
+  
+- [ZARO on CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/)
+  
+- [ZARO on DEX Screener](https://dexscreener.com/ethereum/0x53085839A2Ee860E58108665825Fc7Ef5e061213)
+  
+- [ZARO Stickers on Telegram](https://t.me/addstickers/ZaroEmoji)
+  
+- [GitHub Repo](https://github.com/zarocoin/zarocoin)
 
 ---
 
@@ -122,6 +134,8 @@ A culture builder.
 A signal in the noise.
 
 — The ZARO Team  
-🟡 [@ZaroProject on X](https://x.com/ZaroProject)  
-🧬 [www.ZaroVerse.com](https://www.zaroverse.com)  
-🌐 [www.ZAROcoin.xyz](https://www.zarocoin.xyz)
+[@ZaroProject on X](https://x.com/ZaroProject)  
+
+[www.ZaroVerse.com](https://www.zaroverse.com)  
+
+[www.ZAROcoin.xyz](https://www.zarocoin.xyz)
