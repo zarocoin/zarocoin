@@ -24,14 +24,15 @@ This document outlines the transparent and on-chain verified steps taken in the 
 - Founder loaned **6 ETH** to the Treasury to seed the LP
 - OTC Purchase: Founder paid **3.9 ETH** to Treasury for **195M ZARO** at the same public price (`0.00000002 ETH`)
 - All transactions are **public and verifiable on-chain**
+- Payment of 3.9 ETH from Founder to Treasury (195M ZARO @ 0.00000002 ETH OTC Deal): https://etherscan.io/tx/0x8bfec6c0fa1ebcf416bf1225bc55cef134b3190c38b2c6a79e94b7cb08d26e9d
+- Received 195M ZARO from Treasury to Founder to complete the transaction: https://etherscan.io/tx/0x06a3c67288ef42e28fb4b0b6d7b56e6f80a09889f59e27dd78ecd26480681afd
+
 
 ---
 
 ## 💧 Liquidity Pool (Uniswap V2)
 - LP created with **6 ETH** + **300M ZARO**
 - **Initial price:** `0.00000002 ETH per ZARO`
-- Payment of 3.9 ETH from Founder to Treasury (195M ZARO @ 0.00000002 ETH OTC Deal): https://etherscan.io/tx/0x8bfec6c0fa1ebcf416bf1225bc55cef134b3190c38b2c6a79e94b7cb08d26e9d
-- Received 195M ZARO from Treasury to Founder to complete the transaction: https://etherscan.io/tx/0x06a3c67288ef42e28fb4b0b6d7b56e6f80a09889f59e27dd78ecd26480681afd
 - LP tokens are **permanently locked for 255 years** via UNCX
 - 🔒 Lock Proof: [Final Lock Transaction on Etherscan](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581)
 - ⛓️ Status: Verified on UNCX dashboard
