@@ -1,4 +1,4 @@
-# 🟡 ZARO — The Meme Coin with a Mascot and a Mission
+# 🟡 ZARO — The Coin with a Mascot and a Mission
 
 **ZARO** is not just another meme coin. It’s a cultural movement powered by community, character, and credibility.  
 Born on Ethereum. Built for the meme era. Engineered for the long haul.
