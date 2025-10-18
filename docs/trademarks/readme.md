@@ -20,12 +20,12 @@ Incorporated in the **British Virgin Islands**
 All trademarks are filed with the **United States Patent and Trademark Office (USPTO)** and owned by **ZaroVerse Ltd.**  
 Full PDF copies of each official application are stored in this folder for verification.
 
-| Mark | Serial No. | Filing Date | Classes | Summary | Link |
-|------|-------------|-------------|----------|----------|------|
+| Mark (as filed) | Serial No. | Filing Date | Classes | Summary | Link |
+|---|---|---|---|---|---|
 | **ZARO** | 99430044 | Oct 6, 2025 | 025, 028 | Apparel (T-shirts, hoodies, headwear, socks, jackets) and toys (stuffed plush, dolls, action figures). | [View PDF](https://github.com/zarocoin/zarocoin/blob/main/docs/trademarks/99430044.pdf) |
-| **ZaroVerse** | 99429950 | Oct 6, 2025 | 009, 025, 028, 041 | Downloadable games and NFTs, apparel, toys, and entertainment media production. | [View PDF](https://github.com/zarocoin/zarocoin/blob/main/docs/trademarks/99429950.pdf) |
-| **MemeWars** | 99421637 | Sep 30, 2025 | 009, 025, 028, 041 | Game title and brand covering video games, clothing, toys, and multimedia entertainment. | [View PDF](https://github.com/zarocoin/zarocoin/blob/main/docs/trademarks/99421637.pdf) |
-| **ARC7** | 99421352 | Sep 30, 2025 | 009, 028, 041 | Character and digital persona covering software, plush toys, collectibles, and animation services. | [View PDF](https://github.com/zarocoin/zarocoin/blob/main/docs/trademarks/99421352.pdf) |
+| **ZAROVERSE** | 99429950 | Oct 6, 2025 | 009, 025, 028, 041 | Downloadable games/NFTs, apparel, toys, and entertainment media production. | [View PDF](https://github.com/zarocoin/zarocoin/blob/main/docs/trademarks/99429950.pdf) |
+| **MEMEWARS** | 99421637 | Sep 30, 2025 | 009, 025, 028, 041 | Video games (downloadable/online), clothing, toys, multimedia entertainment (Class 041 includes 1(a) with specimen). | [View PDF](https://github.com/zarocoin/zarocoin/blob/main/docs/trademarks/99421637.pdf) |
+| **ZAROVERSE MEMEWARS** | 99421352 | Sep 30, 2025 | 009, 028, 041 | Downloadable games/software, toys/plush, animation production and online competitions. | [View PDF](https://github.com/zarocoin/zarocoin/blob/main/docs/trademarks/99421352.pdf) |
 
 ---
 
