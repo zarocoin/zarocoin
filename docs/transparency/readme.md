@@ -161,3 +161,17 @@ https://bscscan.com/token/0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc#balances
 
 This confirms a total of **~5.06 M ZARO bridged and circulating on BSC**, fully backed by locked ERC-20 ZARO on Ethereum.  
 No new minting or supply inflation has occurred.
+
+
+**Liquidity Update — Nov 3, 2025**
+
+Additional liquidity was added to the PancakeSwap V2 ZARO/WBNB pool by the official Wormhole Bridge Wallet:
+
+- Wallet: 0x485e2305E953558a2ef959ce9C4FFa317e502BAB  
+- Pool: 0xAB900B7D4fb0cce879F1c3A831b1c172af6f72F4  
+- Exchange: PancakeSwap V2  
+- Add Liquidity Link: https://pancakeswap.finance/add/BNB/0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc  
+- Transaction log: https://bscscan.com/address/0x485e2305E953558a2ef959ce9C4FFa317e502BAB  
+
+This transaction brings total BSC liquidity to approximately $2,000 (combined ZARO and BNB value).  
+All actions were executed by the official ZARO Wormhole Bridge Wallet, with LP tokens held securely by the same wallet pending future lock.
