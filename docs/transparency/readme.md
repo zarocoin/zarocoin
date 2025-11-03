@@ -144,12 +144,20 @@ On **Nov 2, 2025 (UTC)**, ZARO expanded from Ethereum to **BNB Smart Chain (BSC)
 - All transactions are on-chain and linked above.
 
 ---
+### 🔹 BSC Bridge Update — November 2025
 
-### 🔹 How to fetch the **Ethereum source (attestation) tx** for this bridge
-1. Open **wormholescan.io** → search for your **BSC redeem tx** `0x9090d5…e44541e2`.  
-2. The transfer detail page shows both legs of the message: **Source (Ethereum)** and **Target (BSC)**.  
-3. Copy the **Ethereum tx hash** shown as the *Source/Attestation* and paste it into the “Source Tx” field above.  
+As of Nov-03-2025, the ZARO Wormhole Bridge Wallet  
+`0x485e2305E953558a2ef959ce9C4FFa317e502BAB`  
+holds a cumulative **4,048,008.816 ZARO (BEP-20)** on BNB Smart Chain.  
 
-(We keep this field blank until the exact tx is retrieved from WormholeScan to avoid pointing at a wrong hash.)
+Distribution snapshot (BscScan verified):  
+- **Bridge Wallet:** 79.86 % (4,048,008 ZARO)  
+- **PancakeSwap V2 ZARO/WBNB Pool:** 19.96 % (1,011,778 ZARO)  
+- **Other wallets:** 0.18 % combined  
 
----
+Total unique holders: **5**  
+Explorer link:  
+https://bscscan.com/token/0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc#balances  
+
+This confirms a total of **~5.06 M ZARO bridged and circulating on BSC**, fully backed by locked ERC-20 ZARO on Ethereum.  
+No new minting or supply inflation has occurred.
