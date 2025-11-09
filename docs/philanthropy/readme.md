@@ -98,3 +98,7 @@ We expect the community to hold us accountable — and we welcome it.
 
 ZARO is here to build a cultural legacy, not just a coin.  
 And that legacy must include giving back.
+
+### Solana Extension
+ZARO’s bridge expansion to Solana will follow the same 5% philanthropy pledge on any treasury utilization or liquidity deployment.
+
