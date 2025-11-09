@@ -175,3 +175,19 @@ Additional liquidity was added to the PancakeSwap V2 ZARO/WBNB pool by the offic
 
 This transaction brings total BSC liquidity to approximately $2,000 (combined ZARO and BNB value).  
 All actions were executed by the official ZARO Wormhole Bridge Wallet, with LP tokens held securely by the same wallet pending future lock.
+
+
+## 🌐 Solana Integration (Wormhole)
+
+**Date:** 9 Nov 2025  
+**Bridge:** Wormhole (Mainnet)  
+**Parent Token:** Ethereum 0xc311FD6DA9686507F33991543d8158EF5FaDd5E7  
+**Wrapped Token (SPL Mint):** [AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W](https://solscan.io/token/AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W)  
+**Treasury Wallet (ZaroVerse Ltd – Solana):** [GR2tgyBXv8gHxjuthCTtP5DPXzBuQJH9PBpixjW7mxzJ](https://solscan.io/account/GR2tgyBXv8gHxjuthCTtP5DPXzBuQJH9PBpixjW7mxzJ)  
+**Bridge TX (Ethereum → Solana):** [0xac3641564d6d619575c0332969d90225ffb64ae2807992f4e862cd2720a4dd1f](https://wormholescan.io/#/tx/0xac3641564d6d619575c0332969d90225ffb64ae2807992f4e862cd2720a4dd1f?network=MAINNET)  
+**Solana TX (Mint Redeem):** [5sj1b8NpoSvgbZrr1w9D6GYUC1FoiKTuRp2Luap67hnZyByr56m6aUBn2HkrK8EBYv2UeAiQVinggdy9YngCDUaF](https://solscan.io/tx/5sj1b8NpoSvgbZrr1w9D6GYUC1FoiKTuRp2Luap67hnZyByr56m6aUBn2HkrK8EBYv2UeAiQVinggdy9YngCDUaF)  
+**Amount:** 1,010,000 ZARO (first mint)  
+**Status:** ✅ Completed – confirmed via WormholeScan & SolScan  
+**Bridge Custody:** 1:1 locked on Ethereum  
+**Notes:** This marks the official expansion of ZARO to Solana via Wormhole. The wrapped SPL token inherits all transparency policies from the parent ERC-20.
+
