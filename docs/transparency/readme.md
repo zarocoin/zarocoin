@@ -191,3 +191,29 @@ All actions were executed by the official ZARO Wormhole Bridge Wallet, with LP t
 **Bridge Custody:** 1:1 locked on Ethereum  
 **Notes:** This marks the official expansion of ZARO to Solana via Wormhole. The wrapped SPL token inherits all transparency policies from the parent ERC-20.
 
+### ✅ Solana Bridge Status
+
+**Total Bridged Supply:** 10,000,000 ZARO  
+**Percentage of Total Supply:** 1% (out of 1,000,000,000 ZARO)
+
+**Bridge Details:**
+- **Bridge Used:** Wormhole v2  
+- **Canonical Token (Ethereum):** 0xc311FD6DA9686507F33991543d8158EF5FaDd5E7  
+- **Solana Mint:** AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W  
+- **Destination Wallet:** Phantom Bridge Wallet  
+  `GR2tgyBXv8gHxjuthCTtP5DPXzBuQJH9PBpixjW7mxzJ`
+
+**Bridge Wallets:**
+- ETH ↔ BNB: `0x485e2305E953558a2ef959ce9C4FFa317e502BAB`
+- ETH ↔ Solana: `GR2tgyBXv8gHxjuthCTtP5DPXzBuQJH9PBpixjW7mxzJ`
+
+**Transaction Summary:**
+- 1,000,000 ZARO bridged on November 10, 2025  
+- 9,000,000 ZARO bridged on November 11, 2025  
+- Verified on Solscan:  
+  https://solscan.io/token/AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W  
+
+**Remarks:**
+All bridged tokens correspond 1:1 with the locked ERC-20 supply on Ethereum.  
+No new tokens were minted or issued outside the canonical 1,000,000,000 ZARO supply.  
+This allocation (1%) is reserved for Solana-based liquidity, ecosystem growth, and multi-chain interoperability testing.
