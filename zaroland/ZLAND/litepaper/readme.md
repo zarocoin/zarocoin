@@ -29,6 +29,15 @@ ZaroLand will be rolled out as a **global franchise**, with multiple parks in di
 
 ---
 
+## 🎬 ZaroLand Concept Video
+
+ZLAND is the membership and utility token for the ZaroLand park ecosystem.  
+For a high-level visual overview of the **ZaroLand park concept itself**, see:
+
+[▶ ZaroLand – Where Nature Meets Imagination](https://youtu.be/PNYr03n4q6M?si=3H1OKb3llrOr0W-Y)
+
+
+
 ## 2. Why Does ZaroLand Need a Token?
 
 Traditional theme parks and travel companies use **loyalty programs**:
