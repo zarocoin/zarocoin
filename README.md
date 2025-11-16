@@ -80,3 +80,26 @@ ZaroVerse Ltd. is the creator and IP holder of the ZARO mascot and coin.
 ---
 
 **ZARO**: Community First. Meme Forever.
+
+
+## ZaroLand & ZLAND Documentation
+
+**ZaroLand** is the real-world, nature-integrated theme park brand of the ZaroVerse ecosystem.  
+**ZLAND** is the global membership, loyalty, and utility token for all ZaroLand parks.
+
+- 🏞 **ZaroLand Overview**  
+  Project description and park concept  
+  https://github.com/zarocoin/zarocoin/tree/main/zaroland
+
+- 🪙 **ZLAND Token Overview**  
+  High-level token summary, utilities, and IEO info  
+  https://github.com/zarocoin/zarocoin/tree/main/zaroland/ZLAND
+
+- 📄 **ZLAND Whitepaper**  
+  Full technical and narrative specification for exchanges, auditors, and partners  
+  https://github.com/zarocoin/zarocoin/tree/main/zaroland/ZLAND/whitepaper
+
+- 📘 **ZLAND Litepaper**  
+  Short, non-technical explanation for general audiences  
+  https://github.com/zarocoin/zarocoin/tree/main/zaroland/ZLAND/litepaper
+
