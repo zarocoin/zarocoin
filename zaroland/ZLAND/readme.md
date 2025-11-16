@@ -25,6 +25,13 @@ The long-term vision is for ZLAND to act as a **global membership layer** across
 - Online travel agencies (OTAs) and booking platforms
 
 ---
+## 🎬 ZaroLand Concept Video
+
+ZLAND is the membership and utility token for the ZaroLand park ecosystem.  
+For a high-level visual overview of the **ZaroLand park concept itself**, see:
+
+[▶ ZaroLand – Where Nature Meets Imagination](https://youtu.be/PNYr03n4q6M?si=3H1OKb3llrOr0W-Y)
+
 
 ## Travel & Booking Integrations
 
