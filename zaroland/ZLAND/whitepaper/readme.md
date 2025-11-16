@@ -44,6 +44,14 @@ The availability and legal status of ZLAND may vary across jurisdictions, and ac
 
 This whitepaper may be updated from time to time. Any such updates will be published in this repository.
 
+## 🎬 ZaroLand Concept Video
+
+ZLAND is the membership and utility token for the ZaroLand park ecosystem.  
+For a high-level visual overview of the **ZaroLand park concept itself**, see:
+
+[▶ ZaroLand – Where Nature Meets Imagination](https://youtu.be/PNYr03n4q6M?si=3H1OKb3llrOr0W-Y)
+
+
 ---
 
 ## 2. Introduction
