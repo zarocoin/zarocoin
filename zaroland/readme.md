@@ -27,6 +27,11 @@ ZaroLand is built to be:
 - **Globally scalable** – a model that can be replicated in multiple countries
 
 ---
+## 🎬 ZaroLand Overview Video
+
+Watch the ZaroLand concept video here (park-only, no token content):
+
+[▶ ZaroLand – Where Nature Meets Imagination](https://youtu.be/PNYr03n4q6M?si=3H1OKb3llrOr0W-Y)
 
 ## Relationship to ZaroVerse
 
