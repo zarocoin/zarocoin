@@ -1,6 +1,3 @@
-Here’s a `readme.md` you can drop into `docs/philosophy/`:
-
-```markdown
 # ZaroVerse Philosophy & Manifestos
 
 This folder hosts the core philosophical documents of the ZaroVerse ecosystem — why it exists, how it should be built, and the principles that guide every decision.
@@ -61,4 +58,3 @@ Use this document when you need guidance on *how* to act in alignment with ZaroV
 All future philosophy or manifesto-style documents should be added to this folder and linked from this `readme.md` for easy discovery.
 
 © 2025 ZaroVerse Ltd. – “Community First. Meme Forever.”
-```
