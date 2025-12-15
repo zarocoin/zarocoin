@@ -1,25 +1,24 @@
-# Security Incident Advisories
+# Security incident advisories
 
 This folder contains **public incident advisories** intended to:
 
 - warn potential victims
-- share **public-safe Indicators of Compromise (IOCs)**
+- share **public-safe indicators of compromise (iocs)**
 - support **lawful investigation** and responsible reporting
 - maintain a transparent, timestamped record of security events affecting the community
 
-## Active / Recent Incidents
+## active / recent incidents
 
-- **2025-12-11 — Malware-Based Compromise (Green Public Advisory)**  
-  `./2025-12-11-malware-compromise/readme.md`
+- **2025-12-11 — malware-based compromise (green public advisory)**
+  - advisory: [readme.md](./2025-12-11-malware-compromise/readme.md)
+  - iocs: [iocs.md](./2025-12-11-malware-compromise/iocs.md)
 
-  [2025-12-11 — Malware-Based Compromise (Green)](./2025-12-11-malware-compromise/readme.md)
-
-## Disclosure
+## disclosure
 
 These advisories are published in **layers**:
 
-- **Green** — minimal operational detail (safe for public distribution)
-- **Amber** — more technical detail (published only when safe)
-- **Red** — sensitive evidence (shared only with law enforcement / counsel / approved investigators)
+- **green** — minimal operational detail (safe for public distribution)
+- **amber** — more technical detail (published only when safe)
+- **red** — sensitive evidence (shared only with law enforcement / counsel / approved investigators)
 
 If you can assist responsibly, follow the instructions inside the specific incident folder.
