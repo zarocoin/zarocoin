@@ -10,7 +10,7 @@ This folder contains **public incident advisories** intended to:
 ## Active / Recent Incidents
 
 - **2025-12-11 — Malware-Based Compromise (Green Public Advisory)**  
-  `./2025-12-11-malware-compromise/README.md`
+  `./2025-12-11-malware-compromise/readme.md`
 
 ## Disclosure
 
