@@ -1,6 +1,6 @@
 ## Incident Advisories
-- [Incidents Index](./incidents/README.md)
-- [2025-12-11 — Malware-Based Compromise (Green)](./incidents/2025-12-11-malware-compromise/README.md)
+- [Incidents Index](./incidents/readme.md)
+- [2025-12-11 — Malware-Based Compromise (Green)](./incidents/2025-12-11-malware-compromise/readme.md)
 - 
 
 
