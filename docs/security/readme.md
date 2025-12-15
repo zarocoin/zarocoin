@@ -1,3 +1,9 @@
+## Incident Advisories
+- [Incidents Index](./incidents/README.md)
+- [2025-12-11 — Malware-Based Compromise (Green)](./incidents/2025-12-11-malware-compromise/README.md)
+- 
+
+
 # ZARO Smart Contract Security Profile & Transparency Report
 
 _Last Updated: July 15, 2025_
