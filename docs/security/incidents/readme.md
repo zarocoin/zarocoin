@@ -12,6 +12,8 @@ This folder contains **public incident advisories** intended to:
 - **2025-12-11 — Malware-Based Compromise (Green Public Advisory)**  
   `./2025-12-11-malware-compromise/readme.md`
 
+  [2025-12-11 — Malware-Based Compromise (Green)](./2025-12-11-malware-compromise/readme.md)
+
 ## Disclosure
 
 These advisories are published in **layers**:
