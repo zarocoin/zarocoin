@@ -17,7 +17,10 @@ Foundational settings, realms, and visual identity of ZaroVerse.
 The core beings that define ZaroVerse’s emotional and strategic conflict.  
 → [`03_CHARACTERS`](./03_CHARACTERS/README.md)
 
-- 04_POWERS_AND_MOVES
+### ⚡ Powers and Moves
+How power functions, drains, and costs in ZaroVerse.  
+→ [`04_POWERS_AND_MOVES`](./04_POWERS_AND_MOVES/README.md)
+
 - 05_THREATS
 - 06_MEMEWARS
 - 07_SEASON_01
