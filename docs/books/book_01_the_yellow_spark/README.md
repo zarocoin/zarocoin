@@ -24,8 +24,8 @@ The full book will be revealed once all chapters are published.
 
 ## Chapters
 
-1. Locked
-2. Locked
+1. The Spark
+2. The Hunt
 3. Locked
 4. Locked
 5. Locked
