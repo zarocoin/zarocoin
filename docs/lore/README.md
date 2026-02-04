@@ -1,14 +1,18 @@
 # ZaroVerse Lore (Public)
 
-Welcome to the public lore archive.
+Welcome to the public lore archive of ZaroVerse.
 
-## Sections
+This repository defines the **canonical foundation** of the universe.
 
-- [00_README](./00_README/README.md) — Start here
-- 01_CANON_LOCKS — What must never change (public-safe subset)
-- 02_WORLD_AND_REALMS — Worlds, realms, physics
-- 03_CHARACTERS — Character profiles (public-safe subset)
-- 04_POWERS_AND_MOVES — Powers (public-safe subset)
-- 05_THREATS — Threat taxonomy and mechanics (public-safe subset)
-- 06_MEMEWARS — MemeWars canon (public-safe subset)
-- 07_SEASON_01 — Episode/Chapter pages and references
+## Lore Sections
+
+- [00_README — Start Here](./00_README/README.md)
+- [01_CANON_LOCKS — Canon Rules](./01_CANON_LOCKS/README.md)
+- 02_WORLDS_AND_REALMS
+- 03_CHARACTERS
+- 04_POWERS_AND_MOVES
+- 05_THREATS
+- 06_MEMEWARS
+- 07_SEASON_01
+
+
