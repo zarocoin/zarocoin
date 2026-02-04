@@ -21,7 +21,10 @@ The core beings that define ZaroVerse’s emotional and strategic conflict.
 How power functions, drains, and costs in ZaroVerse.  
 → [`04_POWERS_AND_MOVES`](./04_POWERS_AND_MOVES/README.md)
 
-- 05_THREATS
+### ☣️ Threats
+The forces that pressure, invade, and test the universe.  
+→ [`05_THREATS`](./05_THREATS/README.md)
+
 - 06_MEMEWARS
 - 07_SEASON_01
 
