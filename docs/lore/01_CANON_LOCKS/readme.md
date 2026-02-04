@@ -1,17 +1,16 @@
-# Canon Locks — Core Rules of ZaroVerse
+# 01 — Canon Locks
 
-These documents define the **non-negotiable rules** of the ZaroVerse universe.
-They ensure consistency across stories, visuals, games, and future adaptations.
+Canon Locks define the **non-negotiable rules** of ZaroVerse.
 
 They are not spoilers.
-They are the physics of this universe.
+They are the physics of the universe.
 
-## Included Canon Locks
+## Canon Lock Documents
 
-- **Color Rules** — How identity and power are expressed visually
-- **Names & Terms** — Official terminology used across the universe
-- **Naming Evolution** — How places and systems earn their names
-- **Dome & Boundary Rules** — Zaro’s protection field logic
-- **MemeWars Rules** — Training world tone and structure
+1. [Color Rules](./01_COLOR_RULES.md)
+2. [Names and Terms](./02_NAMES_AND_TERMS.md)
+3. [Naming Evolution](./03_NAMING_EVOLUTION.md)
+4. [MemeWars Rules](./04_MEMEWARS_RULES.md)
+5. [Dome and Boundary Rules](./05_DOME_AND_BOUNDARY_RULES.md)
 
-If you are creating within ZaroVerse, these rules apply.
+If you create within ZaroVerse, these rules apply.
