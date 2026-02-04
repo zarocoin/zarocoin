@@ -13,7 +13,10 @@ This repository defines the **canonical foundation** of the universe.
 Foundational settings, realms, and visual identity of ZaroVerse.  
 → [`02_WORLD_AND_REALMS`](./02_WORLD_AND_REALMS/README.md)
 
-- 03_CHARACTERS
+### 🧍 Characters
+The core beings that define ZaroVerse’s emotional and strategic conflict.  
+→ [`03_CHARACTERS`](./03_CHARACTERS/README.md)
+
 - 04_POWERS_AND_MOVES
 - 05_THREATS
 - 06_MEMEWARS
