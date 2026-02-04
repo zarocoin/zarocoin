@@ -25,6 +25,9 @@ How power functions, drains, and costs in ZaroVerse.
 The forces that pressure, invade, and test the universe.  
 → [`05_THREATS`](./05_THREATS/README.md)
 
-- 06_MEMEWARS
+### 🕹️ MemeWars
+The team’s virtual training arena and future game foundation.  
+→ [`06_MEMEWARS`](./06_MEMEWARS/README.md)
+
 - 07_SEASON_01
 
