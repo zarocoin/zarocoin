@@ -1,50 +1,40 @@
+---
+title: "The Black Hole Realm"
+order: 3
+---
+
 # The Black Hole Realm
 
-## What It Is
+## What This Realm Is
 
-The Black Hole Realm is not a place you enter.
-It is a presence that notices.
+This realm is not like Earth or ARC. It is not a city or a planet. It feels like deep space where light is being pulled inward.
 
-It exists where:
-- gravity dominates
-- light bends inward
-- time stretches
+## The Black Hole (K Prime)
 
----
+The ruler presence of this realm is the Black Hole — like a living black hole. It does not need to shout to feel powerful. Its power is gravity, hunger, and silence.
 
-## How It Behaves
+## How It Looks
 
-The Black Hole does not attack.
-It observes.
+The Black Hole should feel like darkness that bends stars, a circle where nothing escapes, a rim that distorts light. Sometimes it may show a "gaze" or eye-like focus, but it stays mysterious in Season 1.
 
-When it notices:
-- motion slows
-- sound fades
-- environments feel hollow
+## Survival Rule
 
-It waits.
+The Black Hole survives by stealing light. If it cannot steal, it begins to fade and break apart. That makes it hungry and strategic.
 
----
+## Cosmic Fungus (The Ink)
 
-## Interaction With Light
+Cosmic Fungus is how the Black Hole reaches other worlds. It spreads like smoke, mold, spores, and crawling root threads. It tries to find light sources and drain them.
 
-Light is not destroyed immediately.
-It is:
-- stretched
-- bent
-- evaluated
+## Sense System
 
-Only sustained anomalies draw attention.
+The fungus is not only a weapon — it is also the Black Hole's senses. When the fungus touches a world, the Black Hole can feel what it feels. Like a nervous system across space.
 
----
+That is how the Black Hole knows where Zaro went, notices major signals, and reacts to events.
 
-## Why It Matters
+## Attention Moments
 
-The Black Hole Realm represents inevitability.
+The Black Hole's attention is shown with a rim flare, a slow pull ripple, or a subtle bend in background stars. It feels calm, but deadly.
 
-It is:
-- not evil
-- not good
-- not emotional
+## Why It Is Scary
 
-It is consequence.
+Because it is not just angry. It is patient. It waits and advances quietly. When it gets a path into another realm, it does not celebrate — it simply spreads.
