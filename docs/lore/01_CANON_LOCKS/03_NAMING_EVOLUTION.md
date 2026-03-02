@@ -1,39 +1,48 @@
 ---
-title: Naming Evolution
+title: "Naming Evolution"
 order: 3
 ---
 
 # Naming Evolution Rules (Canon Lock)
 
-Names in ZaroVerse may **evolve**, but never arbitrarily.
+Names evolve in ZaroVerse because the story evolves. That evolution is part of the realism and the magic.
 
-## How Names Change
+## The Greenbelt → ZaroLand
 
-A name may evolve only when:
-- The function of the entity changes
-- The perception of the entity changes
-- The role of the entity is redefined by consequence
+**Early:** The forest zone is called **The Greenbelt**. This is what normal humans would call it. It feels real and believable.
 
-## Evolution Pattern
+**Later:** After Zaro lives there and changes it — restoring the house, activating the dome, leaving Spark Dust traces, growing the tree — then Mina and Kai name it **ZaroLand**.
 
-1. Descriptive Phase  
-2. Shortened Usage  
-3. Canon Consolidation  
+ZaroLand is an earned name. Not a starting label.
 
-Once consolidated, the name is locked.
+## The Sim → MemeWars Arena
 
-## What Is Not Allowed
+**Early:** ARC-7 creates a sterile virtual system for training. He calls it **The Sim**. Designed for function, not style.
 
-- Marketing-driven renames
-- Cosmetic renaming for tone
-- Multiple coexisting “official” names
+**Later:** Mina and Kai mod it like gamers — adding stages, lighting, music, fighting game vibes, UI flair. They rebrand it **MemeWars Arena**.
 
-## Narrative Weight
+MemeWars is not a joke. It is the team's arena name. It becomes a franchise pillar and future game world.
 
-Name evolution is treated as:
-- A recorded event
-- A signal of growth or fracture
-- A canon milestone
+## Cosmic Fungus vs. "The Ink"
 
-Names carry history.  
-History is not rewritten lightly.
+- **Official technical name** (on screens): Cosmic Fungus
+- **Casual human nickname**: The Ink
+
+It looks like ink, smoke, stain, mold. The nickname is simple and fast for dialogue.
+
+It is NOT "pen magic" or "drawing powers." It is alive fungus-like spread. It steals by draining, threading, and pulling light.
+
+## The Black Hole vs. "K Prime"
+
+- **Villain presence name**: The Black Hole
+- **Prime system label**: K Prime
+
+"Black Hole" is what characters say on Earth and ARC side. "K Prime" is what lore and system files may call it in analysis.
+
+We do NOT use "The Void" as the villain name.
+
+## General Rules
+
+- We call the first full season **Season 1** (not Season 0)
+- We use simple words that work globally
+- Hard science can exist in the background, but dialogue stays clean and easy

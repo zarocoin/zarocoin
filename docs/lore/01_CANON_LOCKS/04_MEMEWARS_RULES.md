@@ -1,36 +1,36 @@
 ---
-title: MemeWars Rules
+title: "MemeWars Rules"
 order: 4
 ---
 
 # MemeWars Rules (Canon Lock)
 
-MemeWars is a **contained training realm**, not chaos.
+MemeWars is a virtual training world created by ARC-7. He builds the base simulation. Mina and Kai later enhance it, style it, and name it "MemeWars."
 
-## Purpose of MemeWars
+## Tone Rule
 
-- Stress-testing ideas
-- Training reactions
-- Controlled absurdity
+MemeWars backgrounds must NOT be cute or happy. They must feel intense and serious, like a fighting game arena. Dark mood, heavy sound, high focus.
 
-## Rules of Engagement
+## Visual Rule
 
-- Events inside MemeWars do not automatically affect core canon
-- Characters retain identity but operate under loosened constraints
-- Outcomes are symbolic unless elevated to canon explicitly
+Every MemeWars arena must feel like a game stage:
+- Clear fight floor
+- Deep background with atmosphere
+- Fog, rain, steam, sparks, or distortion
+- Strong lighting and shadows
 
-## Tone Rules
+## Sound Rule
 
-- Humor is allowed
-- Mockery is allowed
-- Nihilism is not allowed
+MemeWars sound must feel like a game: clean hit sounds, heavy thunks for blocks, rising charge tones, sharp release tones. Music is dark and driving, not cheerful.
 
-## Canon Boundary
+## System Voice Rule
 
-MemeWars content becomes canon only when:
-- Referenced outside MemeWars
-- Affects a locked system
-- Leaves a persistent mark
+If a voice is used, it must be cold and minimal. Examples: READY. BEGIN. CLEAR. No jokes. No cute lines.
 
-MemeWars is play —  
-but play with rules.
+## Purpose Rule
+
+MemeWars is for training and skill growth. It does not solve real-world threats. It builds timing, teamwork, movement, and stamina control.
+
+## Port-to-Game Rule
+
+MemeWars arenas and move logic must be designed so they can be reused later as real game stages and real game mechanics.
