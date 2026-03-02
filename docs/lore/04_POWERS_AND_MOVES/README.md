@@ -1,12 +1,13 @@
+---
+title: "Powers and Moves"
+---
+
 # Powers and Moves
 
-This section defines how power works in ZaroVerse.
+This section defines how power works in ZaroVerse. It emphasizes:
+- Limits
+- Cost
+- Restraint
+- Emotional consequence
 
-It emphasizes:
-- limits
-- cost
-- restraint
-- emotional consequence
-
-No power is infinite.
-Every surge has a price.
+No power is infinite. Every surge has a price.
