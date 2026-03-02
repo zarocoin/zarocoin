@@ -1,10 +1,10 @@
+---
+title: "MemeWars"
+---
+
 # MemeWars
 
-MemeWars is the team’s training ground.
-
-It is intense, structured, and unforgiving.
-Mistakes are allowed.
-Recklessness is not.
+MemeWars is the team's training ground. It is intense, structured, and unforgiving. Mistakes are allowed. Recklessness is not.
 
 ## This Section Covers
 
