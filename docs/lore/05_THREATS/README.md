@@ -1,9 +1,10 @@
+---
+title: "Threats"
+---
+
 # Threats
 
-Threats in ZaroVerse are patient, intelligent, and invasive.
-
-They do not rush.
-They wait for weakness.
+Threats in ZaroVerse are patient, intelligent, and invasive. They do not rush. They wait for weakness.
 
 ## This Section Covers
 
@@ -11,5 +12,4 @@ They wait for weakness.
 - How threats escalate
 - Trojan logic and internal danger
 
-Victory is possible.
-Safety is never guaranteed.
+Victory is possible. Safety is never guaranteed.
