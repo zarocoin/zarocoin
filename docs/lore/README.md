@@ -40,4 +40,3 @@ The team’s virtual training arena and future game foundation.
 → [`06_MEMEWARS`](./06_MEMEWARS/README.md)
 
 
-
