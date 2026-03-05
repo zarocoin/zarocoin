@@ -6,7 +6,7 @@ Chapters are published sequentially.
 
 - Chapter files will be named:
   - `01_the_spark.md`
-  - `02_the_hunt.md`
+  - `02_building.md`
   - …
   - `10_[title].md`
 
