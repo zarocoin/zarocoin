@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "videos": [
+    {
+      "slug": "B01_F01_the_pursuit",
+      "book": 1,
+      "frame": 1,
+      "chapter": 1,
+      "title": "The Pursuit",
+      "tagline": "SOMETHING ANCIENT FOLLOWS",
+      "headline": "Something fell.",
+      "description": "The Container streaks through space, glowing with golden light. Behind it, darkness spreads like silence.",
+      "excerpt": "",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "slug": "B01_F02_atmospheric_overheat",
+      "book": 1,
+      "frame": 2,
+      "chapter": 1,
+      "title": "Atmospheric Overheat",
+      "tagline": "HEAT AND FURY",
+      "headline": "It burned on the way down.",
+      "description": "Entering Earth's atmosphere. The Container burns but holds. The Ink won't stop.",
+      "excerpt": "",
+      "featured": true,
+      "order": 2
+    },
+    {
+      "slug": "B01_F03_impact",
+      "book": 1,
+      "frame": 3,
+      "chapter": 1,
+      "title": "Impact",
+      "tagline": "THE ARRIVAL",
+      "headline": "The forest remembered.",
+      "description": "Golden light explodes through the forest. Trees bend. The ground shakes. Something has arrived.",
+      "excerpt": "",
+      "featured": true,
+      "order": 3
+    },
+    {
+      "slug": "B01_F04_the_silence",
+      "book": 1,
+      "frame": 4,
+      "chapter": 1,
+      "title": "The Silence",
+      "tagline": "WAITING",
+      "headline": "Then — nothing.",
+      "description": "The forest holds its breath. The Container sits in its crater, glowing softly. Particles drift upward like dying embers.",
+      "excerpt": "",
+      "featured": true,
+      "order": 4
+    },
+    {
+      "slug": "B01_F05_the_wrongness",
+      "book": 1,
+      "frame": 5,
+      "chapter": 1,
+      "title": "The Wrongness",
+      "tagline": "DARKNESS APPROACHES",
+      "headline": "Almost the same.",
+      "description": "The same forest. The same light. But something has shifted. In the deep background — dark nodes, perfectly still.",
+      "excerpt": "",
+      "featured": true,
+      "order": 5
+    }
+  ]
+}
