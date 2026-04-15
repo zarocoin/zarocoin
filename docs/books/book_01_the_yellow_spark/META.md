@@ -4,7 +4,7 @@ series: zaroverse_books
 title: "The Yellow Spark"
 book_number: 1
 total_chapters: 10
-published_chapters: 1
+published_chapters: 2
 status: "publishing"
 reveal_full_book: false
 default_route: "/book/the-yellow-spark"

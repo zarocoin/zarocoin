@@ -15,7 +15,7 @@ The story is released one chapter at a time.
 ## Release Status
 
 - Total chapters: 10
-- Published chapters: 1
+- Published chapters: 2
 - Current state: Publishing
 
 The full book will be revealed once all chapters are published.
@@ -25,7 +25,7 @@ The full book will be revealed once all chapters are published.
 ## Chapters
 
 1. The Spark ✦
-2. Building
+2. Building ✦
 3. Locked
 4. Locked
 5. Locked
