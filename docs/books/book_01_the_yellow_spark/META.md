@@ -8,6 +8,7 @@ published_chapters: 2
 status: "publishing"
 reveal_full_book: false
 default_route: "/book/the-yellow-spark"
+podcast_url: "https://open.spotify.com/show/3BDL4G1sicP3D8YtQJlp4s"
 ---
 
 Book One of ZaroVerse.
