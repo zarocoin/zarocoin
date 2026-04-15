@@ -34,6 +34,28 @@ Zaro's iconic look is bright yellow. He is warm, expressive, curious, and teen-l
 
 Zaro is not a normal animal. He is a spark-being. On Earth, the spark becomes a form humans can understand.
 
+## Body as Chosen Form
+
+Zaro's physical body is not an accident of Earth's environment. It is a choice.
+
+When he arrived, he selected his form deliberately — small, mammalian, warm to the touch. Something that reads as non-threatening. Something that could be trusted before it was understood. He didn't land and transform randomly. He decided.
+
+The body responds to his energy state. At full charge, it is solid and defined. When he is drained, the edges thin — the outline softens, his silhouette blurs slightly, as if the body is being conserved rather than maintained. The form holds longest at the core. The edges go first.
+
+This is not a flaw. It is information. When Zaro's outline starts to blur, something is wrong.
+
+## Solar Charge and Sleep
+
+Zaro runs on light.
+
+Daylight is live input — as long as he is in direct or ambient sunlight, he is receiving. His energy holds steadier in daylight hours. He can still drain from overuse, but the sun offsets the cost.
+
+At night, that input stops. He runs on stored charge only. What he spent during the day doesn't come back until morning. This makes nighttime operations genuinely more dangerous for him — not just narratively, but mechanically.
+
+Sleep is conservation, not rest. When Zaro goes still and dims in the evening, he is not "resting" the way humans mean it. He is reducing output to near-zero to protect his reserve. He doesn't dream. He just... holds.
+
+He wakes with whatever he saved. He starts the day brighter if he was careful the night before.
+
 ## Home Life
 
 Zaro's home is in The Greenbelt (forest outside the city). He finds an abandoned old house and restores it using his light: warming wood, sealing cracks, clearing dust, making it cozy and safe.
