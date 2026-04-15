@@ -5,6 +5,7 @@ title: "The Spark"
 slug: "the-spark"
 status: "published"
 audio_available: true
+podcast_url: "https://open.spotify.com/episode/0mvEaCxQqL7lKrORz7oyRI?si=10b3e3c820d64a52"
 estimated_read_time: 18
 ---
 
@@ -12,7 +13,7 @@ estimated_read_time: 18
 
 ✦ ✦ ✦
 
-## Black.
+**Black.**
 
 Not the kind you get when someone turns off the lights. That kind has walls behind it, a floor underneath, a switch you could reach for if you tried.
 
@@ -76,7 +77,7 @@ A quiet place. The kind that has been quiet for so long it has forgotten what no
 
 ✦ ✦ ✦
 
-## Impact.
+**Impact.**
 
 For one heartbeat the world turns white-gold — every tree a black cutout, every leaf a frozen diagram, every blade of grass casting a shadow as sharp as a blade. The shockwave rolls through the canopy the way a stone rolls through still water, bending trunks, scattering birds, pushing the night outward as if darkness weighs nothing at all.
 
@@ -100,7 +101,7 @@ The crater smokes. Shell fragments lie scattered, their geometric lines dimmed a
 
 *And in the center — one object.*
 
-## A Seed Core.
+**A Seed Core.**
 
 Small enough to fit in a cupped palm. Smooth. Round like a river stone shaped by something more patient than water. Heavy in a way that has nothing to do with size and everything to do with what it holds.
 
@@ -234,7 +235,7 @@ Ten seconds. Twenty. The silence outside pressed closer.
 
 *Then —*
 
-## Warmth.
+**Warmth.**
 
 Not from him. From the Core. A warmth rising to meet his — faint, uncertain, like a pulse that wasn't sure it was allowed to beat.
 
@@ -360,7 +361,7 @@ The warmth pushed outward before he chose to push it — instinct deeper than de
 
 A clean, decisive click. Not mechanical. *Structural.* The sound a puzzle makes when the last piece finds its place. The shimmer settled into something invisible but absolute — a boundary, a line in the air between here and there, between warm and not.
 
-## A dome.
+**A dome.**
 
 Zaro blinked. His hands were still raised. He hadn't known he could do this. He hadn't known he would. But his body knew, the way bodies know to flinch before the mind registers danger, and the dome was here and it was real and when he touched the air near the window, warm resistance met his fingers — gentle, firm, alive.
 
@@ -491,12 +492,4 @@ Inside, the Seed Core pulsed beneath the floor.
 
 Between them — a dome made of warmth and will and a cost Zaro couldn't calculate yet, humming steady, holding the line between a small warm room and a very large, very patient dark.
 
-"Okay," Zaro said to the empty cabin, to the glowing Core beneath the floor, to the warm walls, to the dome, to himself, to whatever was listening outside that he couldn't see. "Okay."
-
-**The dome held.**
-
-**The dark waited.**
-
-✦ ✦ ✦
-
-*END OF CHAPTER 1*
+"Okay," Zaro said to the empty cabin, to the glowing Core beneath the

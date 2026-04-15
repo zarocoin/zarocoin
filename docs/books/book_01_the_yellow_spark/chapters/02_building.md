@@ -4,11 +4,12 @@ chapter: 2
 title: "Building"
 slug: "building"
 status: "published"
-audio_available: false
+audio_available: true
+podcast_url: "https://open.spotify.com/episode/3jg6UF8wr4PWw52fp6gIeN?si=cfa90b9cd8f44ded"
 estimated_read_time: 23
 ---
 
-CHAPTER 2 — BUILDING
+# CHAPTER 2 — BUILDING
 
 ✦ ✦ ✦
 
@@ -42,7 +43,7 @@ He wasn't sure if it had worked. There was no one here to be afraid of him yet.
 
 The floorboard under his feet pulsed.
 
-Amber. Slow. Patient.
+*Amber. Slow. Patient.*
 
 He pressed a toe against it. "Still there?"
 
@@ -100,9 +101,9 @@ The soil there was different. Darker. Richer. Threaded with gold where the Spark
 
 He pressed his palm flat against it.
 
-Warm.
+*Warm.*
 
-Not from the sun. From below.
+*Not from the sun. From below.*
 
 He sat back on his heels.
 
@@ -144,7 +145,7 @@ The ground in front of his knees lit up.
 
 A thin line of gold raced through the dirt, bright enough to glow through the soil from underneath. It branched. Branched again. Two threads of light became four, became eight, racing outward from the crater in every direction like cracks of lightning frozen mid-strike — except they were *under* the ground, lighting up the Spark Dust embedded in the earth in sequence, one patch then the next then the next, faster than he could follow.
 
-The whole crater bloomed.
+**The whole crater bloomed.**
 
 For one long second the ground at his knees was a glowing map — every grain of Spark Dust answering the call, the soil itself awake, the gold lines spreading outward past the boundary of the crater and into the soil of the clearing, racing toward the edge of the tree line.
 
@@ -154,7 +155,7 @@ Then they steadied.
 
 Then they faded back down into the dirt, leaving the soil ordinary again, except now Zaro could feel the difference under his palms. The roots were there. He couldn't see them anymore, but he knew where they were. The Seed Core had reached out through the earth and found what it needed and connected.
 
-It was rooted now.
+*It was rooted now.*
 
 His hands stayed flat against the warm dirt for a long time before he could move them.
 
@@ -172,7 +173,7 @@ He stood. Brushed the soil from his palms.
 
 Then, as he turned back toward the cabin, he stopped.
 
-Something at the tree line.
+*Something at the tree line.*
 
 Not a sound. Not a movement he could point to. A presence. The feeling of being watched by something that wasn't in a hurry and wasn't going to show itself. The back of his neck knew it before the rest of him did.
 
@@ -220,7 +221,7 @@ The sun was on him through the open door. The light was coming in and the warmth
 
 He understood something, even if he couldn't quite say it in words.
 
-In the daylight, with the sun on him, the small work was free.
+*In the daylight, with the sun on him, the small work was free.*
 
 Not free-free. He could feel that if he pushed harder, faster, bigger — it would tip. But a wall at a time, a board at a time, slow and careful — the sun was paying for it.
 
@@ -236,9 +237,9 @@ He stood in the middle of the main room and looked at what he'd done. The walls 
 
 He pressed a thumb to the lamp's base. Let the smallest trickle of warmth down into whatever was left of the bulb.
 
-The light came on.
+**The light came on.**
 
-Amber. Steady. The same color the Seed Core had found last night.
+*Amber. Steady. The same color the Seed Core had found last night.*
 
 Zaro looked at it for a long moment.
 
@@ -258,7 +259,7 @@ She lowered her head again and went back to eating.
 
 Zaro stood in the doorway and watched her for a long time.
 
-The first living thing in this world that had seen him and stayed.
+*The first living thing in this world that had seen him and stayed.*
 
 He didn't say anything to her. He was afraid if he moved, she'd leave. So he just stood there and let her be a deer, and let himself be whatever she thought he was, until she finally wandered off into the trees on her own time and took some small piece of the day with her.
 
@@ -278,7 +279,7 @@ He felt it go — pushing slowly outward, past the porch, past the clearing, rea
 
 For a second it was beautiful. The whole safe space growing. The tree coming inside the circle.
 
-Then the trouble started.
+**Then the trouble started.**
 
 His hands started to feel light.
 
@@ -296,7 +297,7 @@ He understood, all at once, what was happening.
 
 The dome was too big. He was making more dome than the sun could pay for. The extra was coming out of *him*. Out of his shape. Out of whatever held the yellow together in the form of a small thing standing in a doorway.
 
-If he held it longer, he would come apart.
+*If he held it longer, he would come apart.*
 
 He let go.
 
@@ -352,7 +353,7 @@ A feather he didn't know the bird for, long and cream-colored and faintly barred
 
 None of them were anything.
 
-Arranged on the shelf, in the morning light, they were everything.
+*Arranged on the shelf, in the morning light, they were everything.*
 
 He stood in front of them on the fourth morning and understood, without having the words ready, that these were the first things in this world that were his because he had chosen them.
 
@@ -426,7 +427,7 @@ He knelt. Put his hands against the wood.
 
 Again.
 
-Not the same word as giving up. A different word, that sounded like giving up, but meant something else.
+*Not the same word as giving up. A different word, that sounded like giving up, but meant something else.*
 
 He worked slower this time. Less force. Less sure of himself. More patient with the fact that wood this old wasn't going to be fixed in one pass.
 
@@ -460,7 +461,7 @@ Her bedroom was the kind of bedroom parents don't fully understand. Circuit boar
 
 Her mother thought she was doing a school project. Her father thought she was building a quadcopter for the science fair. Both of those things were technically true. Neither of them was what she was actually doing.
 
-She was hunting.
+**She was hunting.**
 
 The controller in her hands was the same model her cousin had bought her two birthdays ago — except hers no longer looked the way it had when she'd unwrapped it. The grips were wrapped in athletic tape. A small metal heat sink was glued to the side, because she'd burned out the original one pushing the unit harder than its manufacturer had ever planned for. Two extra switches sat below the standard sticks, wired in by hand. Her thumbprints had worn shiny patches into the plastic where her hands lived.
 
@@ -500,9 +501,9 @@ She ran the math.
 
 If she reversed the rotor hard enough to free the propeller, the arm might snap. If the arm snapped, the drone would fall thirty feet onto roots and stone. The chassis was custom. The sensor array was custom. She'd spent three weeks getting it right with a borrowed oscilloscope and a lot of coffee.
 
-The numbers said wait.
+*The numbers said wait.*
 
-Her hands said now.
+*Her hands said now.*
 
 She didn't know why her hands said now. Her hands were sometimes wrong. But they were right often enough that she'd learned to listen to them when the numbers were close.
 
@@ -510,7 +511,7 @@ She pulsed the rear rotor at seventy percent.
 
 The drone shook. The propeller scraped against bark — an ugly sound through the feed, the kind of sound that makes you wince before you even think. Then it caught air.
 
-Free.
+**Free.**
 
 She brought it down in a slow drift, cleared the branch by inches, and put it down soft in a clearing fifty meters from the logging road.
 
@@ -526,7 +527,7 @@ The signal was still there. It hadn't moved. It hadn't cared that she'd almost l
 
 She zoomed in.
 
-There was something inside the signal she hadn't seen before. A thread of gold in the readings — not a color, the data wasn't colored, but that was the word that landed in her head when she looked at it. Gold. Warm. A signal inside the signal.
+There was something inside the signal she hadn't seen before. A thread of gold in the readings — not a color, the data wasn't colored, but that was the word that landed in her head when she looked at it. *Gold. Warm. A signal inside the signal.*
 
 She stared at it.
 
@@ -740,7 +741,7 @@ She closed the folder.
 
 She opened the signal readout instead. The thread of gold was still there. Small. Warm. Waiting.
 
-Somewhere out in the Greenbelt, fifty miles away and a little northwest of anywhere anyone had ever thought to look, something was making a signal that did not match any known thing in the world.
+*Somewhere out in the Greenbelt, fifty miles away and a little northwest of anywhere anyone had ever thought to look, something was making a signal that did not match any known thing in the world.*
 
 She stared at the warm spot on the cold map for a long time.
 
