@@ -112,7 +112,7 @@ Her arc in Book 2 (high level):
 ### VISUAL IDENTITY
 
 
-MATERIAL LANGUAGE: AURORA (LOCKED — April 2026)
+## MATERIAL LANGUAGE: AURORA (LOCKED — April 2026)
 
 Magenta is AURORA — atmospheric sky-light. Beautiful instability.
 The sky misbehaving. Light refusing to stay in line. Twisting,
@@ -153,7 +153,7 @@ TRIO FUNCTION:
 - Without her, they stabilize. With her, they transform.
 - She breaks stagnation — Zaro can be too trusting, ARC-7 too rigid.
 
-See PRIME MATERIAL FRAMEWORK in 03_CHARACTERS/CHARACTER_VISUAL_REFERENCE.md
+## See PRIME MATERIAL FRAMEWORK in 03_CHARACTERS/CHARACTER_VISUAL_REFERENCE.md
 
 
 ### MAGENTA AND OTHER CHARACTERS

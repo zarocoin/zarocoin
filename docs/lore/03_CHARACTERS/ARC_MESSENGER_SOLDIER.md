@@ -50,7 +50,7 @@ WHAT A MESSENGER SOLDIER IS NOT
 - Not a Prime wielder. They do not create combination colors. Their teal
   is structural, not creative.
 
-INFECTION CANON (THE INK — LOCKED)
+## INFECTION CANON (THE INK — LOCKED)
 
 When a Messenger Soldier is infected by the Ink, the visual signature
 corrupts subtly — not dramatically. The Ink hides inside its host the
@@ -58,7 +58,7 @@ same way it hides inside the amber crystal Trojan: as MARBLING. Natural-
 looking veins inside a natural-looking feature. That's the Ink's rule —
 it camouflages, even when it's wearing a body.
 
-THE RULE: TEAL STILL GLOWS. THE INK RUNS THROUGH IT.
+## THE RULE: TEAL STILL GLOWS. THE INK RUNS THROUGH IT.
 
 Eyes:
 - Whole-eye teal glow remains. Maybe slightly dimmer, slightly less
@@ -107,7 +107,7 @@ INFECTION PROGRESSION (if ever depicted in ramp):
 - FULL (Ch10): heavy kohl rim, marbling visible on seams / core / plating.
   The teal "self" is still there but now fully framed by ink.
 
-THE HOST IS STILL INSIDE. THE BODY IS STILL RESCUABLE. THE INK IS NOT.
+## THE HOST IS STILL INSIDE. THE BODY IS STILL RESCUABLE. THE INK IS NOT.
 
 EXTRACTION VISUAL (Amplified Verdant Seal, Ch10):
 When the Amplified Verdant Seal hits, the marbling PULLS OUT through

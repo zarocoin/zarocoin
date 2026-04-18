@@ -1,6 +1,6 @@
 # CHAPTER 2 BUILDING
 
-CHAPTER 2 — BUILDING
+## CHAPTER 2 — BUILDING
 
 
 The sun found him first.
@@ -747,4 +747,4 @@ Then she went downstairs.
 
 ✦ ✦ ✦
 
-END OF CHAPTER 2
+## END OF CHAPTER 2

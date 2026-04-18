@@ -1,6 +1,6 @@
 # CHAPTER 1 — THE SPARK
 
-CHAPTER 1 — ARRIVAL
+## CHAPTER 1 — ARRIVAL
 
 ✦ ✦ ✦
 
@@ -491,4 +491,4 @@ The dark waited.
 
 ✦ ✦ ✦
 
-END OF CHAPTER 1
+## END OF CHAPTER 1

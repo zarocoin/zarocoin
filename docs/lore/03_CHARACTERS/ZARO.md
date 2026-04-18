@@ -23,7 +23,7 @@ He is warm, expressive, curious, and teen-like.
 He speaks like a teenager (not baby talk).
 His eyes show wonder and frustration and stubborn courage.
 
-CINEMATIC VISUAL RULES (v2.1 — April 2026) — SKIN REGISTER
+## CINEMATIC VISUAL RULES (v2.1 — April 2026) — SKIN REGISTER
 
 Positioning line: "A tiny living lantern trying very hard to stay brave."
 

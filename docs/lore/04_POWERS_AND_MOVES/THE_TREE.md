@@ -32,7 +32,7 @@ It becomes the first tree. The main tree. The only tree in Book 1.
 ## 2. LOCATION (PERMANENT RULE — LOCKED)
 
 
-THE TREE IS ALWAYS OUTSIDE THE DOME.
+## THE TREE IS ALWAYS OUTSIDE THE DOME.
 
 This is not a story beat. It is a structural fact from day one.
 
@@ -289,7 +289,7 @@ The tree is proof that scars can glow.
 ## 8a. MAGENTA'S BEAM — THE SECRET INGREDIENT (LOCKED — April 2026)
 
 
-TWO SIGNALS GO TO SPACE IN BOOK 1:
+## TWO SIGNALS GO TO SPACE IN BOOK 1:
 
 SIGNAL 1 (Ch5): NOT OVER beam. Raw, desperate, unfocused. Fires upward from the
 Seed Core after Zaro carves the symbol. ARC-7 detects it immediately (he's close,

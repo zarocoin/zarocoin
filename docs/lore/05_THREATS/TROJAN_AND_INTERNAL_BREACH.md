@@ -29,7 +29,7 @@ Both make the same mistake. Nobody is safe from their own blind spots.
 Zaro brings something inside the dome that carries dormant fungus.
 The fungus activates inside the dome's safe zone.
 
-THE TROJAN OBJECT (LOCKED): THE AMBER CRYSTAL
+## THE TROJAN OBJECT (LOCKED): THE AMBER CRYSTAL
 
 What it is:
 - A translucent amber crystal, naturally beautiful
