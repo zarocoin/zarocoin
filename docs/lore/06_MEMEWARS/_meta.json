@@ -1,8 +1,6 @@
 {
   "title": "MemeWars",
   "order": [
-    "MEMEWARS_ARENA_BIBLE.md",
-    "MEMEWARS_STAGE_CARDS.md",
-    "MEMEWARS_TRAINING_SYSTEM.md"
+    "MEMEWARS_STAGE_CARDS.md"
   ]
 }

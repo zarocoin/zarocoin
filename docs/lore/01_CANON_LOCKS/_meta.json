@@ -1,21 +1,10 @@
 {
-  "title": "Canon Locks",
+  "title": "Canon Rules",
+  "description": "The rules that shape the ZaroVerse — the colors, the primes, the fruit, the names.",
   "order": [
-    "COLOR_RULES_LOCK.md",
     "CMYK_PRIME_SYSTEM_LOCK.md",
-    "NAMES_AND_TERMS_LOCK.md",
-    "NAMING_EVOLUTION_RULES_LOCK.md",
     "POWER_RULES_LOCK.md",
-    "DOME_AND_BOUNDARY_RULES_LOCK.md",
-    "NOT_OVER_SIGNAL_RULES_LOCK.md",
-    "MEMEWARS_RULES_LOCK.md",
     "FRUIT_RULES_LOCK.md",
-    "STINGER_RULES_LOCK.md",
-    "REVEAL_TIMING_LOCK.md",
-    "VISUAL_DESIGN_LOCK.md",
-    "ZARO_ORIGIN_MYSTERY_LOCK.md",
-    "QR_CANON.md",
-    "UI_WORDS_DICTIONARY.md",
-    "VOCAB_SIMPLE_RULES.md"
+    "NAMES_AND_TERMS_LOCK.md"
   ]
 }

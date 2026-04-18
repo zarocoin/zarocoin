@@ -1,9 +1,6 @@
 {
   "title": "Start Here",
   "order": [
-    "ZAROVERSE_PROJECT_OVERVIEW.md",
-    "ZAROVERSE_CREATOR_PROMISE_AND_CORE_PHILOSOPHY.md",
-    "TONE_AND_RATING_GUIDE.md",
     "ZARO_COIN_AND_TOKEN.md"
   ]
 }
