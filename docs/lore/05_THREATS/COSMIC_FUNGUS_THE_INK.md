@@ -207,7 +207,7 @@ The Ink's implicit philosophy:
 "Everything ends. Everything is consumed. Growth is temporary.
 Light is fuel, not meaning. Why do you resist what is inevitable?"
 
-HOW THE INK EXPRESSES THIS:
+## HOW THE INK EXPRESSES THIS:
 
 MOMENT 1 — THE PERFECT COPY (Ch6-7)
 After breaching the dome, the Ink doesn't just destroy.

@@ -46,7 +46,7 @@ It is a major system break.
 
 Overclock happens when ARC-7 pushes past safe limits.
 
-OVERCLOCK PROGRESSION (v2.2 — LOCKED April 2026):
+## OVERCLOCK PROGRESSION (v2.2 — LOCKED April 2026):
 
 SEMI-OVERCLOCK:
 - Energy lines pulse faster, brighter. Teal lightning leaks from joints.
