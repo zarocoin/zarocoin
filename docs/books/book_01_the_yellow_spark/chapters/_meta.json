@@ -2,32 +2,36 @@
   "title": "Chapters",
   "order": [
     "CHAPTER_1_THE_SPARK.md",
-    "CHAPTER_2_BUILDING.md"
+    "CHAPTER_2_BUILDING.md",
+    "CHAPTER_3_EXPEDITION.md",
+    "CHAPTER_4_FIRST_CONTACT.md",
+    "CHAPTER_5_NOT_OVER.md",
+    "CHAPTER_6_ARC7_ARRIVES.md",
+    "CHAPTER_7_THE_SIM_ARENA.md",
+    "CHAPTER_8_DISCOVERY.md",
+    "CHAPTER_9_THE_BATTLE.md",
+    "CHAPTER_10_THE_SIGNAL.md"
   ],
   "chapters": {
     "CHAPTER_1_THE_SPARK.md": {
       "number": 1,
       "title": "The Spark",
       "status": "published",
-      "rawUrl": "https://raw.githubusercontent.com/zarocoin/zarocoin/main/docs/books/book_01_the_yellow_spark/chapters/CHAPTER_1_THE_SPARK.md",
-      "podcastUrl": "https://www.dropbox.com/scl/fi/placeholder/Chapter_1_The_Arrival_of_Yellow_Prime_Zaro.m4a"
+      "podcastUrl": ""
     },
     "CHAPTER_2_BUILDING.md": {
       "number": 2,
       "title": "Building",
       "status": "published",
-      "rawUrl": "https://raw.githubusercontent.com/zarocoin/zarocoin/main/docs/books/book_01_the_yellow_spark/chapters/CHAPTER_2_BUILDING.md",
       "podcastUrl": ""
     },
-    "_locked": {
-      "3": { "number": 3, "title": "Expedition", "status": "locked" },
-      "4": { "number": 4, "title": "First Contact", "status": "locked" },
-      "5": { "number": 5, "title": "NOT OVER", "status": "locked" },
-      "6": { "number": 6, "title": "ARC-7 Arrives", "status": "locked" },
-      "7": { "number": 7, "title": "The Sim Arena", "status": "locked" },
-      "8": { "number": 8, "title": "Discovery", "status": "locked" },
-      "9": { "number": 9, "title": "The Battle", "status": "locked" },
-      "10": { "number": 10, "title": "The Signal", "status": "locked" }
-    }
+    "CHAPTER_3_EXPEDITION.md": { "number": 3, "title": "Expedition", "status": "locked" },
+    "CHAPTER_4_FIRST_CONTACT.md": { "number": 4, "title": "First Contact", "status": "locked" },
+    "CHAPTER_5_NOT_OVER.md": { "number": 5, "title": "NOT OVER", "status": "locked" },
+    "CHAPTER_6_ARC7_ARRIVES.md": { "number": 6, "title": "ARC-7 Arrives", "status": "locked" },
+    "CHAPTER_7_THE_SIM_ARENA.md": { "number": 7, "title": "The Sim Arena", "status": "locked" },
+    "CHAPTER_8_DISCOVERY.md": { "number": 8, "title": "Discovery", "status": "locked" },
+    "CHAPTER_9_THE_BATTLE.md": { "number": 9, "title": "The Battle", "status": "locked" },
+    "CHAPTER_10_THE_SIGNAL.md": { "number": 10, "title": "The Signal", "status": "locked" }
   }
 }
