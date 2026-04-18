@@ -1,0 +1,14 @@
+{
+  "title": "Books",
+  "order": ["book_01_the_yellow_spark"],
+  "books": {
+    "book_01_the_yellow_spark": {
+      "slug": "the-yellow-spark",
+      "title": "The Yellow Spark",
+      "bookNumber": 1,
+      "author": "Shihab Khalil",
+      "totalChapters": 10,
+      "publishedChapters": 2
+    }
+  }
+}
