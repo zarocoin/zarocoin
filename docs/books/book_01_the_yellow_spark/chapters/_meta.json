@@ -17,13 +17,15 @@
       "number": 1,
       "title": "The Spark",
       "status": "published",
-      "podcastUrl": "https://youtu.be/L3A3z2yHYw0"
+      "podcastSpotifyUrl": "https://open.spotify.com/episode/0mvEaCxQqL7lKrORz7oyRI",
+      "podcastYouTubeUrl": "https://youtu.be/L3A3z2yHYw0"
     },
     "CHAPTER_2_BUILDING.md": {
       "number": 2,
       "title": "Building",
       "status": "published",
-      "podcastUrl": "https://youtu.be/zFEFKZOl2I4"
+      "podcastSpotifyUrl": "https://open.spotify.com/episode/3jg6UF8wr4PWw52fp6gIeN",
+      "podcastYouTubeUrl": "https://youtu.be/zFEFKZOl2I4"
     },
     "CHAPTER_3_EXPEDITION.md": { "number": 3, "title": "Expedition", "status": "locked" },
     "CHAPTER_4_FIRST_CONTACT.md": { "number": 4, "title": "First Contact", "status": "locked" },
