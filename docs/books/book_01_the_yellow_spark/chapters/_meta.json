@@ -1,0 +1,33 @@
+{
+  "title": "Chapters",
+  "order": [
+    "CHAPTER_1_THE_SPARK.md",
+    "CHAPTER_2_BUILDING.md"
+  ],
+  "chapters": {
+    "CHAPTER_1_THE_SPARK.md": {
+      "number": 1,
+      "title": "The Spark",
+      "status": "published",
+      "rawUrl": "https://raw.githubusercontent.com/zarocoin/zarocoin/main/docs/books/book_01_the_yellow_spark/chapters/CHAPTER_1_THE_SPARK.md",
+      "podcastUrl": "https://www.dropbox.com/scl/fi/placeholder/Chapter_1_The_Arrival_of_Yellow_Prime_Zaro.m4a"
+    },
+    "CHAPTER_2_BUILDING.md": {
+      "number": 2,
+      "title": "Building",
+      "status": "published",
+      "rawUrl": "https://raw.githubusercontent.com/zarocoin/zarocoin/main/docs/books/book_01_the_yellow_spark/chapters/CHAPTER_2_BUILDING.md",
+      "podcastUrl": ""
+    },
+    "_locked": {
+      "3": { "number": 3, "title": "Expedition", "status": "locked" },
+      "4": { "number": 4, "title": "First Contact", "status": "locked" },
+      "5": { "number": 5, "title": "NOT OVER", "status": "locked" },
+      "6": { "number": 6, "title": "ARC-7 Arrives", "status": "locked" },
+      "7": { "number": 7, "title": "The Sim Arena", "status": "locked" },
+      "8": { "number": 8, "title": "Discovery", "status": "locked" },
+      "9": { "number": 9, "title": "The Battle", "status": "locked" },
+      "10": { "number": 10, "title": "The Signal", "status": "locked" }
+    }
+  }
+}
