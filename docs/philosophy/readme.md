@@ -57,4 +57,4 @@ Use this document when you need guidance on *how* to act in alignment with ZaroV
 
 All future philosophy or manifesto-style documents should be added to this folder and linked from this `readme.md` for easy discovery.
 
-© 2025 ZaroVerse Ltd. – “Community First. Meme Forever.”
+© 2025 ZaroVerse Ltd. – “Community First. Story Forever.”

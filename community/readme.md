@@ -6,4 +6,4 @@ This folder contains community engagement materials, social content, and links t
 - Instagram: [@ZAROproject](https://www.instagram.com/zaroproject)
 - Tiktok:    [@ZAROproject](https://www.tiktok.com/@zaroproject)
 - Telegram: [ZARO Project Official](https://t.me/zaroprojectofficial)
-- Remix & Meme Contests, Contributor Credits, and Collabs will be listed here.
+- Remix & Art Contests, Contributor Credits, and Collabs will be listed here.

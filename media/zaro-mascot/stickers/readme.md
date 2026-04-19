@@ -1,18 +1,18 @@
 # 🟡 ZARO Official Sticker Library
 
-Welcome to the ZARO mascot sticker archive — the beginning of a community-owned meme language.
+Welcome to the ZARO mascot sticker archive — the beginning of a community-owned visual language.
 
 ## 🤖 What This Is
 
 A growing collection of expressive, transparent-background sticker images featuring the ZARO mascot.  
-Perfect for reactions, memes, Telegram replies, content creation, and remix culture.
+Perfect for reactions, story drops, Telegram replies, content creation, and remix culture.
 
 > Not just images.  
 > These are cultural artifacts.
 
 ## 🔧 How to Use
 
-- ✅ For social media posts, replies, and memes
+- ✅ For social media posts, replies, and story drops
 - ✅ For Telegram and Discord sticker packs
 - ✅ For remixing, community art, and ZARO storytelling
 
@@ -23,7 +23,7 @@ Perfect for reactions, memes, Telegram replies, content creation, and remix cult
 
 - ✅ Expressions (thumbs up, angry, crying, etc.)
 - ✅ Reactions (confused, proud, shocked…)
-- ✅ Meme poses
+- ✅ Story poses
 - ✅ Cultural references
 
 More coming soon.
