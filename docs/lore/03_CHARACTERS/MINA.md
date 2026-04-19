@@ -164,7 +164,7 @@ Mina speaks in complete, efficient sentences. She sounds like someone who edited
 
 - "I don't know what to do" (she'd rather say nothing than admit this)
 - Emotional declarations ("I'm scared" — she'd say "this is a problem")
-- Slang that dates the book (no current meme language)
+- Slang that dates the book (no current internet-culture language)
 - Anything that sounds like she's performing intelligence
 
 ## MINA AND KAI (THE DYNAMIC)
