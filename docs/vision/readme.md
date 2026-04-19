@@ -24,7 +24,7 @@ From the beginning, ZARO set a standard. No tricks. No privileged insiders. Just
 
 ZARO is not a social experiment. It’s a long-term company with a determined mission.
 
-Behind the meme stands **ZaroVerse Ltd.**, a legally registered BVI entity. The founder — a respected fintech expert — will publicly reveal himself once ZARO stands strong.
+Behind the mascot stands **ZaroVerse Ltd.**, a legally registered BVI entity. The founder — a respected fintech expert — will publicly reveal himself once ZARO stands strong.
 
 Plans include:
 
@@ -35,7 +35,7 @@ Plans include:
 
 ---
 
-## 3. From Meme Coin to Cultural Brand
+## 3. From On-Chain Collectible to Cultural Brand
 
 ZARO is more than a token. It’s a character with a growing creative universe.
 
@@ -71,7 +71,7 @@ ZaroVerse is evolving into a cultural platform — an "app store" for creativity
 
 We invite:
 
-- Meme tool builders  
+- Creator tool builders  
 - AR/AI remix plugins  
 - Language tools  
 - NFT/gated community apps  
@@ -150,9 +150,9 @@ ZARO aligns with Ethereum’s mission to be infrastructure for the world.
 ## 11. What Comes Next?
 
 - Animated ZARO content  
-- Games (Portal Pop, Meme Wars)  
+- Games (Portal Pop, MEMEWARS)  
 - Regional sticker drops and campaigns  
-- Community art, meme, lore, remix tools  
+- Community art, story, lore, remix tools  
 - Creator grant programs  
 - Character expansions (ARC7, etc.)  
 - Youth engagement programs  
@@ -215,7 +215,7 @@ Everything is documented, transparent, and globally accessible.
 ---
 
 ## 🌍 ZARO  
-**Community First. Meme Forever.**  
+**Community First. Story Forever.**  
 Visit: [https://www.zaroverse.com](https://www.zaroverse.com)  
 Explore: [https://www.zarocoin.xyz](https://www.zarocoin.xyz)
 

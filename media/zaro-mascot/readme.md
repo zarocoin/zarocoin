@@ -30,7 +30,7 @@ Welcome to the official ZARO mascot visual archive — a collection of character
 
 ✅ You may:
 - Remix, edit, or caption the images for community content.
-- Use in fan art, memes, videos, lore drops, games, or sticker packs.
+- Use in fan art, remixes, videos, lore drops, games, or sticker packs.
 - Credit is appreciated but not mandatory for remix-based content.
 
 ❌ You may NOT:
@@ -67,6 +67,6 @@ These assets are released under the **ZaroVerse Remix License (ZRML)** — desig
 
 ## 🙌 Thanks
 
-ZARO is built by everyone who believes memes can outlast markets and mascots can carry meaning.
+ZARO is built by everyone who believes stories can outlast markets and mascots can carry meaning.
 
 Let’s create something that lasts.

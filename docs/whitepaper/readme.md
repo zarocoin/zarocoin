@@ -5,7 +5,7 @@
 
 ## 1. Introduction: What is ZARO?
 
-ZARO is a decentralized cultural artifact born on Ethereum. It is a meme token, a community canvas, and a story in motion. Launched without presale, team wallets, or venture capital, ZARO was built to stand apart — a clean start with open hands.
+ZARO is a decentralized cultural artifact born on Ethereum. It is an on-chain collectible, a community canvas, and a story in motion. Launched without presale, team wallets, or venture capital, ZARO was built to stand apart — a clean start with open hands.
 
 ZARO is not just a coin. It is the nucleus of a broader universe called **ZaroVerse** — a community-driven IP ecosystem of characters, stories, games, art, and culture.
 
@@ -15,11 +15,11 @@ The token is 100% on-chain, but the mission extends far beyond crypto.
 
 ## 2. The Cultural Vision
 
-ZARO isn’t trying to be the next financial utility token or yield-bearing asset. It is the **memetic heartbeat** of a movement. ZARO’s value comes from the strength of its story, the joy of its memes, and the commitment of its community.
+ZARO isn’t trying to be the next financial utility token or yield-bearing asset. It is the **narrative heartbeat** of a movement. ZARO’s value comes from the strength of its story, the joy of its community art, and the commitment of its community.
 
 - **Remix culture**: Everyone is free to build, draw, animate, and play with ZARO.  
-- **Global relevance**: ZARO celebrates memes across borders, languages, and cultures.  
-- **Forever open**: No centralized narrative. No gatekeeping. The meme evolves with the community.
+- **Global relevance**: ZARO celebrates stories across borders, languages, and cultures.  
+- **Forever open**: No centralized narrative. No gatekeeping. The story evolves with the community.
 
 ZARO is not just a mirror to internet culture — it's a lens through which new stories will emerge.
 
@@ -81,8 +81,8 @@ ZaroVerse is the world that ZARO the token lives in. It’s a creative universe 
 
 ### Ecosystem Pillars:
 
-- **Memes & Lore** — community-driven narrative + remixed visual culture  
-- **Games** — simple, addictive meme-based games (“Portal Pop,” “Meme Wars”)  
+- **Stories & Lore** — community-driven narrative + remixed visual culture  
+- **Games** — simple, addictive arcade-style games (“Portal Pop,” “MEMEWARS”)  
 - **Media** — shorts, animations, TikToks, and episodic content  
 - **Merchandise** — apparel, toys, stickers, collectibles  
 - **Partnerships** — artists, studios, brands, and developers invited to co-create
@@ -98,7 +98,7 @@ ZARO does not promise any future utility — and that’s intentional. We do not
 However, ZARO has a **vision**:
 
 - Build a global IP brand — similar to Hello Kitty, Minions, or Pokémon.  
-- Expand media presence — through shows, shorts, memes, and music.  
+- Expand media presence — through shows, shorts, story drops, and music.  
 - Enable creative monetization — artists, devs, and creators get recognition.  
 - Explore optional utility paths:  
   - **IP Licensing Rewards** (e.g. future revenue-sharing once compliant)  
@@ -136,7 +136,7 @@ We don't just say we’re transparent. We build like it.
 
 ## 9. Legal Disclaimers
 
-ZARO is not an investment, not a security, and not a financial product. It is a meme token.
+ZARO is not an investment, not a security, and not a financial product. It is an on-chain cultural collectible.
 
 - No future value is promised  
 - Jurisdictions with regulatory restrictions are blocked  
@@ -159,6 +159,6 @@ Please consult your local laws before interacting with the token.
 
 ---
 
-*ZARO is more than a meme. It’s a movement.*  
+*ZARO is more than a token. It’s a movement.*  
 
-**Community First. Meme Forever.**
+**Community First. Story Forever.**

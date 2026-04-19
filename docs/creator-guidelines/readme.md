@@ -1,6 +1,6 @@
 # ZARO Creator & Brand Guidelines
 
-_For artists, writers, meme architects, brand stewards, lore builders, and cultural custodians of the ZaroVerse._
+_For artists, writers, story architects, brand stewards, lore builders, and cultural custodians of the ZaroVerse._
 
 ---
 
@@ -9,7 +9,7 @@ _For artists, writers, meme architects, brand stewards, lore builders, and cultu
 This is not a marketing manual.  
 It’s a doctrine for digital culture creators.
 
-If you touch the ZARO brand — through memes, captions, stickers, illustrations, games, videos, or even community replies — this document is for you.
+If you touch the ZARO brand — through story drops, captions, stickers, illustrations, games, videos, or even community replies — this document is for you.
 
 **Your task isn’t to generate hype. It’s to generate meaning.**
 
@@ -32,7 +32,7 @@ ZARO is for those who:
 
 - Value creativity over greed.  
 - Want fun without fear.  
-- Believe in memes with memory.  
+- Believe in stories with memory.  
 - Seek a brand that can become a global IP movement — not just a ticker.
 
 Your role as a creator?  
@@ -51,7 +51,7 @@ If ZARO could talk:
 
 Think of him like:
 
-- The **Ronin meme knight** of Ethereum.  
+- The **Ronin story knight** of Ethereum.  
 - A **silent symbol** from a Miyazaki film.  
 - A **sticker that carries truth** you can’t quite put into words.
 
@@ -110,7 +110,7 @@ Every piece of content should fit at least one of these modes:
 
 ### 3. Emotional Moodboard:
 - Calm | Silent Power | Rebellious Stillness  
-- Legacy | Wonder | Cryptic Humor | Meme Cool
+- Legacy | Wonder | Cryptic Humor | Iconic
 
 ### 4. Meta-Play:
 - Spark remix  
@@ -134,13 +134,13 @@ Use tags like `#ZaroVerse` and `#ARC7`.
 
 ## 🌍 SPEAK TO THE WORLD
 
-ZARO is not a Western meme.  
+ZARO is not a Western trope.  
 He must resonate in **Manila, Lagos, Jakarta, Dubai, São Paulo, Delhi**, and everywhere.
 
 ### Tips:
 - Use minimal or translatable text  
 - Respect local culture — never parody it  
-- Use ZARO in global moments: local outfits, sports, memes  
+- Use ZARO in global moments: local outfits, sports, story drops  
 - Always keep the mascot intact  
 - Translate captions and use multilingual sticker replies
 
@@ -158,7 +158,7 @@ He must resonate in **Manila, Lagos, Jakarta, Dubai, São Paulo, Delhi**, and ev
 ### ❌ DON’T:
 - Use violent or aggressive metaphors  
 - Mention price or market speculation  
-- Mimic existing meme tokens  
+- Mimic existing speculative tokens  
 - Post hype-jargon (moon, pump, 100x)  
 - Overdesign — ZARO thrives in **simplicity**
 
@@ -174,7 +174,7 @@ He must resonate in **Manila, Lagos, Jakarta, Dubai, São Paulo, Delhi**, and ev
 
 **Primary Hashtags:**
 - `#ZARO`  
-- `#MemeForever`  
+- `#StoryForever`  
 - `#ZaroVerse`  
 - `#ARC7`  
 - `#OnChainCulture`
@@ -207,7 +207,7 @@ Make sure everything you post — feels like that.
 Want to contribute? Remix? Build with us?
 
 Fork this doc. Propose new ideas.  
-Create your own ZARO lore drop, sticker, meme, or cultural thread — and tag us.
+Create your own ZARO lore drop, sticker, remix, or cultural thread — and tag us.
 
 > **Let’s write a new history. One sticker at a time.**
 

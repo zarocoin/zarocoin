@@ -48,7 +48,7 @@ Full PDF copies of each official application are stored in this folder for verif
 **First Publication:** June 2025  
 
 > ZARO is a protected copyrighted character.  
-> Community art, memes, and remixes are permitted under the [ZARO Creator Guidelines](https://github.com/zarocoin/zarocoin/tree/main/docs/creator-guidelines), provided they respect project ethics and do not imply financial promotion or misrepresentation.
+> Community art, remixes, and derivatives are permitted under the [ZARO Creator Guidelines](https://github.com/zarocoin/zarocoin/tree/main/docs/creator-guidelines), provided they respect project ethics and do not imply financial promotion or misrepresentation.
 
 ---
 
@@ -61,4 +61,4 @@ Community remixing and cultural participation are encouraged under open-culture 
 ---
 
 © 2025 ZaroVerse Ltd. – All Rights Reserved.  
-*“Community First. Meme Forever.”*
+*“Community First. Story Forever.”*

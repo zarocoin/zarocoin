@@ -86,7 +86,7 @@ This is not a tax shelter.
 This is not a utility mechanism.  
 This is not a securities promise.
 
-It’s simply what the meme space should be:  
+It’s simply what the cultural-token space should be:  
 **Ethical. Verifiable. Human.**
 
 ---
