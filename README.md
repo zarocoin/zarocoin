@@ -3,7 +3,7 @@ Home of **ZARO**, **ZaroLand**, and the **ZLAND** token
 
 This repository is the **canonical source of truth** for the ZaroVerse ecosystem:
 
-- **ZARO** – An Ethereum-based meme & culture token with a clean on-chain launch and a 10-year vision.  
+- **ZARO** – An Ethereum-based on-chain artifact of the ZaroVerse fictional universe, with a clean on-chain launch and a 10-year vision.  
 - **ZaroLand** – A nature-integrated family adventure park brand.  
 - **ZLAND** – A global membership, loyalty, and utility token for ZaroLand parks, modeled after airline miles.
 
@@ -11,13 +11,13 @@ All contracts, transparency reports, legal references, and brand guidelines live
 
 ---
 
-## 1. ZARO – Ethereum Culture Token
+## 1. ZARO – Ethereum Story-Born Collectible
 
 **ZARO** is an ERC-20 token on Ethereum, anchored by the original mascot **Zaro** and the broader **ZaroVerse** IP.
 
 ZARO is positioned as a **cultural public good**:
 
-- A meme-native character and symbol  
+- A story-native character and symbol  
 - A long-term storytelling and media IP anchor  
 - A clean, fully documented on-chain launch with no presale, no team allocation, and no VC round
 
@@ -264,7 +264,7 @@ Before opening a PR, please:
 
 ## 7. Legal & Disclaimers
 
-- **ZARO** is a meme & culture token on Ethereum. It does **not** represent equity or ownership in ZaroVerse Ltd. or any affiliated entity.  
+- **ZARO** is an on-chain collectible tied to the ZaroVerse fictional universe, issued on Ethereum. It does **not** represent equity or ownership in ZaroVerse Ltd. or any affiliated entity.  
 - **ZLAND** is a **membership, loyalty, and utility token** intended for use within the ZaroLand ecosystem (tickets, perks, and experiences). It does **not** grant equity, dividends, or revenue share.  
 - None of the tokens in this repository are offered or promoted as investment contracts.  
 - Access to, and use of, these tokens may be restricted or limited in certain jurisdictions.
@@ -277,5 +277,5 @@ Users, exchanges, and partners should perform their own due diligence and seek p
 **ZaroVerse** is building a long-term cultural universe:  
 On-chain roots, real-world parks, and a mascot that belongs to the internet.
 
-**ZARO:** Community First. Meme Forever.  
+**ZARO:** Community First. Story Forever.  
 **ZLAND:** One Membership. Many Parks.
