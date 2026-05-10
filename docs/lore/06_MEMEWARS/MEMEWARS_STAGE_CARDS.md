@@ -1,4 +1,4 @@
-# MEMEWARS STAGE CARDS (GAME-READY)
+# MEMEWARS STAGE CARDS
 
 
 1) DOJO VOID
@@ -33,5 +33,4 @@ Sound: deep pull tone
 
 Note:
 The villain realm is The Black Hole.
-Stage names can still use “Void” as a mood word,
-but the lore name stays locked.
+Stage names can still use "Void" as a mood word, but the lore name stays locked.

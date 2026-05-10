@@ -11,19 +11,22 @@ He feels everything deeply. Fear, sadness, or pressure can dim him fast. Overuse
 Power/Role (what he does in scenes):
 Zaro restores, shields, and pushes back danger with yellow energy — but every output drains him.
 
+
 PRIME STATUS (CMYK)
 Zaro is Y: Yellow Prime.
 Yellow is a rare Prime frequency.
-Zaro’s light is not a “superpower with no rules.”
+Zaro's light is not a "superpower with no rules."
 It is a living energy with limits and cost.
 
+
 LOOK AND FEEL
-Zaro’s iconic look is bright yellow.
+Zaro's iconic look is bright yellow.
 He is warm, expressive, curious, and teen-like.
 He speaks like a teenager (not baby talk).
 His eyes show wonder and frustration and stubborn courage.
 
-CINEMATIC VISUAL RULES (v2.1 — April 2026) — SKIN REGISTER
+
+CINEMATIC VISUAL RULES — SKIN REGISTER
 
 Positioning line: "A tiny living lantern trying very hard to stay brave."
 
@@ -52,50 +55,29 @@ Movement (animation):
 - No cartoon squash-and-stretch. A real small body with real weight.
 
 TWO VISUAL REGISTERS:
-- CINEMATIC (series/film): skin register. Warm golden skin, light hidden inside.
-- MERCH (toys/stickers/social): solid, round, friendly. The toy is an interpretation.
-- TRADEMARK: Silhouette is shared. Shape does not change between registers.
-  Only the material treatment differs.
+- CINEMATIC: skin register. Warm golden skin, light hidden inside.
+- ICONIC: solid, round, friendly. The simplified silhouette.
+- The shape is shared across both registers. Only the material treatment differs.
 
-Full cinematic spec: 03_CHARACTERS/CHARACTER_VISUAL_REFERENCE.md
-See also: PRIME MATERIAL FRAMEWORK in CHARACTER_VISUAL_REFERENCE.md
 
-COLOR STATES (LOCKED)
+COLOR STATES
 - Bright Yellow: full power — warm, golden, steady sun
 - Dark Yellow: tired, stressed — sun dimming
 - Gray-Yellow: near crash — sun dying
-- OVERDRIVE (White): the SUPER NOVA seed. Pure white. The screen washes out
-  completely. Blinds everyone in range. For the first time, the hidden
-  light shows through everywhere — he looks like what he really is:
-  a being of pure light barely contained in a body. Then the crash.
+- OVERDRIVE (White): pure white. The screen washes out completely.
+  Blinds everyone in range. For the first time, the hidden light shows
+  through everywhere — he looks like what he really is: a being of pure
+  light barely contained in a body. The light is so intense that he
+  cannot direct it; the beam goes upward, into the sky. Then the crash.
 
-SUPER NOVA (named power)
-The Overdrive (White) state above is the *visible seed* of Super Nova —
-Zaro's eventual ultimate power. He is made of sunlight; the sun is a
-series of nuclear explosions; given pressure, he can do what a star does.
-
-In Book 1: Super Nova is glimpsed but never named.
-- Ch5 NOT OVER: the seed cracks open. The beam goes UPWARD because Zaro
-  cannot aim it. He doesn't choose it. It just goes UP. That's why it
-  doesn't kill the Ink in front of him — he can't direct it yet.
-- The audience sees what he could become. The character does not yet know.
-- Cost: total drain. He cannot survive a controlled Super Nova in Book 1.
-
-In Book 3: Super Nova is earned, aimed, and named.
-- ARC-7 teaches him to focus and aim the beam.
-- He learns to wear battle clothes that channel and survive the ignition.
-- He recharges under the sun (live solar charge — see Solar rules below).
-- The contradiction lands: the cuteness that nukes worlds. Soft power.
-
-Lock for Book 1 prose: NEVER name "Super Nova" in narration. The audience
-holds the secret. Zaro doesn't yet know what he is.
 
 WHAT ZARO IS (SIMPLE TRUTH)
 Zaro is not a normal animal.
 He is a spark-being.
 On Earth, the spark becomes a form humans can understand.
 
-BODY AS CHOSEN FORM (CANON LOCK)
+
+BODY AS CHOSEN FORM
 Zaro's physical body is not a default or accidental shape.
 It is a DELIBERATE CHOICE made at the moment of arrival on Earth.
 
@@ -115,7 +97,8 @@ At his lowest, he is less solid — more suggestion than presence.
 This is visible. It is the body's honest signal that the light inside
 is running short.
 
-SOLAR CHARGE AND SLEEP (CANON LOCK)
+
+SOLAR CHARGE AND SLEEP
 Zaro runs on light energy. His charge system has two states:
 
 DAYLIGHT — LIVE SOLAR CHARGE:
@@ -142,20 +125,23 @@ efficient way to carry a charge forward into the next day.
 When he wakes, he wakes with more than he would have had running dim
 through the night. Sleep is a strategy, not a need.
 
+
 HOME LIFE
-Zaro’s home is in The Greenbelt (forest outside the city).
+Zaro's home is in The Greenbelt (forest outside the city).
 He finds an abandoned old house and restores it.
-Later, after Zaro changes the area, Mina and Kai nickname the place “ZaroLand.”
+Later, after Zaro changes the area, Mina and Kai nickname the place "ZaroLand."
 
 Inside the house, Zaro keeps simple plans for:
 - gardens, paths, swings, ziplines, tree houses
 These are normal plans, not magic drawings.
 They show he is building a life.
 
+
 DOME / HOUSE SHIELD
 Zaro can create a dome field around his home.
-It has a clear “lock” sound when it stabilizes.
+It has a clear "lock" sound when it stabilizes.
 It weakens when Zaro is emotionally low or drained.
+
 
 STAMINA AND COST (GLOW BURN)
 Zaro can do powerful moves, but he can crash.
@@ -166,7 +152,8 @@ Glow Burn looks like:
 - shaky focus
 Even the dome can flicker when he burns out.
 
-THE NOT OVER MOMENT (LOCKED)
+
+THE NOT OVER MOMENT
 When Zaro hits his lowest point, he can still choose defiance.
 When he carves the NOT OVER symbol, it shocks him like a heart restart.
 (The symbol is a universal CMYK mark — not text. "NOT OVER" is what he thinks.
@@ -178,7 +165,8 @@ Overdrive look:
 - dome slams back online
 - the world snaps back from gray into color
 
+
 CORE TRAIT
-Zaro is “One for All.”
+Zaro is "One for All."
 His light wants to spread outward.
 He protects others even when it costs him.

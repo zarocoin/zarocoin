@@ -1,24 +1,14 @@
-# MAGENTA PRIME — CHARACTER FILE (CANON)
-
-Version 1.0
-
-STATUS: Teased in Book 1 stinger. Introduced fully in Book 2.
-This file defines enough to write the Book 1 tease correctly
-and to calibrate Book 2 setup.
+# MAGENTA PRIME — CHARACTER FILE
 
 
 ### 3-LINE DEFINITION
 
 
-Identity: Magenta Prime is a young, wild-card force of transformation
-who follows her own rules and treats the universe like a game
-she's still figuring out how to play.
+Identity: Magenta Prime is a young, wild-card force of transformation who follows her own rules and treats the universe like a game she's still figuring out how to play.
 
-Flaw: She doesn't trust teams, systems, or anyone else's plan.
-She believes she works best alone — and she's wrong.
+Flaw: She doesn't trust teams, systems, or anyone else's plan. She believes she works best alone — and she's wrong.
 
-Role: The M in CMYK. Transformation. The catalyst who forces
-everyone to evolve, including herself.
+Role: The M in CMYK. Transformation. The catalyst who forces everyone to evolve, including herself.
 
 
 ### CORE NATURE
@@ -48,22 +38,16 @@ She treats everything like a game she's still learning the rules of.
 Hard to read. You're never sure if she's helping or testing you.
 
 Traits:
-- Unpredictable: does things no one expects, often for reasons
-  she doesn't fully explain
-- Playful: finds humor in serious situations, not out of cruelty
-  but because she genuinely sees the absurdity
-- Independent: follows her own agenda, resistant to being told
-  what to do or where to stand
-- Perceptive: sees through pretense instantly, calls things
-  as they are (even when no one asked)
-- Impatient: bored by planning sessions, strategy meetings,
-  anything that feels like waiting
+- Unpredictable: does things no one expects, often for reasons she doesn't fully explain
+- Playful: finds humor in serious situations, not out of cruelty but because she genuinely sees the absurdity
+- Independent: follows her own agenda, resistant to being told what to do or where to stand
+- Perceptive: sees through pretense instantly, calls things as they are (even when no one asked)
+- Impatient: bored by planning sessions, strategy meetings, anything that feels like waiting
 
 What she is NOT:
 - Not a villain or secret antagonist
 - Not "crazy" or "random" — her chaos has internal logic
 - Not cruel or mean-spirited
-- Not a love interest (not in Book 2, possibly never)
 - Not a copy of any existing character
 
 
@@ -71,8 +55,7 @@ What she is NOT:
 
 
 Young. Similar age/energy to Zaro — a peer, not a mentor.
-She feels like she's been awake for a while but hasn't had
-anyone worth talking to until now.
+She feels like she's been awake for a while but hasn't had anyone worth talking to until now.
 
 She is NOT:
 - Ancient or wise
@@ -87,21 +70,19 @@ She IS:
 - Unimpressed by ARC-7's rules (she finds structure boring)
 
 
-### HER AGENDA (BOOK 2)
+### HER AGENDA
 
 
-Magenta has her own goals that don't initially align with the team.
-She's not against them — she just doesn't care about their mission
-until she realizes it intersects with hers.
+Magenta has her own goals that don't initially align with the team. She's not against them — she just doesn't care about their mission until she realizes it intersects with hers.
 
-Her arrival in Book 2 is RELUCTANT:
+Her arrival is RELUCTANT:
 - She shows up on her own terms
 - She's not joining the team — she's investigating something
 - The team needs her (M is required for White)
 - She doesn't need the team (or thinks she doesn't)
 - Alignment happens through shared experience, not persuasion
 
-Her arc in Book 2 (high level):
+Her arc:
 - Arrives as a complication
 - Clashes with ARC-7 (chaos vs. structure)
 - Finds unexpected common ground with Zaro (both young, both alone)
@@ -112,15 +93,11 @@ Her arc in Book 2 (high level):
 ### VISUAL IDENTITY
 
 
-## MATERIAL LANGUAGE: AURORA (LOCKED)
+MATERIAL LANGUAGE: AURORA
 
-Magenta is AURORA — atmospheric sky-light. Beautiful instability.
-The sky misbehaving. Light refusing to stay in line. Twisting,
-flickering, shifting, vanishing, returning. You can't pin it down.
+Magenta is AURORA — atmospheric sky-light. Beautiful instability. The sky misbehaving. Light refusing to stay in line. Twisting, flickering, shifting, vanishing, returning. You can't pin it down.
 
-Identity sentence: "She is not the light of the sun or the current
-of the machine. She is the sky-event that happens when energy
-stops behaving."
+Identity sentence: "She is not the light of the sun or the current of the machine. She is the sky-event that happens when energy stops behaving."
 
 Positioning line: "She's not chaos. She's change with attitude."
 
@@ -134,6 +111,7 @@ MOOD-REACTIVE SURFACE (her unique readability):
 - Irritated: brighter hot-pink streaks snap across edges
 - Angry: aurora bands sharpen and whip faster
 - Focused: movement tightens into elegant controlled flow
+
 You always know her mood. She doesn't hide it.
 
 PERSONALITY IN VISUAL:
@@ -153,8 +131,6 @@ TRIO FUNCTION:
 - Without her, they stabilize. With her, they transform.
 - She breaks stagnation — Zaro can be too trusting, ARC-7 too rigid.
 
-## See PRIME MATERIAL FRAMEWORK in 03_CHARACTERS/CHARACTER_VISUAL_REFERENCE.md
-
 
 ### MAGENTA AND OTHER CHARACTERS
 
@@ -168,9 +144,8 @@ WITH ZARO:
 WITH ARC-7:
 - Friction. She finds his rules suffocating.
 - He finds her unpredictability dangerous.
-- This is the core tension of Book 2's team dynamics.
-- Eventual respect — she sees his rules protect people,
-  he sees her chaos reveals truth.
+- This is a core tension of the team's dynamic.
+- Eventual respect — she sees his rules protect people, he sees her chaos reveals truth.
 
 WITH MINA:
 - Mina wants to understand her. Magenta resists being mapped.
@@ -183,72 +158,58 @@ WITH KAI:
 - She might trust Kai before she trusts anyone else on the team.
 
 
-### BOOK 1 STINGER — HOW TO WRITE THE TEASE
+### BOOK 1 PRESENCE — TWO MOMENTS, TWO SCALES
 
 
-What the audience sees:
-- After the Verdant Seal fires and the triple attention wave goes out
-- Somewhere in SPACE (not a realm — she's traveling)
-- A pair of eyes opening. Sharp magenta energy.
-- She was already awake and moving through space
-- The Verdant Seal signal hits her like a beacon
-- She CHANGES HER TRAJECTORY toward the source
-- She was going somewhere else. Now she's coming HERE.
-
-What the stinger should FEEL like:
-- Intriguing, not threatening
-- Playful curiosity, not menace
-- "Oh, that's interesting." — not "I will destroy them."
-- The audience should think: "Who is THAT?"
-- NOT: "Oh no, another villain."
-
-What the stinger should NOT do:
-- Reveal her name
-- Show her full form
-- Give her dialogue (in Book 1)
-- Explain who she is or where she's from
-- Connect her to the Ink or the Black Hole
-
-Visual/prose direction:
-- Deep space. Silence.
-- A streak of magenta light moving through the void
-- The Verdant Seal's echo ripples past her
-- Eyes open. The streak slows. Curves.
-- New trajectory: toward Earth.
-- Then gone.
-
-One sentence to capture it:
-"Somewhere in the black between stars, a sharp magenta light
-slowed, turned, and began moving toward the signal's source."
+Magenta has two points of visibility in Book 1 — passive first, active second. The cosmos NOTICES Zaro in the first moment but does not act. The cosmos RESPONDS in the second because the team earned it.
 
 
-### BOOK 1 STINGER — TRIPLE ATTENTION (FULL SEQUENCE)
+THE WHISPER (passive)
+
+In deep space, the faint NOT OVER signal from Earth reaches her. Eyes open. She turns her head. She doesn't act. She doesn't fire. She files what she felt and keeps watching.
+
+What's visible on Earth: a magenta aurora becomes briefly visible over the Greenbelt — in broad daylight. Real-world auroras are physically impossible in daylight at temperate latitudes. The impossibility is the canon tell. It is multi-spectrum (magenta dominant, with greens, violets, cyans woven in). Zaro doesn't see it — he is collapsed face-down at the burning tree. Mina catches half a second of it from miles away on her drone. Her instruments register an unidentifiable signature. She files it as anomalous. Three meteorologists on the news argue about the ionosphere.
 
 
-The Verdant Seal sends a signal that reaches THREE entities:
+THE HANDSHAKE (active)
 
-BEAT 1 — MAGENTA (Hope)
-- Somewhere in space, eyes open
-- Sharp magenta streak changes course toward Earth
-- Feeling: curiosity, intrigue, "who did THAT?"
-- Audience reaction: "Who is she?"
+The amplified Verdant Seal signal reaches her in deep space. Eyes open — magenta energy, sharp, curious, not menacing.
 
-BEAT 2 — THE BLACK HOLE (Threat)
-- Deep in the void, something vast shifts
-- Like Sauron's eye turning — a slow gravitational awareness
-- The Black Hole doesn't move. It NOTICES.
-- A rim distortion. A slow inward pull. A quiet flare.
-- It felt Green for the first time. It's paying attention now.
-- Feeling: dread, scale, patience
-- Audience reaction: "Oh no."
+She does THREE things:
 
-BEAT 3 — THE HITCHHIKER (already covered in Trojan cliffhanger)
-- Fungal threads spreading in the ARC Realm
-- ARC-7 doesn't see it
-- Black screen
+1. **She FIRES** — a long-range magenta energy beam aimed at the signal's source. High-speed. Arrives on Earth before she does. She sends help before she sends herself. This is who she is. Act first, arrive second.
 
-Three endings. Hope coming. Threat coming. Danger already inside.
-Book 1 closes with all three lanes open for Book 2.
+2. **She FOLLOWS** — changes trajectory toward Earth. But she's far. The journey takes time.
+
+3. **Then she's GONE** — a streak of magenta vanishing toward the source.
+
+The beam arrives on Earth as a brief dusk aurora flash. Plausibly natural — real pink auroras do exist. Mina catches it on her sensor. She pairs it with the earlier anomaly — two events, same wavelength signature. She doesn't yet know they're the same person.
+
+The beam enters the soil around the tree's roots and accelerates the recovery.
+
+
+THE PATTERN
+
+- The whisper — the impossible. The cosmos broke a rule of physics just to look.
+- The handshake — the inexplicable. The cosmos broke a softer rule to help.
+- Both leave the same wavelength signature.
+
+
+### TRIPLE ATTENTION (THE FULL SEQUENCE)
+
+
+The amplified Verdant Seal sends a signal that reaches THREE entities:
+
+ENTITY 1 — MAGENTA (Hope)
+Somewhere in space, eyes open. A sharp magenta streak changes course toward Earth. Curiosity, intrigue. Not menace.
+
+ENTITY 2 — THE BLACK HOLE (Threat)
+Deep in the void, something vast shifts. A slow gravitational awareness. The Black Hole doesn't move. It NOTICES. A rim distortion. A slow inward pull. A quiet flare. It felt Green for the first time. It is paying attention now.
+
+ENTITY 3 — THE HITCHHIKER (Danger Already Inside)
+Fungal threads spreading in the ARC Realm. ARC-7 doesn't see it.
+
+Hope coming. Threat coming. Danger already inside.
 
 
 ### CMYK COMBO IMPLICATIONS
@@ -259,10 +220,4 @@ Magenta enables:
 - BLUE (C+M): ARC-7 + Magenta. Unstable containment. Experimental.
 - WHITE (C+M+Y): All three Primes. The ultimate answer to the Black Hole.
 
-This means:
-- Book 2 can explore Red and Blue as new, unstable combos
-- White is reserved for Book 3 (the series climax)
-- Magenta is NECESSARY for the endgame — she's not optional
-
-
-### END OF FILE
+Magenta is NECESSARY for the endgame — she's not optional.

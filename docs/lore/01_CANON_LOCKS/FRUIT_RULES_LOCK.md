@@ -1,4 +1,4 @@
-# FRUIT RULES (CANON LOCK)
+# FRUIT RULES
 
 
 ## THE FRUIT — WHAT IT IS
@@ -13,16 +13,16 @@ The resemblance to the ZaroVerse symbol is in the FORM ITSELF.
 ---
 
 
-## FRUIT RULES (ALL LOCKED)
+## FRUIT RULES
 
 1. ONE TREE. ONE SEED CORE. Fruits contain NO seeds inside them.
    No second generation. No planting a fruit to grow another tree.
    One Seed Core → one tree → seedless fruits. The crop is final.
 
-2. FRUITS NEVER SCATTER. During the Ink breach (Ch5), the fire scorches
+2. FRUITS NEVER SCATTER. During the Ink breach, the fire scorches
    the fruits on the tree. They blacken. They dim. The lower ones nearly
    die. But they do NOT fall. They cling to the branches. Always.
-   This is permanent. No scene in any book shows fruits falling or
+   This is permanent. No scene shows fruits falling or
    scattering to the ground during an attack.
 
 3. THE TREE IS THE TREASURY. Everything comes back to the tree.
@@ -41,21 +41,8 @@ The resemblance to the ZaroVerse symbol is in the FORM ITSELF.
 6. RECOVERY HAS THREE SOURCES:
    - Zaro's Yellow Prime warmth — patient, daily, at personal stamina cost
    - Verdant Seal residue — Green (C+Y) energy lingering in the soil
-   - Magenta's beam — long-range M Prime energy fired from deep space (Ch10 stinger),
+   - Magenta's beam — long-range M Prime energy fired from deep space,
      enters soil through roots, slow sustained fertilization over weeks
    - Y + M = RED. The lowest recovering fruits show a faint reddish warmth
-     at their core. This is Book 2's color combo seeded in Book 1's final act.
-     Mina detects "anomalous energy" in the soil but cannot identify its source.
-
-7. FRUIT VISUAL DESIGN must be locked BEFORE Tree State 3 (bearing fruit)
-   is generated. The fruit's symbolic shape must be embedded in the natural
-   form at the design stage.
-
-8. FRUIT 6-STATE LIFECYCLE LOCKED (April 2026 visual; 2026-05-09 confirmed):
-   See `01_CANON_LOCKS/VISUAL_DESIGN_LOCK.md` for the full 6-state spec.
-   The recovered fruit (Frame 6, post-Aurora touch): translucent golden
-   sphere with a clear RED Z visible inside. **The Y+M=Red signature is
-   canonized at the asset level.** This is the canonical visual for the
-   closing-image fruit recovery in Ch10.
-
-
+     at their core. Mina detects "anomalous energy" in the soil but cannot
+     identify its source.

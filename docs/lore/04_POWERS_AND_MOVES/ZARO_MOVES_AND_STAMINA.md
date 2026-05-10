@@ -1,4 +1,4 @@
-# ZARO MOVES AND STAMINA (CANON)
+# ZARO MOVES AND STAMINA
 
 
 Zaro's power is living spark light.
@@ -75,7 +75,7 @@ Zaro is powerful, but not unlimited.
 This makes wins feel earned.
 
 
-### GLOW BURN RECOVERY TIMELINE (LOCKED)
+### GLOW BURN RECOVERY TIMELINE
 
 
 Recovery is TIERED based on severity.
@@ -101,13 +101,13 @@ NOT OVER CRASH (the big one):
 - Tree proximity may help accelerate.
 - He is operating at reduced capacity — not helpless, but not full.
 
-SUNLIGHT RULE (LOCKED):
+SUNLIGHT RULE:
 - Sunlight is medicine, not food.
 - Zaro does NOT drain or weaken at night.
 - Night simply means he cannot recharge.
 - He holds whatever charge he has until morning.
-- This means nighttime does not automatically make Zaro vulnerable.
-- It means: if he burns during the night, he must wait for dawn to heal.
+- Nighttime does not automatically make Zaro vulnerable.
+- If he burns during the night, he must wait for dawn to heal.
 
 TACTICAL IMPLICATIONS:
 - Ink gains no automatic advantage at night.
@@ -149,27 +149,3 @@ Later, Zaro will learn:
 - avoiding Glow Burn
 - igniting his spark on purpose
 - extending the spare tank capacity
-
-
-### SUPER NOVA — NAMED ULTIMATE POWER
-
-The OVERDRIVE (white-hot yellow) state above is the **visible seed of
-Super Nova** — Zaro's eventual ultimate power. He is made of sunlight;
-the sun is a series of nuclear explosions; given pressure, he can do
-what a star does.
-
-In Book 1: Super Nova is glimpsed but never named.
-- Ch5 NOT OVER: the seed cracks open. The beam fires UPWARD because
-  Zaro cannot aim it. He doesn't choose it. It just goes UP.
-- The audience sees what he could become. The character does not yet know.
-- Cost: total drain. He cannot survive a controlled Super Nova in Book 1.
-
-In Book 3: Super Nova is earned, aimed, and named.
-- ARC-7 teaches him to focus and aim the beam.
-- He learns to wear battle clothes that channel and survive the ignition.
-- He recharges under the sun (live solar charge).
-- The contradiction lands: the cuteness that nukes worlds. Soft power.
-
-MHA Plus Ultra register intentional.
-
-**Lock for Book 1 prose:** NEVER name "Super Nova" in narration.
