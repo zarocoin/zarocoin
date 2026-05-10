@@ -54,6 +54,14 @@ Both are right. Neither reading requires the other.
    is generated. The ZARO Coin logo echo must be embedded in the fruit's
    natural form at the design stage.
 
+8. FRUIT 6-STATE LIFECYCLE LOCKED (April 2026 visual; 2026-05-09 confirmed):
+   See `01_CANON_LOCKS/VISUAL_DESIGN_LOCK.md` for the full 6-state spec.
+   Reference asset for the recovered fruit (Frame 6, post-Aurora touch):
+   `ASSETS/Cinematic References/ZARO Coin 6.png` — translucent golden
+   sphere with a clear RED Z visible inside. **The Y+M=Red signature is
+   canonized at the asset level.** This is the canonical visual for the
+   closing-image fruit recovery in Ch10.
+
 
 ---
 

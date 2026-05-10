@@ -1,5 +1,6 @@
 # CMYK PRIME SYSTEM (CANON LOCK)
 
+
 Changelog:
 v1.1 — Added all six combo rules (Green, Red, Blue, White). Added Magenta character brief. Clarified combo discovery timeline.
 
@@ -13,16 +14,16 @@ A Prime is a rare core energy type.
 A Prime is not infinite power.
 A Prime has rules, limits, and costs.
 
-## THE FOUR PRIMES
 
-**C = CYAN PRIME**
+### THE FOUR PRIMES
 
+
+C = CYAN PRIME
 - Structure, precision, systems, containment
 - This is ARC-7
 - Teal/Cyan geometry energy
 
-**M = MAGENTA PRIME**
-
+M = MAGENTA PRIME
 - Teased at the end of Season 1 / Book 1
 - Fully introduced in Season 2 / Book 2
 - Magenta is female
@@ -32,57 +33,55 @@ A Prime has rules, limits, and costs.
 - She will be fun, spicy, observant — people will fall in love with her
 - She completes the CMY triangle needed for White
 
-**Y = YELLOW PRIME**
-
+Y = YELLOW PRIME
 - Hope, restoration, protection, willpower
 - This is Zaro
 - Warm yellow spark energy
 
-**K = BLACK PRIME**
-
+K = BLACK PRIME
 - Hunger, gravity, silence, theft
 - This is the Black Hole
 - Light does not escape it
 
-## THE COMBO SYSTEM (ALL SIX COMBINATIONS)
+
+### THE COMBO SYSTEM (ALL SIX COMBINATIONS)
+
 
 The CMYK system follows real color science.
 Every two-Prime combination produces a new frequency.
 Every combo has unique properties, costs, and narrative meaning.
 
-### COMBO 1 — CYAN + YELLOW = GREEN (Verdant Seal)
+COMBO 1 — CYAN + YELLOW = GREEN (Verdant Seal)
+Discovery: Season 1 / Book 1 (finale)
+Meaning: Logic meets warmth. Containment meets restoration.
+Effect: Neutralizes Cosmic Fungus in a space. Repairs and stabilizes.
+Limit: Green does NOT destroy the Black Hole. It only clears fungus and heals damage.
+Rule: Green is rare. It must be earned. Only Zaro + ARC-7 create Green.
 
-- Discovery: Season 1 / Book 1 (finale)
-- Meaning: Logic meets warmth. Containment meets restoration.
-- Effect: Neutralizes Cosmic Fungus in a space. Repairs and stabilizes.
-- Limit: Green does NOT destroy the Black Hole. It only clears fungus and heals damage.
-- Rule: Green is rare. It must be earned. Only Zaro + ARC-7 create Green.
+COMBO 2 — MAGENTA + YELLOW = RED
+Discovery: Book 2 onwards (teased, details locked for later)
+Meaning: Passion meets warmth. Intense but volatile.
+Properties: Powerful and emotionally charged, but unstable and hard to sustain.
+Limit: Red's volatility makes it dangerous — it can burn out or backfire.
+Rule: Red appears when Magenta and Yellow combine. Full mechanics defined in Book 2 canon.
 
-### COMBO 2 — MAGENTA + YELLOW = RED
+COMBO 3 — CYAN + MAGENTA = BLUE
+Discovery: Book 2 onwards (teased, details locked for later)
+Meaning: Logic meets mystery. A cold but brilliant combination.
+Properties: Strategic and precise, but emotionally detached.
+Limit: Blue lacks the warmth needed to truly restore — it can contain but not heal.
+Rule: Blue appears when ARC-7 and Magenta combine. Full mechanics defined in Book 2 canon.
 
-- Discovery: Book 2 onwards (teased, details locked for later)
-- Meaning: Passion meets warmth. Intense but volatile.
-- Properties: Powerful and emotionally charged, but unstable and hard to sustain.
-- Limit: Red's volatility makes it dangerous — it can burn out or backfire.
-- Rule: Red appears when Magenta and Yellow combine. Full mechanics defined in Book 2 canon.
+COMBO 4 — CYAN + MAGENTA + YELLOW = WHITE (Ultimate)
+Discovery: End of Book 2 or Book 3
+Meaning: All three Primes unified. The only force that can neutralize Black.
+Effect: WHITE is the ultimate neutralizer of the Black Hole (K Prime).
+Limit: Requires all three Primes in perfect alignment. Enormous cost to all three.
+Rule: White is the endgame. It cannot be achieved without trust, sacrifice, and unity.
 
-### COMBO 3 — CYAN + MAGENTA = BLUE
 
-- Discovery: Book 2 onwards (teased, details locked for later)
-- Meaning: Logic meets mystery. A cold but brilliant combination.
-- Properties: Strategic and precise, but emotionally detached.
-- Limit: Blue lacks the warmth needed to truly restore — it can contain but not heal.
-- Rule: Blue appears when ARC-7 and Magenta combine. Full mechanics defined in Book 2 canon.
+### WHAT ABOUT K (BLACK) COMBINATIONS?
 
-### COMBO 4 — CYAN + MAGENTA + YELLOW = WHITE (Ultimate)
-
-- Discovery: End of Book 2 or Book 3
-- Meaning: All three Primes unified. The only force that can neutralize Black.
-- Effect: WHITE is the ultimate neutralizer of the Black Hole (K Prime).
-- Limit: Requires all three Primes in perfect alignment. Enormous cost to all three.
-- Rule: White is the endgame. It cannot be achieved without trust, sacrifice, and unity.
-
-## WHAT ABOUT K (BLACK) COMBINATIONS?
 
 K does not "combine" with other Primes.
 K consumes. K steals. K absorbs.
@@ -95,22 +94,50 @@ There is only theft.
 This is fundamental to the villain's nature:
 The Black Hole cannot create. It can only take.
 
-## SEASON / BOOK TIMELINE
+(2026-05-09:) K is also fundamentally UNORGANIZED. Each CMY Prime color
+has its own internal structure and discipline. K does not. The Black Hole
+consumes the entire spectrum with no specialization, no factions, no
+number to wear, no internal organization. Black Holes that exist anywhere
+in the cosmos are individual predators — not a unified species, not a
+council, not allies. *Black has no internal organization because Black
+has nothing to govern — only hunger.* This is the structural reason the
+Black Hole feels fundamentally different from any other Prime threat:
+the others are organized; the Black is organized only around the act of
+consuming.
 
-- Book 1: GREEN discovered (C+Y). Magenta teased (eyes only).
-- Book 2: Magenta fully introduced. RED (M+Y) and BLUE (C+M) explored. White theorized.
-- Book 3: WHITE (C+M+Y) achieved. Offensive into Black Hole realm.
 
-## IMPORTANT RULES (LOCKED)
+### SEASON / BOOK TIMELINE
 
-1. **No random new colors.** Every color change must be explainable by CMYK science.
-2. **Prime powers have limits.** No infinite power.
-3. **Green is rare.** It must be earned.
-4. **Black cannot be beaten by Green alone.** That keeps the threat real for many seasons.
-5. **Red and Blue are volatile / limited.** Only White can end the war.
-6. **Combos require real synchronization.** They are not "press two buttons." They are earned through trust and timing.
 
-## WHAT THIS DOES FOR THE AUDIENCE
+Book 1: GREEN discovered (C+Y). Magenta teased (eyes only).
+Book 2: Magenta fully introduced. RED (M+Y) and BLUE (C+M) explored. White theorized.
+Book 3: WHITE (C+M+Y) achieved. Offensive into Black Hole realm.
+
+
+### IMPORTANT RULES (LOCKED)
+
+
+1) No random new colors.
+Every color change must be explainable by CMYK science.
+
+2) Prime powers have limits.
+No infinite power.
+
+3) Green is rare.
+It must be earned.
+
+4) Black cannot be beaten by Green alone.
+That keeps the threat real for many seasons.
+
+5) Red and Blue are volatile / limited.
+Only White can end the war.
+
+6) Combos require real synchronization.
+They are not "press two buttons." They are earned through trust and timing.
+
+
+### WHAT THIS DOES FOR THE AUDIENCE
+
 
 This system gives fans something to analyze.
 It feels scientific, not fantasy nonsense.
