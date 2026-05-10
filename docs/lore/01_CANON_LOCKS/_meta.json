@@ -2,6 +2,7 @@
   "title": "Canon Rules",
   "description": "The rules that shape the ZaroVerse — the colors, the primes, the fruit, the names.",
   "order": [
+    "COSMOLOGY_LOCK.md",
     "CMYK_PRIME_SYSTEM_LOCK.md",
     "POWER_RULES_LOCK.md",
     "FRUIT_RULES_LOCK.md",
