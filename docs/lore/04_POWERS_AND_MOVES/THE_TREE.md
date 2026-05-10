@@ -256,7 +256,7 @@ The tree is proof that scars can glow.
 ---
 
 
-## 8a. MAGENTA'S BEAM — THE SECRET INGREDIENT (LOCKED — April 2026)
+## 8a. MAGENTA'S BEAM — THE SECRET INGREDIENT (LOCKED)
 
 
 ## TWO SIGNALS GO TO SPACE IN BOOK 1:

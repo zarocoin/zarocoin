@@ -112,7 +112,7 @@ Her arc in Book 2 (high level):
 ### VISUAL IDENTITY
 
 
-## MATERIAL LANGUAGE: AURORA (LOCKED — April 2026)
+## MATERIAL LANGUAGE: AURORA (LOCKED)
 
 Magenta is AURORA — atmospheric sky-light. Beautiful instability.
 The sky misbehaving. Light refusing to stay in line. Twisting,

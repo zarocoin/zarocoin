@@ -44,7 +44,7 @@ It is a major system break.
 
 Overclock happens when ARC-7 pushes past safe limits.
 
-### OVERCLOCK PROGRESSION (v2.2 — LOCKED April 2026)
+### OVERCLOCK PROGRESSION
 
 **SEMI-OVERCLOCK:**
 

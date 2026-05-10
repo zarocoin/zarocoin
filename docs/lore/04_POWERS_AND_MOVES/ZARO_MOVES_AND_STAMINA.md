@@ -151,7 +151,7 @@ Later, Zaro will learn:
 - extending the spare tank capacity
 
 
-### SUPER NOVA — NAMED ULTIMATE POWER (v2.0 — 2026-05-09 — NEW)
+### SUPER NOVA — NAMED ULTIMATE POWER
 
 The OVERDRIVE (white-hot yellow) state above is the **visible seed of
 Super Nova** — Zaro's eventual ultimate power. He is made of sunlight;

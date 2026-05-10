@@ -37,7 +37,7 @@ Teal light is his signature.
 His movement is controlled and purposeful.
 He does not act emotional early — until the story forces it.
 
-## MATERIAL LANGUAGE: ELECTRICITY / AI / ROBOTICS (LOCKED — April 2026)
+## MATERIAL LANGUAGE: ELECTRICITY / AI / ROBOTICS (LOCKED)
 
 ARC-7's material is the opposite of Zaro's warm skin.
 He is an AI that built itself a body. Think Transformers meets Tron.
@@ -67,7 +67,7 @@ Crossing risks:
 - contamination travel
 - war
 
-## OVERCLOCK (v2.2 — GOLDEN OVERCLOCK LOCKED, April 2026)
+## OVERCLOCK (GOLDEN OVERCLOCK LOCKED)
 
 When ARC-7 is pushed to the edge, he can overclock.
 
