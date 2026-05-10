@@ -1,8 +1,5 @@
 # COSMOLOGY LOCK (CANON)
 
-Created: 2026-05-09 (working direction — revisable until shipped)
-Companion: see DECISIONS_LOCKED_2026-05-09.md (`_To-Do/`) for the session that produced this lock.
-
 This file establishes the architectural cosmology of the ZaroVerse — the rules that govern how the universe works at scales beyond Earth's CMY arc. It exists to protect the saga from accidentally closing the cosmos in any Book 1–3 decision.
 
 This is *internal* canon. Most of it is OFF-PAGE in Book 1. Surfacing happens gradually across Books 2–7+ as the audience earns access.
@@ -141,4 +138,3 @@ This is what gives the universe a 50-year sustainability that single-author fran
 
 ---
 
-*Working direction, 2026-05-09. Revisable any time better thinking shows up. Hardens at publication.*

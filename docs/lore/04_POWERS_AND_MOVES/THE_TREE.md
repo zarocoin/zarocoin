@@ -135,12 +135,6 @@ He waters the tree. He cares for it. He watches it the way you watch something t
 The fruits are not a resource to spend. They are proof that the tree is alive.
 Each new fruit is confirmation: still here. Still growing. Not over.
 
-META NOTE (internal only — never in the book or public lore):
-The 1 billion fruits parallel ZARO Coin's fixed supply of 1,000,000,000.
-The book never says "coins." The book never references crypto.
-The crypto-literate audience catches this through Easter eggs and subtext.
-The number is the Easter egg. The audience that knows, knows.
-
 
 ---
 

@@ -85,11 +85,6 @@ Zaro is not "hoarding money."
 He is protecting life.
 He waters the tree and cares for it.
 
-**META NOTE (internal only — not in the book):**
-The 1 billion fruits parallel ZARO Coin's fixed supply.
-The book never says "coins" or references crypto directly.
-The crypto-literate audience catches this through Easter eggs and subtext.
-
 ## THE TREASURES SHELF (v2.1 — NEW)
 
 Alongside the fruits, Zaro collects small personal objects:
@@ -195,17 +190,6 @@ But the tree is permanently changed:
 - Proof that survival and wholeness are not the same thing
 - Proof that scars can glow
 - The thing fans draw, tattoo, and reference
-
-**META NOTE (internal only):**
-The tree scar parallels the chart scar from the real hack.
-The fruits scorched on the tree = coins damaged in value (never scattered — stayed on-chain).
-Lower fruits nearly dead = worst-hit positions hanging by a thread.
-Zaro's supernova care = founder pouring everything into recovery.
-Magenta's beam = the community/early believers sending support from far away.
-Gradual top-down recovery over weeks = 2-month buyback from Uniswap, coin by coin.
-The tree IS the treasury. Everything comes back to the tree.
-NOT OVER carved in bark IS the moment the founder said "we're not done."
-The regrowth IS the comeback. This is autobiography encoded as fantasy.
 
 ## THE THEFT LOGIC (HOW FUNGUS STEALS WITHOUT BRAWLING)
 

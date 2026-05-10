@@ -2,7 +2,7 @@
 
 
 Changelog:
-v2.2 — (2026-05-09) Split Super Nova from NOT OVER (working direction; revisable). Super Nova named as Zaro's eventual ultimate power — glimpsed in Book 1's NOT OVER moment as uncontrolled ignition; earned and aimed in Book 3. NOT OVER reframed as the carved promise / willpower mechanic; the visual ignition that cracks beneath it is the Super Nova seed. Echo Core / White Resonance placeholders moved to `POWER_RULES_FUTURE_LOCK.md` (internal only) so this file remains safe to mirror to GitHub_Docs.
+v2.2 — (2026-05-09) Split Super Nova from NOT OVER. Super Nova named as Zaro's eventual ultimate power — glimpsed in Book 1's NOT OVER moment as uncontrolled ignition; earned and aimed in Book 3. NOT OVER reframed as the carved promise / willpower mechanic; the visual ignition that cracks beneath it is the Super Nova seed.
 v2.1 — Added NOT OVER medium-specific note. Added Red/Blue/White combo placeholders. Added dome inverse law reference.
 
 These rules prevent power confusion and keep the story believable.
@@ -83,10 +83,7 @@ FUTURE COMBOS (v2.1 — details locked for Book 2+):
 - BLUE (C+M): Logic meets mystery. Cold but brilliant.
 - WHITE (C+M+Y): The ultimate neutralizer. Only force that can end the Black Hole.
 
-(Echo Core and White Resonance — Book 2/3 mechanics — moved to
-`POWER_RULES_FUTURE_LOCK.md` (internal-only, never publish). The split
-was made 2026-05-09 so this file remains safe to mirror to GitHub_Docs
-without leaking Book 2/3 plot mechanics.)
+(Echo Core and White Resonance — Book 2/3 mechanics — reserved for future books.)
 
 BLACK HOLE (K PRIME):
 The Black Hole cannot be neutralized fully by Green.

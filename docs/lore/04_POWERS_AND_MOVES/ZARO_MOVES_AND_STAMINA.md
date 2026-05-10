@@ -170,8 +170,6 @@ In Book 3: Super Nova is earned, aimed, and named.
 - He recharges under the sun (live solar charge).
 - The contradiction lands: the cuteness that nukes worlds. Soft power.
 
-Reference visual: `ASSETS/Cinematic References/Zaro Super Nova.png`.
-MHA Plus Ultra register intentional. See also `01_CANON_LOCKS/POWER_RULES_LOCK.md`
-and `03_CHARACTERS/ZARO.md` for the fuller character framing.
+MHA Plus Ultra register intentional.
 
 **Lock for Book 1 prose:** NEVER name "Super Nova" in narration.

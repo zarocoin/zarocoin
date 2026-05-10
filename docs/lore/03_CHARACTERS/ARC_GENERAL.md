@@ -1,8 +1,5 @@
 # ARC GENERAL — CHARACTER FILE (CANON)
 
-Created: 2026-05-09 (working direction — revisable until shipped)
-Companion: see DECISIONS_LOCKED_2026-05-09.md (`_To-Do/`) for the session that introduced this character.
-
 Working designation in Book 1: **The General** (or **General-1** in canon notes).
 Real name: TBD — chosen by the character himself in Book 2.
 
@@ -41,7 +38,7 @@ The General class is small in number. They serve as the Board's hands when field
 - **Brow slit:** Single vertical teal slit, same as all ARC beings.
 - **Eyes:** Ovoid teal, whole-eye glow, no pupils. Same family as ARC-7 and Soldier units.
 - **Helm:** More militarized than Prime helm. Cleaner lines, slightly more aggressive silhouette. Retains the ARC-being signature without being threatening.
-- **Visual register reference:** see `Cinematic References/` for Shihab's render set (the marble-armor character with diamond chest). MHA / Marvel-cinematic-officer aesthetic intentional.
+- **Visual register reference:** MHA / Marvel-cinematic-officer aesthetic intentional.
 
 Class signal is through body composition + armor texture. ALL ARC beings share the teal energy signature.
 
@@ -96,7 +93,7 @@ This is the entire on-page evidence of the General's transformation in Book 1. O
 
 After the cure + liberation, the General has a subtle visual tell — a marker that is visible to a careful viewer but deniable to a casual one.
 
-**Working version (revisable):** The teal diamond on his chest gains a tiny inner glow that wasn't there before. *Not* a different color — same teal. Just slightly brighter at the core. Like a candle inside a chamber that previously held only ambient light.
+The teal diamond on his chest gains a tiny inner glow that wasn't there before. *Not* a different color — same teal. Just slightly brighter at the core. Like a candle inside a chamber that previously held only ambient light.
 
 The Board misses it on his return. Mina captures the difference on sensor when comparing pre-infection scans (which she has from his arrival) to post-cure scans.
 
@@ -172,5 +169,3 @@ That is what changes in his Ch10 cure. Everything he was before — capability, 
 That's the whole arc.
 
 ---
-
-*Working direction, 2026-05-09. Revisable any time better thinking shows up. Hardens at publication.*

@@ -1,8 +1,6 @@
 # GEAR AND TECH (BOOK 1)
 
 Status: Canon — Documents all human and ARC tech in Book 1.
-Created: March 2, 2026
-Location: Lore 3.0 / 04_POWERS_AND_MOVES
 
 **PHASE 1 vs PHASE 2 (CRITICAL DISTINCTION):**
 Mina and Kai are normal teenagers with civilian and homemade gear

@@ -56,30 +56,10 @@ Both are right. Neither reading requires the other.
 
 8. FRUIT 6-STATE LIFECYCLE LOCKED (April 2026 visual; 2026-05-09 confirmed):
    See `01_CANON_LOCKS/VISUAL_DESIGN_LOCK.md` for the full 6-state spec.
-   Reference asset for the recovered fruit (Frame 6, post-Aurora touch):
-   `ASSETS/Cinematic References/ZARO Coin 6.png` — translucent golden
+   The recovered fruit (Frame 6, post-Aurora touch): translucent golden
    sphere with a clear RED Z visible inside. **The Y+M=Red signature is
    canonized at the asset level.** This is the canonical visual for the
    closing-image fruit recovery in Ch10.
-
-
----
-
-
-## META PARALLEL (INTERNAL ONLY — NEVER IN PUBLIC LORE)
-
-| FRUIT | COIN |
-|---|---|
-| Fruits scorched on tree | Coins damaged in value |
-| Never scatter (stay on branches) | Never left the chain (stayed on-chain) |
-| Lower fruits nearly dead | Worst-hit positions hanging by a thread |
-| Zaro feeds them daily (Yellow warmth) | Founder pours everything into recovery |
-| Magenta's beam (M energy from space) | Community / early believers sending support |
-| Gradual recovery over weeks, top-down | 2-month buyback from Uniswap, position by position |
-| Bottom fruits recover last | Worst-hit recover last, but they recover |
-| Tree = treasury | Treasury = the project itself |
-| 1B fruits max | 1B fixed supply |
-| Red warmth in recovered fruits (Y+M) | The next chapter — growth beyond recovery |
 
 
 ---

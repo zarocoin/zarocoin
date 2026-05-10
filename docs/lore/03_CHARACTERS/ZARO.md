@@ -69,7 +69,7 @@ COLOR STATES (LOCKED)
   light shows through everywhere — he looks like what he really is:
   a being of pure light barely contained in a body. Then the crash.
 
-SUPER NOVA (named power — 2026-05-09 working direction; revisable)
+SUPER NOVA (named power)
 The Overdrive (White) state above is the *visible seed* of Super Nova —
 Zaro's eventual ultimate power. He is made of sunlight; the sun is a
 series of nuclear explosions; given pressure, he can do what a star does.
@@ -86,11 +86,6 @@ In Book 3: Super Nova is earned, aimed, and named.
 - He learns to wear battle clothes that channel and survive the ignition.
 - He recharges under the sun (live solar charge — see Solar rules below).
 - The contradiction lands: the cuteness that nukes worlds. Soft power.
-
-Reference visual: see `Cinematic References/Zaro Super Nova.png` for the
-Ch5 ignition seed (cute round Zaro, white-blank eyes, white light bursting
-from chest, yellow lightning radiating, hands open, body still recognizably
-yellow). MHA Plus Ultra register intentional.
 
 Lock for Book 1 prose: NEVER name "Super Nova" in narration. The audience
 holds the secret. Zaro doesn't yet know what he is.
