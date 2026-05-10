@@ -6,10 +6,8 @@
 The tree produces small glowing fruits. Not seeds. FRUITS.
 They are proof the tree is alive. Each new fruit = still here. Still growing. Not over.
 
-The fruits subtly echo the ZARO Coin logo in their natural shape.
-Not stamped. Not labeled. The resemblance is in the FORM ITSELF.
-Crypto people notice. Story people see beautiful alien fruit.
-Both are right. Neither reading requires the other.
+The fruits have a distinctive natural shape — not stamped, not labeled.
+The resemblance to the ZaroVerse symbol is in the FORM ITSELF.
 
 
 ---
@@ -32,7 +30,6 @@ Both are right. Neither reading requires the other.
    but the tree is where they originate and where the value lives.
 
 4. 1 BILLION FRUITS maximum over the full story timeline.
-   (Internal parallel to ZARO Coin's 1B fixed supply — never stated in-book.)
 
 5. RECOVERY IS GRADUAL AND TOP-DOWN. After the breach:
    - Top branches (least damaged) recover FIRST → black to amber to gold
@@ -51,8 +48,8 @@ Both are right. Neither reading requires the other.
      Mina detects "anomalous energy" in the soil but cannot identify its source.
 
 7. FRUIT VISUAL DESIGN must be locked BEFORE Tree State 3 (bearing fruit)
-   is generated. The ZARO Coin logo echo must be embedded in the fruit's
-   natural form at the design stage.
+   is generated. The fruit's symbolic shape must be embedded in the natural
+   form at the design stage.
 
 8. FRUIT 6-STATE LIFECYCLE LOCKED (April 2026 visual; 2026-05-09 confirmed):
    See `01_CANON_LOCKS/VISUAL_DESIGN_LOCK.md` for the full 6-state spec.
@@ -62,19 +59,3 @@ Both are right. Neither reading requires the other.
    closing-image fruit recovery in Ch10.
 
 
----
-
-
-## SIGN-UP PAGE CONNECTION
-
-The fruit is the reward for signing up at zaroverse.com.
-Users create an account, reserve their @handle, and receive
-a complimentary ZARO fruit from the Seed Core.
-
-The sign-up page IS a lore moment:
-- Page background: the tree bearing fruit
-- Thank you screen: a single fruit, close-up, glowing — "Your fruit from the Seed Core"
-- Optional: "Download your fruit digitally" → paste ETH wallet → claim token
-- ALL language is story language. No "token," "airdrop," "claim," "ERC-20"
-- The word "fruit" does all the work
-- Story fans feel welcomed. Crypto fans get the token. Both are served.

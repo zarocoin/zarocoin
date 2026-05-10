@@ -139,30 +139,6 @@ Each new fruit is confirmation: still here. Still growing. Not over.
 ---
 
 
-## 6. THE ZARO COIN LOGO EASTER EGG (PENDING — LOCKED ONCE CONFIRMED)
-
-
-The ZARO Coin logo is subtly embedded in the visual design of the tree's fruits.
-
-NON-CRYPTO READERS: See glowing fruits from a luminous tree.
-Nothing unusual. Just beautiful fantasy botany.
-
-CRYPTO-AWARE READERS: Recognize the logo shape embedded in the seed design.
-The connection clicks: the tree, the 1 billion fruits, the franchise.
-No one points it out in the story. It is silent architecture.
-
-PRODUCTION RULE: The logo must be readable at natural viewing scale — not hidden so
-deeply it requires a screenshot to find, but not labeled or highlighted either.
-It should feel like a design decision that "just makes sense" for the seed's shape.
-
-STATUS: Logo asset required from Shihab before this can be finalized in visual design.
-This note exists so that no visual asset of the fruit is treated as final
-until the logo reference has been integrated.
-
-
----
-
-
 ## 7. THE BREACH — CHAPTER 5 (LOCKED SEQUENCE)
 
 
@@ -396,35 +372,3 @@ It is a symbol of life that chose not to end.
 The scar is part of the choice. The glow is the answer.
 
 
----
-
-
-## 11. META NOTES (INTERNAL — NEVER IN PUBLIC LORE)
-
-
-The tree parallels the ZARO Coin story in full:
-
-THE TREE              = THE TOKEN / THE CHART
-THE SCAR              = THE HACK
-THE FIRE              = THE ATTACK ON THE PROJECT
-FRUITS SCORCHED       = COINS DAMAGED IN VALUE (never scattered — stayed on-chain)
-LOWER FRUITS NEARLY DEAD = THE WORST-HIT POSITIONS, HANGING BY A THREAD
-ZARO'S SUPERNOVA CARE = FOUNDER POURING EVERYTHING INTO RECOVERY
-MAGENTA'S BEAM        = THE COMMUNITY / EARLY BELIEVERS SENDING SUPPORT FROM FAR AWAY
-2-MONTH SLOW RECOVERY = 2-MONTH BUYBACK FROM UNISWAP, COIN BY COIN
-TOP FRUITS RECOVER FIRST = STRONGEST POSITIONS RECOVER FIRST
-BOTTOM FRUITS RECOVER LAST = WORST-HIT RECOVER LAST BUT THEY RECOVER
-SEED CORE IGNITING    = THE MOMENT THE FOUNDER SAID "WE'RE NOT DONE"
-NOT OVER CARVED IN BARK = THE PUBLIC COMMITMENT TO REBUILD
-THE REGROWTH          = THE COMEBACK
-THE TREE = THE TREASURY = EVERYTHING COMES BACK TO THE TREE
-THE 1 BILLION FRUITS  = THE 1 BILLION FIXED SUPPLY
-RED WARMTH IN RECOVERED FRUITS = Y+M, THE NEXT CHAPTER (BOOK 2 SEEDED)
-
-This is autobiography encoded as fantasy.
-The real event — the hack, the buyback, the community, the supply lock — is written
-permanently into the structure of the story, not as a reference, but as the story itself.
-
-Non-crypto readers get: a beautiful, devastating, hopeful tree that recovers with help from the sky.
-Crypto-aware readers get: the whole picture — every beat of the recovery mapped.
-Both readings are complete. Neither requires the other.
