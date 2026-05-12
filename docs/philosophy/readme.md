@@ -20,7 +20,7 @@ It answers a single question:
 Key themes:
 
 - **The Yellow Spark** – introduction of Zaro as a quiet, optimistic companion character designed to live in the real world, not only on screens.  
-- **Four Pillars** – ZaroVerse Studios, ZaroLand eco-parks, ZaroShop lifestyle retail, and ZARO Coin as the digital thread that connects them.  
+- **Three Pillars** – ZaroVerse Studios, ZaroShop lifestyle retail, and ZARO Coin as the digital thread that connects them.  
 - **100 Years vs 10 Years** – a respectful acknowledgment of Disney’s 100-year journey, and a statement that modern tools (AI, real-time engines, global logistics, blockchain) allow a new universe to grow on a 10-year horizon, without copying Disney’s path.  
 - **Invitation to the Reader** – frames 2025 as the year “a yellow spark was created” and asks where the reader was when Zaro began.
 

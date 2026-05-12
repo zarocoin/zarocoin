@@ -47,20 +47,6 @@ We’re using today’s tools — real-time engines, AI-assisted pipelines, remo
 
 ---
 
-## ZaroLand: Parks Grown from Nature, Not Concrete
-
-ZaroLand is our answer to a different question:
-
-> What if a “theme park” felt less like a queue of rides… and more like a forest you never want to leave?
-
-Think rope bridges between trees, cabins instead of hotels, night walks under real stars, AR stories layered quietly onto nature instead of replacing it. Zaro walking past you on a wooden path, not a neon hallway.
-
-ZaroLand is being designed as an eco-adventure park model that can live in different countries, always grounded in local culture and environment.
-
-Less fireworks, more fireflies.
-
----
-
 ## ZaroShop: Everyday Life, But a Little Warmer
 
 Great characters eventually step off the screen and into people’s homes.
@@ -112,7 +98,6 @@ Not to copy their path. To walk our own.
 ## The Journey Starts Now
 
 ZaroVerse Studios.  
-ZaroLand eco-parks.  
 ZaroShop retail and lifestyle.  
 ZARO Coin, weaving it all together.
 
