@@ -1,7 +1,7 @@
 {
   "name": "Zaro Coin (Wormhole)",
   "symbol": "ZARO",
-  "description": "ZARO is the native token of ZaroVerse — a story-first entertainment universe. Bridged from Ethereum to Solana via Wormhole. Fixed supply of 1,000,000,000. Liquidity permanently locked.",
+  "description": "ZARO is the native token of ZaroVerse, a story-first entertainment universe. This is the Solana Wormhole-wrapped version of the Ethereum ERC-20 (0xc311FD6DA9686507F33991543d8158EF5FaDd5E7). Total supply: 1,000,000,000 ZARO on Ethereum. Only bridged tokens circulate on Solana — the full market cap reflects the Ethereum supply. Liquidity permanently locked.",
   "image": "https://raw.githubusercontent.com/zarocoin/zarocoin/main/media/logos/ZARO_logo_2D.png",
   "external_url": "https://www.zarocoin.xyz",
   "extensions": {
@@ -13,6 +13,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/zaro-coin/",
     "origin_chain": "Ethereum",
     "origin_contract": "0xc311FD6DA9686507F33991543d8158EF5FaDd5E7",
-    "bridge": "Wormhole Token Bridge"
+    "bridge": "Wormhole Token Bridge",
+    "total_supply": "1000000000"
   }
 }
