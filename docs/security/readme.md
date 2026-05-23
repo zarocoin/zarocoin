@@ -16,9 +16,9 @@ ZARO has a fixed, immutable supply of **1,000,000,000 tokens**, minted once on E
 Total Supply = 1,000,000,000 ZARO (Ethereum, immutable)
 
 Ethereum  : 1,000,000,000  (origin — all other chains draw from this)
-  └─ locked in Base bridge  : 10,000,000  →  minted on Base
-  └─ locked in Wormhole     : ~11,000,000 →  minted on BNB Chain
-  └─ locked in Wormhole     : 10,000,000  →  minted on Solana
+  └─ locked in Base bridge  : [variable] →  minted on Base
+  └─ locked in Wormhole     : [variable] →  minted on BNB Chain
+  └─ locked in Wormhole     : [variable] →  minted on Solana
   └─ circulating on ETH     : remainder
 
 SUM across all chains ≤ 1,000,000,000 ZARO. Always.
@@ -91,11 +91,3 @@ No wallet can arbitrarily alter any balance. Bridge contracts that hold technica
 | OP Stack Standard Bridge docs | https://docs.optimism.io/builders/app-developers/bridging/standard-bridge |
 | Wormhole audit (Halborn) | https://github.com/wormhole-foundation/wormhole/blob/main/audits/ |
 | CoinGecko listing | https://www.coingecko.com/en/coins/zaro-coin |
-| Blockaid confirmation | Available on request — shihab@zaroverse.com |
-
----
-
-## Incident Advisories
-
-- [Incidents Index](./incidents/readme.md)
-- [2025-12-11 — Malware-Based Compromise (Green)](./incidents/2025-12-11-malware-compromise/readme.md)

@@ -14,7 +14,7 @@ ETHEREUM (origin) ──── Wormhole locks ZARO ────→ SOLANA (Wormh
 0xc311FD6DA9686507F33991543d8158EF5FaDd5E7      AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W
 ```
 
-Every ZARO on Solana represents ZARO locked in Wormhole custody on Ethereum. The Solana supply is a 1:1 mirror; no new supply is created. As of deployment, 10,000,000 ZARO are bridged to Solana (1% of total supply), fully backed by an equal amount locked on Ethereum.
+Every ZARO on Solana represents ZARO locked in Wormhole custody on Ethereum. The Solana supply is a 1:1 mirror; no new supply is created. The circulating Solana supply is always verifiable on Solscan and is always backed 1:1 on Ethereum.
 
 ---
 
@@ -65,8 +65,8 @@ In May 2026, a Wormhole re-attestation was performed to correct the on-chain met
 
 | Item | Value |
 |---|---|
-| Bridged supply on Solana | 10,000,000 ZARO |
-| Locked on Ethereum (Wormhole escrow) | 10,000,000 ZARO |
+| Bridged supply on Solana | Verifiable live on [Solscan](https://solscan.io/token/AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W) |
+| Locked on Ethereum (Wormhole escrow) | Equal amount, 1:1 |
 | Backing ratio | 1:1 enforced by Wormhole protocol |
 | Total across all chains | ≤ 1,000,000,000 ZARO |
 

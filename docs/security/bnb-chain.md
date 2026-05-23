@@ -14,7 +14,7 @@ ETHEREUM (origin) ──── Wormhole locks ZARO ────→ BNB CHAIN (Wo
 0xc311FD6DA9686507F33991543d8158EF5FaDd5E7      0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc
 ```
 
-Every ZARO on BNB Chain represents ZARO locked in Wormhole custody on Ethereum. The BNB supply is a 1:1 mirror; no new supply is created. As of the last update, approximately 11M ZARO are bridged to BNB Chain, fully backed by an equal amount locked on Ethereum.
+Every ZARO on BNB Chain represents ZARO locked in Wormhole custody on Ethereum. The BNB supply is a 1:1 mirror; no new supply is created. The circulating BNB Chain supply is always verifiable on BscScan and is always backed 1:1 on Ethereum.
 
 ---
 
@@ -56,7 +56,7 @@ GoPlus and similar scanners flag Wormhole wrapped tokens as `is_proxy = true`. T
 
 | Item | Value |
 |---|---|
-| Bridged supply on BNB Chain | ~11,025,000 ZARO |
+| Bridged supply on BNB Chain | Verifiable live on [BscScan](https://bscscan.com/token/0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc) |
 | Locked on Ethereum (Wormhole escrow) | Equal amount, 1:1 |
 | Backing ratio | 1:1 enforced by Wormhole protocol |
 | Total across all chains | ≤ 1,000,000,000 ZARO |

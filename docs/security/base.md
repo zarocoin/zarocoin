@@ -14,7 +14,7 @@ ETHEREUM (origin) ──── L1StandardBridge locks ZARO ────→ BASE 
 0xc311FD6DA9686507F33991543d8158EF5FaDd5E7              0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0
 ```
 
-Every ZARO on Base represents ZARO locked on Ethereum in the L1StandardBridge (`0x3154Cf16ccdb4C6d922629664174b904d80F2C35`). The Base supply cannot exceed what has been locked on Ethereum. As of deployment, 10,000,000 ZARO are bridged (1% of total supply). The remaining 990M stay on Ethereum until deliberately bridged.
+Every ZARO on Base represents ZARO locked on Ethereum in the L1StandardBridge (`0x3154Cf16ccdb4C6d922629664174b904d80F2C35`). The Base supply cannot exceed what has been locked on Ethereum. Any amount may be bridged at any time — the circulating Base supply is always verifiable on BaseScan and is always backed 1:1 on Ethereum.
 
 ---
 
@@ -62,8 +62,8 @@ No owner exists. The bridge can only mint or burn in direct response to a verifi
 
 | Item | Value |
 |---|---|
-| Current supply on Base | 10,000,000 ZARO |
-| Locked on Ethereum L1 | 10,000,000 ZARO (in L1StandardBridge `0x3154Cf16ccdb4C6d922629664174b904d80F2C35`) |
+| Current supply on Base | Verifiable live on [BaseScan](https://basescan.org/token/0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0) |
+| Locked on Ethereum L1 | Equal amount in L1StandardBridge `0x3154Cf16ccdb4C6d922629664174b904d80F2C35` |
 | Backing ratio | 1:1 enforced by bridge protocol |
 | Total across all chains | ≤ 1,000,000,000 ZARO |
 
