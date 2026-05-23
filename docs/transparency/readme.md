@@ -212,6 +212,8 @@ All actions were executed by the official ZARO Wormhole Bridge Wallet, with LP t
 | Pair | ZARO / WETH (volatile) |
 | Pool Address | `0x55f0a6b67cae42f6a38f754ae7d814bcece1a80a` |
 | BaseScan | https://basescan.org/address/0x55f0a6b67cae42f6a38f754ae7d814bcece1a80a |
+| LP Status | **Burned** — LP tokens sent to `0x000000000000000000000000000000000000dEaD` (permanent, no unlock possible) |
+| LP Burn TX | [`0x2033eda6...`](https://basescan.org/tx/0x2033eda615044458b723fb9b7a2141ddcd6cc60d5bf9c7cde933c8d2e33da332) |
 
 All bridged tokens correspond 1:1 with locked ERC-20 supply on Ethereum. No new tokens were minted or issued outside the canonical 1,000,000,000 ZARO supply.
 

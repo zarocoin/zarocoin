@@ -79,6 +79,7 @@ No owner exists. The bridge can only mint or burn in direct response to a verifi
 | L1StandardBridge (ETH) | https://etherscan.io/address/0x3154Cf16ccdb4C6d922629664174b904d80F2C35 |
 | OP Stack bridge docs | https://docs.optimism.io/builders/app-developers/bridging/standard-bridge |
 | Aerodrome pool (ZARO/WETH) | https://basescan.org/address/0x55f0a6b67cae42f6a38f754ae7d814bcece1a80a |
+| LP burn TX | https://basescan.org/tx/0x2033eda615044458b723fb9b7a2141ddcd6cc60d5bf9c7cde933c8d2e33da332 |
 
 ---
 
