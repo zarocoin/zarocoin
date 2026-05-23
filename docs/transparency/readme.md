@@ -177,6 +177,46 @@ This transaction brings total BSC liquidity to approximately $2,000 (combined ZA
 All actions were executed by the official ZARO Wormhole Bridge Wallet, with LP tokens held securely by the same wallet pending future lock.
 
 
+## 🔵 Base Integration (OP Stack Standard Bridge)
+
+**Date:** 2026-05-23
+**Bridge:** OP Stack Standard Bridge (Coinbase / OP Labs)
+**Parent Token:** Ethereum `0xc311FD6DA9686507F33991543d8158EF5FaDd5E7`
+**Base Contract (OptimismMintableERC20):** [`0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0`](https://basescan.org/token/0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0)
+
+### Technical Summary
+
+| Item | Detail |
+|---|---|
+| Bridge Protocol | OP Stack Standard Bridge (Coinbase / OP Labs) |
+| Factory | `0x4200000000000000000000000000000000000012` (predeploy, audited) |
+| L1StandardBridge (ETH) | `0x3154Cf16ccdb4C6d922629664174b904d80F2C35` |
+| L2StandardBridge (Base) | `0x4200000000000000000000000000000000000010` |
+| `REMOTE_TOKEN()` | `0xc311FD6DA9686507F33991543d8158EF5FaDd5E7` (immutable — points to ETH origin) |
+| Total Bridged | 10,000,000 ZARO (1% of total supply) |
+| Deployer Wallet | `0x4B7a5e5a0119B011c5Ba112A84A3FB47C7c18802` (gas-only, now empty) |
+| Contract auto-verified | ✅ via bytecode match on BaseScan |
+
+### Bridge Transactions
+
+| Step | TX |
+|---|---|
+| Test bridge (1,000 ZARO) | [`0x72b96e27...`](https://etherscan.io/tx/0x72b96e279ad1ecfe718c5caa005a70ae6efe3136bb015de8349d697a1337169f) |
+| Main bridge (9,999,000 ZARO) | [`0x34974128...`](https://etherscan.io/tx/0x34974128cfb0465e3454dfa4f7bad4a0e589dff475f400dfb0d5310a0930bb2e) |
+
+### Aerodrome Liquidity (Base)
+
+| Item | Detail |
+|---|---|
+| Exchange | Aerodrome Finance |
+| Pair | ZARO / WETH (volatile) |
+| Pool Address | `0x55f0a6b67cae42f6a38f754ae7d814bcece1a80a` |
+| BaseScan | https://basescan.org/address/0x55f0a6b67cae42f6a38f754ae7d814bcece1a80a |
+
+All bridged tokens correspond 1:1 with locked ERC-20 supply on Ethereum. No new tokens were minted or issued outside the canonical 1,000,000,000 ZARO supply.
+
+---
+
 ## 🌐 Solana Integration (Wormhole)
 
 **Date:** 9 Nov 2025  

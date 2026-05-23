@@ -22,6 +22,7 @@ ZARO is positioned as a **cultural public good**:
 ### 1.1 Key Properties
 
 - ✅ Deployed on **Ethereum (ERC-20)**
+- ✅ Bridged to **Base** via OP Stack Standard Bridge (1:1 backed)
 - ✅ Bridged to **BNB Chain** and **Solana** via Wormhole (1:1 backed)
 - ✅ No presale
 - ✅ No team or advisor allocation
@@ -40,7 +41,7 @@ ZARO is positioned as a **cultural public good**:
 | **Symbol**       | ZARO                              |
 | **Total Supply** | 1,000,000,000 ZARO                |
 | **Network**      | Ethereum (ERC-20)                 |
-| **Bridges**      | BNB Chain (BEP-20), Solana (SPL)  |
+| **Bridges**      | Base (OP Stack), BNB Chain (BEP-20), Solana (SPL) |
 | **Tax**          | 0%                                |
 | **Presale**      | None                              |
 | **Team Wallet**  | None                              |
@@ -129,6 +130,9 @@ These are the **official, canonical external links** for ZARO Coin.
 
 - 🧾 **BscScan (ZARO Token, BNB Chain):**
   https://bscscan.com/token/0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc
+
+- 🧾 **BaseScan (ZARO Token, Base):**
+  https://basescan.org/token/0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0
 
 - 🧾 **Solscan (ZARO Token, Solana):**
   https://solscan.io/token/AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W
