@@ -57,7 +57,9 @@ In May 2026, a Wormhole re-attestation was performed to correct the on-chain met
 ## LP Lock Status
 
 - **Meteora DLMM Pool:** [`3voEHD9BvxKSPVFhhTGweuuexcLEqf1PKd1i2h2CS9JT`](https://dexscreener.com/solana/3voEHD9BvxKSPVFhhTGweuuexcLEqf1PKd1i2h2CS9JT)
-- **LP Status:** Both LP positions permanently locked on Meteora — verifiable on-chain.
+- **LP Status:** Both LP positions permanently locked on Meteora — no expiry, verifiable on-chain.
+- **Lock TX 1 (`LockPosition`):** [`4rpywoAMppE...`](https://solscan.io/tx/4rpywoAMppEi3TKoDBMGaoHFM68ZrCPeFaAqWS594jaBxxffTJ3xJomryxoAnTzZwQeUBqBG6eXxHx5o32iFg53g)
+- **Lock TX 2 (`PermanentLockPosition`):** [`VDPMnodXGFf...`](https://solscan.io/tx/VDPMnodXGFfk664mY9fBtqckQa2QaShca1C4gWMxW86KDC4cVGWRrRWMS1VmYiDF1S44q73yo8umpXjHHeejSj7)
 
 ---
 
