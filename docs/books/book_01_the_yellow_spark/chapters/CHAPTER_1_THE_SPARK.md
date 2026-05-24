@@ -1,6 +1,6 @@
-# CHAPTER 1 — THE SPARK
+﻿# CHAPTER 1 â€” THE SPARK
 
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
 
 Black.
 
@@ -8,7 +8,7 @@ Not the kind you get when someone turns off the lights. That kind has walls behi
 
 This black has nothing behind it. Nothing underneath. It presses in from every direction with the patience of something that has never needed to hurry, and it feels less like darkness and more like the universe holding its breath.
 
-Then — light.
+Then â€” light.
 
 A point. Distant. Moving.
 
@@ -22,7 +22,7 @@ Not just yellow. A rhythm that refracts through the shell wall like a heartbeat 
 
 The container moves faster. Earth swells ahead, a curve of blue-black with a thin bright rim of atmosphere.
 
-And behind —
+And behind â€”
 
 Far behind, stretched thin by speed but not broken by it. Black smoke.
 
@@ -32,23 +32,19 @@ It doesn't move like weather.
 
 It moves like something that expects you to tire.
 
-<!-- IMG: container_descent -->
-
 The pulse inside the container brightens once, sharp, defensive, then steadies, smaller, controlled. Saving what it has left.
 
 Earth fills everything.
 
 The atmosphere waits.
 
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
 
 The container hits air and the sky screams.
 
 Friction turns the shell orange-white. The air compresses so hard around it that the space between molecules becomes visible: ripples and distortion where the atmosphere can't decide whether to bend or break.
 
 Sound arrives late and violent. A tearing. The kind that starts in the chest and works outward.
-
-<!-- IMG: atmosphere_burn -->
 
 Inside the shell, the pulse still beats. Tighter now. Pressured. Like a fist closing around something it refuses to drop.
 
@@ -60,9 +56,7 @@ Not destroyed. Fragmented. Thin trails scatter like seeds from a dead flower. Ex
 
 Each fragment is thin enough to survive the heat. Thick enough to keep what it carries.
 
-<!-- IMG: ink_fragments_descend -->
-
-Below — a forest.
+Below â€” a forest.
 
 Night. June. A full canopy of oak and maple and birch, leaves so thick the moonlight only reaches the ground in scattered coins. Crickets filling the air with a sound so constant it becomes silence. Wind moving through the high branches like a conversation nobody started.
 
@@ -70,13 +64,11 @@ A quiet place. The kind that has been quiet for so long it has forgotten what no
 
 The red-hot container drops straight into it.
 
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
 
 Impact.
 
-For one heartbeat the world turns white-gold — every tree a black cutout, every leaf a frozen diagram, every blade of grass casting a shadow as sharp as a blade. The shockwave rolls through the canopy the way a stone rolls through still water, bending trunks, scattering birds, pushing the night outward as if darkness weighs nothing at all.
-
-<!-- IMG: impact_crater -->
+For one heartbeat the world turns white-gold â€” every tree a black cutout, every leaf a frozen diagram, every blade of grass casting a shadow as sharp as a blade. The shockwave rolls through the canopy the way a stone rolls through still water, bending trunks, scattering birds, pushing the night outward as if darkness weighs nothing at all.
 
 The container cracks. One seam becomes ten. The geometric patterns across its surface flash once, prismatic, desperate, as if the design itself is trying to hold the shell together through sheer precision.
 
@@ -88,33 +80,27 @@ A cloud erupts from the fractures. Spark Dust. A bloom of micro-particles so fin
 
 For three seconds, the forest is full of stars.
 
-<!-- IMG: spark_dust_bloom -->
-
 Then the dust settles. The glow fades.
 
 And the sound collapses.
 
 Not into quiet. Into absence. The crickets don't fade. They vanish. The wind doesn't calm. It's taken, pulled out of the air like a thread from cloth. What remains is a silence so complete it doesn't behave like silence. It behaves like the absence of permission to make sound.
 
-<!-- IMG: post_impact_silence -->
-
 The crater smokes. Shell fragments lie scattered, their geometric lines dimmed and spent.
 
-And in the center — one object.
+And in the center â€” one object.
 
 A Seed Core.
 
 Small enough to fit in a cupped palm. Smooth. Round like a river stone shaped by something more patient than water. Heavy in a way that has nothing to do with size and everything to do with what it holds.
 
-It pulses once. A warm, clean rainbow — the same heartbeat that was inside the container. Gold. Cyan. A flash of magenta. Alive.
+It pulses once. A warm, clean rainbow â€” the same heartbeat that was inside the container. Gold. Cyan. A flash of magenta. Alive.
 
 Then it stops.
 
 The color drains. The warmth leaves. The Seed Core goes dark. Still. Cold.
 
-<!-- IMG: seed_core_first_reveal -->
-
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
 
 The crater glowed faintly, but not from the shell.
 
@@ -131,8 +117,6 @@ A round shape emerged. Then definition: edges, curves, the suggestion of arms. T
 Then weight arrived. The form settled onto the crater's edge, and two small feet touched scorched earth, and the light was no longer light.
 
 It was someone.
-
-<!-- IMG: zaro_first_form -->
 
 Zaro opened his eyes.
 
@@ -160,7 +144,7 @@ He shook it, gently.
 
 Nothing.
 
-"Seriously?" His voice came out sharper than he expected. Raw, teenage, the kind of voice that doesn't know its own volume yet. "You're just gonna… stop?"
+"Seriously?" His voice came out sharper than he expected. Raw, teenage, the kind of voice that doesn't know its own volume yet. "You're just gonnaâ€¦ stop?"
 
 The forest didn't answer. The silence leaned in from every direction, not empty silence but full silence, the kind that is made of all the sounds that just stopped, and Zaro held the cold Core against his chest and turned in a slow circle. The Greenbelt stretched in every direction: dark trunks, darker spaces between them, moonlight in scattered fragments on the forest floor.
 
@@ -170,19 +154,17 @@ His vision wavered at the edges. Not heat. A wrongness, like the air at the very
 
 But the feeling stayed.
 
-<!-- IMG: wrongness_in_forest -->
-
 "Yeah," he whispered. "I'm *not* alone."
 
 He held the Seed Core tighter and moved into the trees.
 
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
 
 He walked carefully, watching the ground.
 
 Fern fronds brushed his legs as he passed. One uncurled slightly in his warmth, a slow unrolling like a finger stretching, and he didn't notice because he was watching the dark between the trees. But the fern noticed him. A patch of moss he stepped over turned a shade greener where his foot had been, the color deepening for a few seconds before fading back. The forest was responding to him in small ways, the way a cold room responds to a body entering it: not magically, just the physics of warmth meeting things that hadn't been warm in a long time.
 
-Spark Dust traces shimmered on bark and leaf surfaces as he moved. Not glowing — catching. The dust had settled everywhere and it sat there like fine glitter, invisible until moonlight and angle conspired to make a single surface flash gold for half a heartbeat. He brushed a branch. Dust sparkled along his arm, then disappeared.
+Spark Dust traces shimmered on bark and leaf surfaces as he moved. Not glowing â€” catching. The dust had settled everywhere and it sat there like fine glitter, invisible until moonlight and angle conspired to make a single surface flash gold for half a heartbeat. He brushed a branch. Dust sparkled along his arm, then disappeared.
 
 The creek appeared before he heard it. Water running over smooth stones, clear and cold, and the sound of it was so normal, so uninterested in craters and containers and cosmic arrivals, that Zaro stopped and listened for three full breaths just to hear something that didn't care about him.
 
@@ -190,21 +172,17 @@ The creek ran. A frog croaked once from somewhere downstream. The frog didn't cr
 
 He kept walking. The Core was cold against his chest. He needed shelter. Somewhere to think. Somewhere to figure out why a dead stone in his hands felt like the most important thing he'd ever held.
 
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
 
 He found the cabin by accident.
 
 It sat behind a wall of overgrown vines and broken branches, barely visible in the dark. A small single-story structure with a stone foundation and a porch so weathered the boards had turned the color of old bone. An abandoned forester's cabin. The kind of place that had been left alone long enough that the forest had started taking it back, vines climbing the walls, a young maple growing through a gap in the porch railing.
-
-<!-- IMG: cabin_first_sight -->
 
 Zaro pushed the door open.
 
 The hinge made a sound like a question it had been waiting years to ask.
 
 Inside: dust in moonlight. A broken chair. An old lamp on a table with a cracked glass shade. A window with one pane missing. The smell of damp wood and mouse nests and the particular stillness of a room that no one has entered in years. Not abandoned-still. Forgotten-still, the kind of quiet that happens when a place gives up expecting anyone.
-
-<!-- IMG: cabin_interior_dead -->
 
 He stepped inside. The floorboard under his foot creaked, loud and self-conscious in the dead air.
 
@@ -230,19 +208,19 @@ Something in his chest tightened. Not pain. Closer to the feeling of watching a 
 
 He pulled back. Looked at the room. The broken chair. The cracked lamp. The window with its missing pane letting in a ribbon of night air that smelled like wet leaves and nothing else.
 
-He could leave. Walk back into the forest. Find a different place. Start over. The Seed Core was dead and the forest was dark and the silence outside was wrong and he was alone and none of this made sense and maybe —
+He could leave. Walk back into the forest. Find a different place. Start over. The Seed Core was dead and the forest was dark and the silence outside was wrong and he was alone and none of this made sense and maybe â€”
 
 He looked at the Core again.
 
-"Okay… okay. One more try."
+"Okayâ€¦ okay. One more try."
 
-He placed both hands around it. Cupped it like a bird that had fallen out of a nest. He didn't push this time. He just held it, and let his warmth be warmth, and waited the way you wait at a bedside — not for a result, but because leaving would be worse than staying.
+He placed both hands around it. Cupped it like a bird that had fallen out of a nest. He didn't push this time. He just held it, and let his warmth be warmth, and waited the way you wait at a bedside â€” not for a result, but because leaving would be worse than staying.
 
 His light dimmed. Not a lot. A shade. The amber-gold at his fingertips thinned slightly. He was giving the Core something and it was costing him something and he didn't care because the alternative was a dead stone on a dusty table in a forgotten house and he refused.
 
 Ten seconds. Twenty. The silence outside pressed closer.
 
-Then —
+Then â€”
 
 Warmth.
 
@@ -251,8 +229,6 @@ Not from him. From the Core. A warmth rising to meet his. Faint, uncertain, like
 His breath caught.
 
 The Seed Core glowed. Soft. A single rainbow flicker, gold, cyan, magenta, cycling once through the spectrum before settling into a steady amber. Not bright. Not blazing. A nightlight. A held breath deciding to exhale.
-
-<!-- IMG: seed_core_revives -->
 
 Zaro's hands trembled around it.
 
@@ -276,7 +252,7 @@ The Core pulsed. His chest rose. The Core pulsed. His chest fell. Two rhythms fi
 
 Outside, the creek ran. Inside, the dust settled. Nothing happened. Nothing needed to.
 
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
 
 He started with the wall.
 
@@ -294,11 +270,9 @@ He moved to the floorboard. Pressed down. Warmth spread like morning sun soaking
 
 The lamp.
 
-He touched the base. The metal warmed. The filament inside the cracked glass shade hesitated — then caught. Not fire. A soft golden light that filled the room the way a held note fills a quiet church: not pushing, just present, until the shadows leaned back on their own.
+He touched the base. The metal warmed. The filament inside the cracked glass shade hesitated â€” then caught. Not fire. A soft golden light that filled the room the way a held note fills a quiet church: not pushing, just present, until the shadows leaned back on their own.
 
 The house exhaled. A long, wooden sigh that traveled through the frame from the floor up through the walls, as if the cabin had been holding its breath for the years nobody came and was finally letting it go.
-
-<!-- IMG: cabin_becoming -->
 
 Zaro smiled. Small and real. The kind of smile that arrives before you know it's coming.
 
@@ -310,7 +284,7 @@ He kept going. Slower now. Careful.
 
 One touch at a time. Fixing. Warming. Restoring. Not flashy. Like someone healing something hurt and trying not to break it worse.
 
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
 
 The house felt warm enough to live in now. Walls sealed. Floor solid. Lamp breathing amber. The missing window pane still missing because glass was beyond him. Zaro stood in the golden hum and listened.
 
@@ -346,7 +320,7 @@ The first words he'd said that were meant for something other than himself.
 
 He stood up.
 
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
 
 The wet-static came first.
 
@@ -370,15 +344,13 @@ His hands were already rising.
 
 The warmth pushed outward before he chose to push it. Instinct deeper than decision. A ripple expanded from his chest, visible only as shimmer, like heat moving across glass. It spread through the walls, through the floor, through the ceiling, pressing outward in a widening sphere.
 
-Then — a lock.
+Then â€” a lock.
 
 A clean, decisive click. Not mechanical. Structural. The sound a puzzle makes when the last piece finds its place. The shimmer settled into something invisible but absolute. A boundary. A line in the air between here and there, between warm and not.
 
 A dome.
 
 Zaro blinked. His hands were still raised. He hadn't known he could do this. He hadn't known he would. But his body knew, the way bodies know to flinch before the mind registers danger, and the dome was here and it was real and when he touched the air near the window, warm resistance met his fingers. Gentle, firm, alive.
-
-<!-- IMG: dome_first_formation -->
 
 Inside the dome: warm. Lamp-lit. The Seed Core pulsing beneath the floor. The cabin breathing.
 
@@ -392,7 +364,7 @@ He sat down on the floor. Back against the wall. Facing the door.
 
 The dome hummed. Low. Constant. The vibration of a boundary that intended to stay.
 
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
 
 *A different world.*
 
@@ -400,17 +372,13 @@ Cold. Clean. Silent in a way that is the opposite of the forest's silence. Not m
 
 A vast structure floated in space that wasn't quite space: a city of geometry and teal light, surfaces meeting at angles so precise they looked calculated rather than constructed. Data planes flickered in and out of existence: walls made of information, corridors of pure measurement, a civilization built on the principle that everything real can be quantified.
 
-<!-- IMG: arc_realm_wide -->
-
 ARC-7 stood at the center of a monitoring chamber.
-
-<!-- IMG: arc7_monitoring -->
 
 Teal light pulsed through armor that looked less forged than assembled from rules. Each plate a function. Each seam a protocol. His visor was not a face. It was a focused lens. It observed. It did not express.
 
 A reading spiked on his array.
 
-> *YELLOW LIGHT ANOMALY — EARTH SECTOR.*
+> *YELLOW LIGHT ANOMALY â€” EARTH SECTOR.*
 > *FREQUENCY: Y-PRIME.*
 
 Beneath it, a second alert. Darker. Smeared across the readout like something the instruments didn't want to touch:
@@ -447,7 +415,7 @@ His teal brightened by a degree. Not a decision, not a reaction. A calibration. 
 
 He watched.
 
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
 
 *Back in the cabin.*
 
@@ -473,7 +441,7 @@ Outside, the darkness pressed closer.
 
 Inside, the Seed Core pulsed beneath the floor.
 
-Between them — a dome made of warmth and will and a cost Zaro couldn't calculate yet, humming steady, holding the line between a small warm room and a very large, very patient dark.
+Between them â€” a dome made of warmth and will and a cost Zaro couldn't calculate yet, humming steady, holding the line between a small warm room and a very large, very patient dark.
 
 "Okay," Zaro said to the empty cabin, to the glowing Core beneath the floor, to the warm walls, to the dome, to himself, to whatever was listening outside that he couldn't see. "Okay."
 
@@ -481,6 +449,4 @@ The dome held.
 
 The dark waited.
 
-<!-- IMG: cabin_dome_holding -->
-
-✦ ✦ ✦
+âœ¦ âœ¦ âœ¦
