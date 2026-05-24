@@ -1,4 +1,4 @@
-﻿# CHAPTER 2 â€” BUILDING
+# CHAPTER 2 — BUILDING
 
 The sun found him first.
 
@@ -11,6 +11,8 @@ His body remembered how to do that.
 He opened his eyes.
 
 The cabin held light the way old rooms hold it. Dusty and soft, with bright shafts where the missing window pane let the morning through. He was sitting with his back against the wall, in the same place he'd been when the wet-static had come and gone and he'd said okay to everything that was listening.
+
+<!-- IMG: cabin_dawn_interior -->
 
 A small yellow figure on the floorboards. Knees drawn up. Two arms wrapped loosely around them. About the size of a human child. The shape of a small mammal. His feet against the wood. His hands resting on his knees.
 
@@ -42,7 +44,7 @@ The door was three steps away.
 
 He took them.
 
-âœ¦ âœ¦ âœ¦
+✦ ✦ ✦
 
 The Greenbelt in daylight was not the Greenbelt he remembered from the night before.
 
@@ -57,6 +59,8 @@ Somewhere to his left, water moved over stone.
 He stopped on the porch to listen.
 
 The creek ran clean. No static in it. No wrongness. Just a sound the world was making because the world was alive and the water was going somewhere.
+
+<!-- IMG: greenbelt_forest_day -->
 
 The air smelled like warm earth and bark and something sweet he couldn't find the source of. A flower, maybe. Or nothing. Or just summer.
 
@@ -84,6 +88,8 @@ He knelt at the crater's edge.
 
 The soil there was different. Darker. Richer. Threaded with gold where the Spark Dust had worked its way down into the earth and refused to wash out. Ordinary dirt, until the light moved across it, and then, for a second, it looked like an open stone with veins of gold running through it.
 
+<!-- IMG: crater_soil_gold_veins -->
+
 He pressed his palm flat against it.
 
 Warm.
@@ -102,7 +108,7 @@ He looked at the dome. The invisible thing he couldn't see and couldn't stop fee
 
 "Okay," he said to no one. "Okay."
 
-âœ¦ âœ¦ âœ¦
+✦ ✦ ✦
 
 He went back inside and lifted the Seed Core from under the floorboard.
 
@@ -117,6 +123,8 @@ He carried it down the porch steps, through the clover and the daisies, past the
 He knelt in the center of the crater.
 
 The soil gave way when he dug. Not in resistance. In welcome. He made a space with his hands, placed the Seed Core into it, and packed the earth back around it the way you'd tuck a blanket around someone who doesn't know they're cold.
+
+<!-- IMG: seed_core_planting -->
 
 Then he pressed his palms flat and let warmth flow downward.
 
@@ -133,6 +141,8 @@ A thin line of gold raced through the dirt, bright enough to glow through the so
 The whole crater bloomed.
 
 For one long second the ground at his knees was a glowing map. Every grain of Spark Dust answering the call, the soil itself awake, the gold lines spreading outward past the boundary of the crater and into the soil of the clearing, racing toward the edge of the tree line.
+
+<!-- IMG: gold_roots_spreading -->
 
 Then they slowed.
 
@@ -166,6 +176,8 @@ He stood very still.
 
 The forest gave him nothing. No shape between the trunks. No shadow that shouldn't have been there. Just the summer trees, the ordinary shade, the ordinary quiet.
 
+<!-- IMG: unseen_watcher_treeline -->
+
 The feeling held for a long slow moment.
 
 Then it let go.
@@ -176,7 +188,7 @@ He stood there until his breathing slowed.
 
 Then he walked back to the cabin without turning around, because turning around felt like asking a question he didn't want answered yet.
 
-âœ¦ âœ¦ âœ¦
+✦ ✦ ✦
 
 The cabin had been empty a long time.
 
@@ -224,6 +236,8 @@ The light came on.
 
 Amber. Steady. The same color the Seed Core had found last night.
 
+<!-- IMG: restored_cabin_midday -->
+
 Zaro looked at it for a long moment.
 
 Then he sat down on the floor in the doorway, in the sun, and closed his eyes, and let the light work.
@@ -240,6 +254,8 @@ The doe watched him for maybe ten seconds. Her ears swiveled forward. Her nose w
 
 She lowered her head again and went back to eating.
 
+<!-- IMG: doe_at_dome_edge -->
+
 Zaro stood in the doorway and watched her for a long time.
 
 The first living thing in this world that had seen him and stayed.
@@ -250,7 +266,7 @@ After she was gone he pressed his palm against the doorframe and smiled, very fa
 
 The shape was working.
 
-âœ¦ âœ¦ âœ¦
+✦ ✦ ✦
 
 On the second day he tried to make the dome bigger.
 
@@ -273,6 +289,8 @@ The yellow at his fingertips was coming loose.
 Tiny flecks of light were drifting off the edges of his fingers, floating up into the air like sparks rising off a fire. Not painful. Not even strange-feeling. Just *wrong*. His hand was supposed to end where his hand ended, and right now it didn't. The edges had gone soft. The light underneath was leaking out.
 
 He looked at his arm. Same thing. The shape of him was coming apart at the edges, slowly, one bright fleck at a time, like a body made of sand starting to blow away in a wind he couldn't feel.
+
+<!-- IMG: zaro_unraveling_at_edges -->
 
 His chest pulled tight.
 
@@ -312,7 +330,7 @@ The dome stayed small that day.
 
 And every day after.
 
-âœ¦ âœ¦ âœ¦
+✦ ✦ ✦
 
 The shelf happened later.
 
@@ -338,6 +356,8 @@ None of them were anything.
 
 Arranged on the shelf, in the morning light, they were everything.
 
+<!-- IMG: treasure_shelf_morning -->
+
 He stood in front of them on the fourth morning and understood, without having the words ready, that these were the first things in this world that were his because he had chosen them.
 
 Not because they had been given to him.
@@ -346,7 +366,7 @@ Not because they had crashed into him.
 
 Chosen.
 
-âœ¦ âœ¦ âœ¦
+✦ ✦ ✦
 
 The tree grew faster than it should have.
 
@@ -360,6 +380,8 @@ Day three: past his shoulder. Leaves opening. Branches reaching.
 
 Day four: taller than he was. The trunk had thickened into something that would stand through wind. The leaves were green but the green went deep. As if the color didn't stop at the surface, as if it kept going somewhere before it came back.
 
+<!-- IMG: tree_growth_progression -->
+
 He stood at the base each morning and pressed his palm to the bark. The tree drank what he gave it. The sun paid the bill. The cost to him was small as long as he kept it small and kept it patient.
 
 "Hey," he'd say. "You're taller."
@@ -372,7 +394,7 @@ The tree moved a little in the wind.
 
 He rested his forehead against the bark. It was warm.
 
-"I can't move the dome. I tried. It justâ€”" He let the sentence go. "Stay safe."
+"I can't move the dome. I tried. It just—" He let the sentence go. "Stay safe."
 
 He said it every morning.
 
@@ -380,7 +402,7 @@ He meant it every morning.
 
 He said it because meaning it once wasn't enough.
 
-âœ¦ âœ¦ âœ¦
+✦ ✦ ✦
 
 The wall broke on the fourth night.
 
@@ -389,6 +411,8 @@ Not loudly. A soft sigh of wood giving up, somewhere around two in the morning, 
 He lay still for a second before he got up.
 
 In the kitchen, plaster dust had settled on the floor in a pale half-moon. The patch of wall he'd spent an entire afternoon on, the one he'd been proud of, the one he'd pressed his palm against and said good to before moving on, had come apart along its old cracks. Not collapsed. Just opened up again. The fixing hadn't held.
+
+<!-- IMG: cabin_wall_collapse_night -->
 
 He stood there in the dark with his form a little dimmer than it had been in the day. The sun was gone. Anything he did now would come out of what he'd stored.
 
@@ -422,9 +446,11 @@ The sun would be back in a few hours.
 
 He would need it.
 
-âœ¦ âœ¦ âœ¦
+✦ ✦ ✦
 
 Fifty miles east of the Greenbelt, in a suburb where the lawns were trimmed and the Wi-Fi was fast, a fifteen-year-old girl named Mina Patel sat in her bedroom flying a drone she had built herself.
+
+<!-- IMG: mina_at_drone_controls -->
 
 The drone was three miles away. Two hundred feet above the canopy. She couldn't hear it. She couldn't see it with her own eyes. She could only see what its camera saw: a small bright window of green forest on the screen attached to the controller in her hands.
 
@@ -492,6 +518,8 @@ Free.
 
 She brought it down in a slow drift, cleared the branch by inches, and put it down soft in a clearing fifty meters from the logging road.
 
+<!-- IMG: drone_recovery_save -->
+
 She let out a long, quiet breath.
 
 "Ha."
@@ -524,6 +552,8 @@ Zoomed in.
 
 Pixels. Just pixels. Whatever it had been was gone in the next frame.
 
+<!-- IMG: drone_camera_glint -->
+
 She looked at it for a long time.
 
 Then she put it out of her mind, because it was probably a leaf, or a bit of foil from someone's old camping trash, or a reflection off water. Forests had a thousand things in them that caught the light wrong. One frame of one drone fly-by didn't mean anything.
@@ -548,7 +578,7 @@ She watched the three dots come up almost instantly, like they always did when K
 
 She put the phone face-down on the desk.
 
-âœ¦ âœ¦ âœ¦
+✦ ✦ ✦
 
 She heard the kitchen door before she heard him on the stairs.
 
@@ -564,11 +594,15 @@ His sneakers on the wooden steps. He didn't bother knocking on her door. He neve
 
 There was a smear of dark grease at the base of his left thumb. A fresh solder burn on the pad. A thin line of iron filings in the creases of his right knuckles. He'd been in his garage workshop already this morning. He'd been trying for two weeks to get a salvaged motor to run on the kind of power his electromagnetic crane could supply without overheating, and Kai didn't stop a problem until the problem stopped him.
 
+<!-- IMG: kai_arrives_at_minas -->
+
 "Show me," he said.
 
 She kept her eyes on the screen. "Look."
 
 He came around behind her chair. His hands were never still. His hands were a separate animal that needed something to do at all times. They had found a small disc magnet on her desk and pressed it against the steel hinge of her laptop. He pulled it off. Pressed it back. Pulled it off again. Slow, even. He'd done this with a hundred magnets in a hundred rooms; it was how his hands listened.
+
+<!-- IMG: kai_hands_with_magnet -->
 
 He leaned closer to the screen. Then, without looking, reached past her and tilted the laptop hinge a few degrees back.
 
@@ -698,7 +732,7 @@ He paused at the door.
 
 "It's fine."
 
-"Because if you need me toâ€”"
+"Because if you need me to—"
 
 "I said it's fine."
 
@@ -720,6 +754,8 @@ She opened the signal readout instead. The thread of gold was still there. Small
 
 Somewhere out in the Greenbelt, fifty miles away and a little northwest of anywhere anyone had ever thought to look, something was making a signal that did not match any known thing in the world.
 
+<!-- IMG: signal_thread_of_gold -->
+
 She stared at the warm spot on the cold map for a long time.
 
 Then she saved the file. Closed the laptop halfway. Stood.
@@ -732,4 +768,4 @@ At the doorway she paused and looked back. At the controller, the laptop, the si
 
 Then she went downstairs.
 
-âœ¦ âœ¦ âœ¦
+✦ ✦ ✦
