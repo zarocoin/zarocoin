@@ -2,451 +2,492 @@
 
 ✦ ✦ ✦
 
-Black.
+In a place far from the world, someone was watching.
 
-Not the kind you get when someone turns off the lights. That kind has walls behind it, a floor underneath, a switch you could reach for if you tried.
+He stood at the center of a chamber that did not belong to space. Around him, the catalogues counted the night: old stars, dying stars, the small ordinary losses of a universe that had been turning for a very long time.
 
-This black has nothing behind it. Nothing underneath. It presses in from every direction with the patience of something that has never needed to hurry, and it feels less like darkness and more like the universe holding its breath.
+Then a reading moved.
 
-Then — light.
+A point of gold light, far out, falling toward a blue planet with one moon and too many sleeping forests.
 
-A point. Distant. Moving.
+Behind it, something that did not shine.
 
-It grows fast. Faster than falling, faster than anything with weight. Until it becomes a shape: a container cutting through the void, trailing faint color like a wound that won't stop bleeding light.
+The watcher leaned closer.
 
-The container isn't metal. It looks like glass made from sunlight and cooled into a shell, and across its surface, geometric patterns repeat in smooth interlocking arcs. Not decoration. The lines carry a faint golden warmth in places, a colder cyan flicker in others, as if the shell is measuring what it carries by how hard it has to hold.
+He had a column for every kind of light.
 
-Inside, something pulses.
+He had a column for every kind of shadow.
 
-Not just yellow. A rhythm that refracts through the shell wall like a heartbeat trapped in crystal: gold shifting to cyan, a brief needle-bright sting of magenta, then back. Each shift clean enough to feel engineered. The shell breathes with it. Whatever is inside is alive.
+He did not have a column for this.
 
-The container moves faster. Earth swells ahead, a curve of blue-black with a thin bright rim of atmosphere.
+He did not say so.
 
-And behind —
+He did not need to.
 
-Far behind, stretched thin by speed but not broken by it. Black smoke.
-
-Not debris. Not dust. Something coherent. It follows the container the way hunger follows a scent: adjusting, correcting, matching every course change with a delay that gets shorter each time.
-
-It doesn't move like weather.
-
-It moves like something that expects you to tire.
-
-The pulse inside the container brightens once, sharp, defensive, then steadies, smaller, controlled. Saving what it has left.
-
-Earth fills everything.
-
-The atmosphere waits.
+He watched the gold light fall.
 
 ✦ ✦ ✦
 
-The container hits air and the sky screams.
+Night was holding the forest in both hands.
 
-Friction turns the shell orange-white. The air compresses so hard around it that the space between molecules becomes visible: ripples and distortion where the atmosphere can't decide whether to bend or break.
+Oak and maple and birch. Leaves so thick the moonlight only reached the ground in scattered coins. A creek moved somewhere below the slope, hidden under ferns. Crickets filled the air with a sound so constant it had become silence.
 
-Sound arrives late and violent. A tearing. The kind that starts in the chest and works outward.
+A quiet place. The kind that had been quiet so long it had forgotten what noise sounded like.
 
-Inside the shell, the pulse still beats. Tighter now. Pressured. Like a fist closing around something it refuses to drop.
+Then the sky tore open.
 
-Behind and above, the black smoke reaches the atmosphere.
+A gold line cut through the clouds.
 
-It hits the heat wall and splits.
+The crickets stopped.
 
-Not destroyed. Fragmented. Thin trails scatter like seeds from a dead flower. Except these seeds don't drift. They correct mid-fall, clinging to themselves, adjusting angle and speed as they descend. Thicker clumps survive intact and spread wider, drifting toward different parts of the dark landscape below.
+For one breath, every leaf turned bright at its edge. Every branch became a black cutout. Birds burst from the canopy and vanished into the dark.
 
-Each fragment is thin enough to survive the heat. Thick enough to keep what it carries.
+Then the falling thing hit.
 
-Below — a forest.
+The world turned white-gold for a heartbeat. Soil lifted. Roots snapped. The shockwave rolled through the trees and bent them back, as if the whole forest had taken one hard breath.
 
-Night. June. A full canopy of oak and maple and birch, leaves so thick the moonlight only reaches the ground in scattered coins. Crickets filling the air with a sound so constant it becomes silence. Wind moving through the high branches like a conversation nobody started.
+A shell broke open in the center of the new crater.
 
-A quiet place. The kind that has been quiet for so long it has forgotten what noise sounds like.
+The shell was not metal, and not glass. It looked like sunlight that had cooled into a hard skin and cracked under its own speed. Thin lines crossed its surface, gold in places, cyan in others, all dimming now.
 
-The red-hot container drops straight into it.
+The shell did not shatter. It exhaled.
+
+A cloud of fine gold dust rose from the fractures. It drifted through the clearing in soft slow clouds, bright only when the moonlight touched it from the right angle.
+
+Spark Dust.
+
+For three seconds, the forest was full of stars.
+
+Then the dust settled.
+
+The glow faded.
+
+And the sound collapsed.
+
+Not into quiet.
+
+Into absence.
+
+The crickets did not return. The wind was taken, pulled out of the air like a thread from cloth. What was left was the absence of permission to make sound.
+
+At the center of the crater, inside the broken shell, sat a small round stone.
+
+Smooth. Warm-colored. About the size of a fist.
+
+It pulsed once.
+
+Gold.
+
+Cyan.
+
+A quick flash of magenta.
+
+Alive.
+
+Then the pulse stopped.
+
+The color drained. The warmth left. The small stone went dark.
+
+But not dead.
+
+The shape of a sleeping thing is different from the shape of a gone thing.
+
+This one was sleeping.
 
 ✦ ✦ ✦
 
-Impact.
+Above the broken shell, light gathered itself.
 
-For one heartbeat the world turns white-gold — every tree a black cutout, every leaf a frozen diagram, every blade of grass casting a shadow as sharp as a blade. The shockwave rolls through the canopy the way a stone rolls through still water, bending trunks, scattering birds, pushing the night outward as if darkness weighs nothing at all.
+At first it was only a glow.
 
-The container cracks. One seam becomes ten. The geometric patterns across its surface flash once, prismatic, desperate, as if the design itself is trying to hold the shell together through sheer precision.
+Then the glow pulled inward.
 
-It fails.
+It tried one shape, lost it, tried another. It folded closer to itself, the way a flame learns to become solid. A round body emerged. No bigger than a teenager's. Arms. Legs. Small ears. A face soft enough that the dark forest seemed even darker around it.
 
-The shell doesn't shatter into shards. It exhales.
+The light hummed as it settled. Low. Steady. A vibration felt in the teeth more than the ears.
 
-A cloud erupts from the fractures. Spark Dust. A bloom of micro-particles so fine they hang in the air like gold smoke. In the afterglow of the collision they look like embers, like a galaxy breathing out. The dust rides the shockwave through the trees, coating leaves and bark and moss in a shimmer so faint it only appears when moonlight catches it at the right angle.
+Then weight arrived.
 
-For three seconds, the forest is full of stars.
+Two small feet touched scorched earth.
 
-Then the dust settles. The glow fades.
-
-And the sound collapses.
-
-Not into quiet. Into absence. The crickets don't fade. They vanish. The wind doesn't calm. It's taken, pulled out of the air like a thread from cloth. What remains is a silence so complete it doesn't behave like silence. It behaves like the absence of permission to make sound.
-
-The crater smokes. Shell fragments lie scattered, their geometric lines dimmed and spent.
-
-And in the center — one object.
-
-A Seed Core.
-
-Small enough to fit in a cupped palm. Smooth. Round like a river stone shaped by something more patient than water. Heavy in a way that has nothing to do with size and everything to do with what it holds.
-
-It pulses once. A warm, clean rainbow — the same heartbeat that was inside the container. Gold. Cyan. A flash of magenta. Alive.
-
-Then it stops.
-
-The color drains. The warmth leaves. The Seed Core goes dark. Still. Cold.
-
-✦ ✦ ✦
-
-The crater glowed faintly, but not from the shell.
-
-From above it.
-
-A yellow light rose from the broken container like breath leaving a body. Not dramatic. Just present. It gathered above the crater in a soft formless cloud, and the air hummed around it: low, steady, a vibration felt in the teeth more than the ears.
-
-The light thickened.
-
-It began to move differently. Not drifting anymore. Choosing. Curling inward, testing shapes the way water tests the edges of a glass. Pressing, retreating, pressing again. Finding the form it wanted.
-
-A round shape emerged. Then definition: edges, curves, the suggestion of arms. The hum deepened as the light committed: ears appeared. Legs. A body no bigger than a teenager's, made of amber-gold warmth that held its shape in still air. Real, present, casting heat, obeying gravity for the first time.
-
-Then weight arrived. The form settled onto the crater's edge, and two small feet touched scorched earth, and the light was no longer light.
+The light was no longer light.
 
 It was someone.
 
 Zaro opened his eyes.
 
-He took a breath, slow, surprised, like the first breath after a long time underwater. The air tasted like smoke and wet dirt and something green, and his chest moved with it, and the moving startled him because he hadn't known he could breathe until he did.
+He took one breath.
 
-He looked down. Hands. He *had* hands. He turned them over. Amber-gold, warm, slightly translucent at the fingertips where the light was thinnest. He flexed them. They worked.
+It startled him.
 
-He looked at the crater. The broken shell. The dust residue that flickered gold in the moonlight, there and gone, there and gone, like the forest was winking at him.
+Air, moving into him. Warm and damp and full of small green things. He had not known he could breathe until he did, and the knowing felt like something arriving from somewhere he could not name.
 
-Then he saw the Seed Core.
+He breathed again. Smoke. Wet dirt. Leaves. A creek somewhere downstream.
 
-It sat at the center of the crater. Dark. Cold. The size of his fist. Something pulled at his chest when he looked at it. Not thought. Just pull. The way your hand reaches for a doorknob before your brain decides to enter the room.
+He looked down at his chest the way someone looks at a machine they have just discovered working inside them.
 
-He stepped closer. Knelt.
+Hands.
 
-Picked it up.
+He had hands.
 
-Cold. Heavier than it looked. No warmth. No light. No pulse.
+Warm yellow hands, small, slightly bright at the edges. He turned them over and watched the light move with them. He flexed his fingers. The fingertips glowed thinner than the rest of him, like candlelight behind skin.
 
-He stared at it. Turned it over in his palm. Waited.
+"Okay," he whispered.
 
-Nothing.
+His voice came out rougher than he expected.
 
-He shook it, gently.
+He looked around.
 
-Nothing.
+There was no before. No memory of where he had come from or why. No name for the shell, or the crater, or the trees.
 
-"Seriously?" His voice came out sharper than he expected. Raw, teenage, the kind of voice that doesn't know its own volume yet. "You're just gonna… stop?"
+Only the now of him standing here.
 
-The forest didn't answer. The silence leaned in from every direction, not empty silence but full silence, the kind that is made of all the sounds that just stopped, and Zaro held the cold Core against his chest and turned in a slow circle. The Greenbelt stretched in every direction: dark trunks, darker spaces between them, moonlight in scattered fragments on the forest floor.
+He looked up. Through the broken canopy, the sky was thick with stars. He had no word for them. Looking made his chest ache, in a way that did not have words yet either.
 
-Spark Dust traces glimmered faintly on nearby leaves. A coating so thin it was invisible unless you caught the angle exactly right. Then a single leaf would flash gold for half a second and go dark again. The whole forest was wearing the aftermath of his arrival, and it didn't know it, and he didn't understand it, and the silence kept pressing.
+Then he looked down.
 
-His vision wavered at the edges. Not heat. A wrongness, like the air at the very periphery of his sight couldn't decide what shape to be. He blinked. It was gone. He blinked again. Still gone.
-
-But the feeling stayed.
-
-"Yeah," he whispered. "I'm *not* alone."
-
-He held the Seed Core tighter and moved into the trees.
+And in the center of that now: a small dark stone.
 
 ✦ ✦ ✦
 
-He walked carefully, watching the ground.
+Something pulled at his chest when he looked at it.
 
-Fern fronds brushed his legs as he passed. One uncurled slightly in his warmth, a slow unrolling like a finger stretching, and he didn't notice because he was watching the dark between the trees. But the fern noticed him. A patch of moss he stepped over turned a shade greener where his foot had been, the color deepening for a few seconds before fading back. The forest was responding to him in small ways, the way a cold room responds to a body entering it: not magically, just the physics of warmth meeting things that hadn't been warm in a long time.
+Not thought. Not memory. Recognition.
 
-Spark Dust traces shimmered on bark and leaf surfaces as he moved. Not glowing — catching. The dust had settled everywhere and it sat there like fine glitter, invisible until moonlight and angle conspired to make a single surface flash gold for half a heartbeat. He brushed a branch. Dust sparkled along his arm, then disappeared.
+The way a hand reaches for a doorknob before the brain decides to enter the room.
 
-The creek appeared before he heard it. Water running over smooth stones, clear and cold, and the sound of it was so normal, so uninterested in craters and containers and cosmic arrivals, that Zaro stopped and listened for three full breaths just to hear something that didn't care about him.
+He stepped closer. Knelt. Picked it up.
 
-The creek ran. A frog croaked once from somewhere downstream. The frog didn't croak again.
+Cold.
 
-He kept walking. The Core was cold against his chest. He needed shelter. Somewhere to think. Somewhere to figure out why a dead stone in his hands felt like the most important thing he'd ever held.
+Too cold.
+
+Heavier than it looked. No warmth in it. No light. No pulse.
+
+He held it in both hands and waited.
+
+Nothing.
+
+He shook it once. Gently.
+
+Still nothing.
+
+"Seriously?" His voice came out sharper than he meant. Raw. Teenage. The kind of voice that does not know its own volume yet. "You're just gonna… stop?"
+
+He lowered the stone quickly, the way a hand lowers a thing that might be sleeping.
+
+"Sorry," he whispered. "Sorry. I just…"
+
+He did not know what he just.
+
+The forest pressed close around the crater. No crickets. No creek. No wind in the leaves. The silence felt watched.
+
+His vision wavered at the edges. The wavering was not heat. Something at the edge of his sight could not decide what shape it should be.
+
+He blinked. It was gone.
+
+He blinked again. Still gone.
+
+But the feeling stayed.
+
+"I don't think we're alone," he whispered.
+
+The dark between the trees did not answer.
+
+He held the cold stone tighter and walked into the trees.
 
 ✦ ✦ ✦
 
 He found the cabin by accident.
 
-It sat behind a wall of overgrown vines and broken branches, barely visible in the dark. A small single-story structure with a stone foundation and a porch so weathered the boards had turned the color of old bone. An abandoned forester's cabin. The kind of place that had been left alone long enough that the forest had started taking it back, vines climbing the walls, a young maple growing through a gap in the porch railing.
+It stood behind vines and broken branches, half-hidden, as if the forest had tried to keep it. A small single-story place with a sagging roof and porch boards weathered to the color of old bone. A young maple grew through a gap in the railing.
 
-Zaro pushed the door open.
+Zaro stopped at the bottom step.
+
+The cabin looked forgotten.
+
+That made him like it a little.
+
+He pushed the door open.
 
 The hinge made a sound like a question it had been waiting years to ask.
 
-Inside: dust in moonlight. A broken chair. An old lamp on a table with a cracked glass shade. A window with one pane missing. The smell of damp wood and mouse nests and the particular stillness of a room that no one has entered in years. Not abandoned-still. Forgotten-still, the kind of quiet that happens when a place gives up expecting anyone.
+Inside: dust in moonlight. A broken chair. An old lamp on a table with a cracked shade. A window with one pane missing. The smell of damp wood and mouse nests and the particular stillness of a room no one had entered in years.
 
-He stepped inside. The floorboard under his foot creaked, loud and self-conscious in the dead air.
+The room was not abandoned-still. It was forgotten-still, the kind of quiet that happens when a place gives up expecting anyone.
 
-He set the Seed Core on the table. Carefully.
+Zaro stepped inside.
 
-It sat there. Dark. Cold. Not a single trace of the rainbow pulse that had blazed inside the container an hour ago.
+The floor creaked under his foot.
 
-"Okay." He exhaled. "Okay. Don't panic."
+"Sorry," he told it.
 
-He touched the Seed Core with one finger. Cold stone. Nothing.
+He set the stone on the table. Carefully.
 
-He placed his whole palm over it. Closed his eyes. Pushed warmth. Not forced. Just offered it the way you hold your hands near a fire and let the heat find its own way in.
+It sat there. Dark. Cold. No trace of the rainbow that had pulsed inside it.
+
+"Okay," he said. "Okay. Don't panic."
+
+He touched the stone with one finger.
 
 Nothing.
 
-He opened his eyes. The Core was exactly as dark as before.
+He placed his whole palm over it. Closed his eyes. Pushed warmth, gently, the way a hand offers heat to a fire without touching the flame.
+
+Nothing.
+
+He opened his eyes.
+
+The stone was exactly as dark as before.
 
 "Come on." He leaned closer. "You were alive. I saw you. You pulsed. You were RIGHT THERE."
 
 Dark. Still. Cold.
 
-Something in his chest tightened. Not pain. Closer to the feeling of watching a door close that you weren't ready to see shut.
+Something in his chest tightened. Not pain. Closer to the feeling of watching a door close that he was not ready to see shut.
 
-He pulled back. Looked at the room. The broken chair. The cracked lamp. The window with its missing pane letting in a ribbon of night air that smelled like wet leaves and nothing else.
+He pulled back. Looked at the room. The broken chair. The cracked lamp. The window letting in a ribbon of night air that smelled like wet leaves and nothing else.
 
-He could leave. Walk back into the forest. Find a different place. Start over. The Seed Core was dead and the forest was dark and the silence outside was wrong and he was alone and none of this made sense and maybe —
+He could leave. Walk back into the forest. Find a different place. Start over.
 
-He looked at the Core again.
+The thought came quietly, and it surprised him by how quietly it came.
+
+He looked at the stone again.
 
 "Okay… okay. One more try."
 
-He placed both hands around it. Cupped it like a bird that had fallen out of a nest. He didn't push this time. He just held it, and let his warmth be warmth, and waited the way you wait at a bedside — not for a result, but because leaving would be worse than staying.
+He cupped both hands around it. Like a bird that had fallen from a nest.
 
-His light dimmed. Not a lot. A shade. The amber-gold at his fingertips thinned slightly. He was giving the Core something and it was costing him something and he didn't care because the alternative was a dead stone on a dusty table in a forgotten house and he refused.
+He did not push this time. He held. He let his warmth be warmth, and waited the way someone waits at a bedside who has nothing left to do but stay.
 
-Ten seconds. Twenty. The silence outside pressed closer.
+His own light dimmed. A shade. Then another. The amber-gold at his fingertips went almost translucent.
+
+He was giving something. He could feel it leaving him. He did not care, because the alternative was a dead thing on a dusty table in a forgotten house.
+
+And he refused.
+
+Ten seconds.
+
+Twenty.
+
+The silence outside pressed closer.
 
 Then —
 
 Warmth.
 
-Not from him. From the Core. A warmth rising to meet his. Faint, uncertain, like a pulse that wasn't sure it was allowed to beat.
+Not his warmth. The stone's.
+
+A warmth rising to meet his. Faint. Uncertain. Like a pulse that was not sure it was allowed to beat.
 
 His breath caught.
 
-The Seed Core glowed. Soft. A single rainbow flicker, gold, cyan, magenta, cycling once through the spectrum before settling into a steady amber. Not bright. Not blazing. A nightlight. A held breath deciding to exhale.
+The stone glowed.
+
+Soft. A single rainbow flicker, gold, cyan, magenta, cycling once before settling into a steady amber. Not bright. Not blazing. A nightlight. A held breath finally deciding to exhale.
 
 Zaro's hands trembled around it.
 
 "There you are." His voice cracked. "There you are. Hey. Hey."
 
-The Core pulsed again. Steady now. Alive. Warm in his palms, answering his warmth with its own, two small sources of heat in a cold room in a dark forest at the edge of a silence that wanted everything to stop.
+The stone pulsed again. Steady now. Alive. Warm in his palms, answering his warmth with its own. Two small sources of heat in a cold room in a dark forest at the edge of a silence that wanted everything to stop.
 
-Zaro laughed. Short. Wet. Not because anything was funny.
+Zaro laughed, short and wet, not because anything was funny. Because something had answered him in the dark.
 
 "I got you," he whispered. "I got you. Stay."
 
-He held the Seed Core against his chest and sat on the floor with his back against the wall and his eyes on the door and his light wrapped around the only thing in the world he understood, and for the first time since he'd opened his eyes in a crater, he felt the tight thing in his chest loosen. Not resolve, just loosen, the way a fist unclenches when it realizes it's been holding too hard for too long.
+He held the small living thing against his chest and sat on the floor with his back against the wall and his eyes on the door. The tight thing in his chest loosened. It did not resolve. It just loosened, the way a fist unclenches when it realizes it has been holding too hard for too long.
 
-The lamp on the table was still dark. The chair was still broken. The window still had a missing pane.
+His chest rose. The stone pulsed. His chest fell. The stone pulsed.
 
-But the Seed Core was warm. And Zaro was warm. And the two of them sat in a forgotten cabin in a vast dark forest, and neither of them was dead, and for right now that was enough.
+Two rhythms finding each other in the dark.
 
-He didn't move for a long time.
-
-The Core pulsed. His chest rose. The Core pulsed. His chest fell. Two rhythms finding each other in the dark.
-
-Outside, the creek ran. Inside, the dust settled. Nothing happened. Nothing needed to.
+He did not move for a long time.
 
 ✦ ✦ ✦
 
-He started with the wall.
+The amber at the stone's center had dimmed.
 
-The plaster was cracked in a long diagonal from ceiling to floor, and behind the crack the old lath had gone soft with rot. Zaro pressed his palm against it.
+Only a shade. The way a candle dims when a door opens in a cold room.
 
-The wood was cold. Not winter-cold. Abandoned-cold. The kind of cold that meant nothing warm had touched this place in years.
+Zaro looked at the missing pane. The night air ribboning in. The damp coming up through the floorboards.
 
-He let the warmth move.
-
-It started in his palm. Present, not forced. Like holding your hand over a candle without touching the flame. The warmth traveled into the wood the way a name travels into a person who hasn't been called anything in years.
-
-The grain tightened. He felt it more than saw it. The lath remembering its shape. The crack narrowed, sealed itself, not with force but patience. The plaster firmed. A faint smell rose: sawdust and rain and something sweeter, like sap remembering what it was for.
-
-He moved to the floorboard. Pressed down. Warmth spread like morning sun soaking into a porch. The board firmed. The creak changed. Still there, but different now. The creak of a house settling into someone, not settling into nothing.
-
-The lamp.
-
-He touched the base. The metal warmed. The filament inside the cracked glass shade hesitated — then caught. Not fire. A soft golden light that filled the room the way a held note fills a quiet church: not pushing, just present, until the shadows leaned back on their own.
-
-The house exhaled. A long, wooden sigh that traveled through the frame from the floor up through the walls, as if the cabin had been holding its breath for the years nobody came and was finally letting it go.
-
-Zaro smiled. Small and real. The kind of smile that arrives before you know it's coming.
-
-But he was dimmer. A shade less bright, the amber-gold at his edges thinner than before. He'd given the wall something. Given the floor something. Given the lamp something. Each gift had cost him a fraction he couldn't name but could feel: a heaviness behind his eyes, a thinness in his fingertips, as if his body was keeping a ledger he couldn't see.
-
-He looked at his hands. Still warm. Just... less.
-
-He kept going. Slower now. Careful.
-
-One touch at a time. Fixing. Warming. Restoring. Not flashy. Like someone healing something hurt and trying not to break it worse.
-
-✦ ✦ ✦
-
-The house felt warm enough to live in now. Walls sealed. Floor solid. Lamp breathing amber. The missing window pane still missing because glass was beyond him. Zaro stood in the golden hum and listened.
-
-The creek ran outside, barely audible through the walls. Night insects had returned. Not the crickets, not yet, but smaller things, the background static of a summer forest at night. A normal sound. The kind of sound you stop hearing after thirty seconds because your brain decides it's safe.
-
-The Seed Core sat on the table, pulsing its quiet amber. The light from the lamp and the light from the Core overlapped on the ceiling in a pattern that looked almost like breathing. Two rhythms, slightly different, meeting and parting and meeting again.
-
-Zaro watched it.
-
-He'd found a small wooden box in a broken cabinet. The kind that might have held fishing lures or nails once. He'd wiped the dust off. Opened it. Empty. The velvet lining inside was mouse-chewed but soft.
-
-He picked up the Seed Core.
-
-It pulsed warmer in his hands, as if it recognized the difference between the table's surface and his.
-
-"Time to hide you," he said quietly.
-
-He knelt. Found a hollow beneath a floorboard. A gap between joists, dark and dry. He placed the Core in the box. The velvet settled around it. The amber glow painted the inside of the box with warm light.
-
-He hesitated.
-
-His hands stayed open around the box. Not closing the lid. Not yet.
-
-He closed the lid.
-
-He slid the box into the gap beneath the floor and pushed it deeper until the darkness swallowed it.
-
-He replaced the board. Pressed his palm against the seam. The wood warmed and tightened around his handprint, as if the floor was making a promise it didn't know how to say.
-
-"Stay safe," he whispered.
-
-The first words he'd said that were meant for something other than himself.
+The cold was costing it.
 
 He stood up.
 
+He went to the wall first. A long crack ran from the ceiling to the floor. Behind it, the wood had gone soft with rot.
+
+Zaro pressed his palm against it.
+
+The wood was cold. The cold of a place nothing warm had touched in years. The kind of cold that had just dimmed the stone behind him.
+
+He let the warmth move.
+
+It traveled into the wood the way a name travels into a person who has not been called anything in years. The grain tightened. The crack narrowed and sealed. The plaster firmed. A faint smell rose. Sawdust and rain and something sweeter, like sap remembering what it was for.
+
+He stepped back.
+
+His chest felt like he had been holding his breath. The amber at his fingertips had thinned to the color of a candle that was almost done.
+
+He looked at the stone on the table.
+
+It pulsed steady. Warm.
+
+He went back to work.
+
+The floorboard. Palm down. Warmth spread like morning sun soaking into a porch. The board firmed. The creak changed from a warning to a complaint.
+
+"Better," he said.
+
+The lamp. He touched the metal base. It warmed. A small amber light caught inside the cracked glass.
+
+The room filled with gold. Not much. Enough. The shadows leaned back from the table on their own.
+
+The house exhaled. A long wooden sigh that traveled from the floor up through the walls, as if the cabin had been holding its breath for years and was finally letting it go.
+
+Zaro smiled. A small, real smile that arrived before he knew it was coming.
+
+He was dimmer. A shade less bright than when he started. But the stone on the table held its glow, and the lamp was lit, and the walls were sealed against the night.
+
+The missing windowpane stayed missing.
+
+He touched the empty frame anyway.
+
+Nothing happened.
+
+He tried again.
+
+Still nothing.
+
+"Okay," he said softly, because he did not want the cabin to think he was disappointed in it. "We'll figure that one out later."
+
 ✦ ✦ ✦
 
-The wet-static came first.
+The house felt warm enough to live in now. Walls sealed. Floor solid. Lamp breathing amber. The missing pane still let in a ribbon of cold night air, but the rest of the room held.
 
-Not a sound. A texture. Like the air between the walls had thickened with something damp. Humidity with weight behind it. The kind of pressure you feel before a storm, except there was no wind, no clouds, no temperature drop. Just the air itself becoming harder to breathe, as if something was leaning on it from outside.
+He picked up the stone.
+
+It pulsed warmer in his hands, as if it knew the difference between the table's surface and his.
+
+"You need a better place," he said.
+
+He searched the cabin. In a low cabinet, under mouse-chewed cloth and old leaves, he found a small wooden box. The hinge was stiff. The velvet lining inside was faded but soft.
+
+Zaro placed the stone inside.
+
+The amber painted the inside of the box with warm light.
+
+He held the lid open for a moment. Closing it felt wrong. But leaving the stone on the table felt worse.
+
+"Stay safe," he whispered.
+
+The words were different from the others. They were not for himself.
+
+He closed the lid.
+
+He slid the box into a hollow beneath a floorboard, a gap between joists that was dry and dark, and pushed it deeper until the dark swallowed it. He replaced the board. Pressed his palm against the seam. The wood warmed and tightened around his handprint, as if the floor was making a promise it did not know how to say.
+
+The stone pulsed beneath his hand, beneath the wood.
+
+Hidden. Alive.
+
+"Okay," he said softly.
+
+For the first time since he had opened his eyes in the crater, the word felt almost true.
+
+✦ ✦ ✦
+
+The wet-static came after that.
+
+Zaro did not hear it at first. He felt it.
+
+A damp pressure in the air. A texture against his skin. Like the space inside the cabin had been touched by something cold and electric.
 
 The lamp flickered.
 
-Half a heartbeat. Barely visible. But the flicker was wrong. Not a power fluctuation. A flinch, as if the light itself had startled.
+The flame inside the cracked glass was not a flame, but it flinched like one.
 
-Zaro stopped.
+Zaro turned.
 
-He listened.
+The night insects had gone quiet. The creek was still there. He could see it moving between the trees through the missing pane.
 
-The night insects had gone quiet. Not fading. Removed. The creek was still audible but muffled now. You could see the water moving if you looked. The connection between what you saw and what you heard had been... dampened. By something that found noise inconvenient.
+He could not hear it.
 
-He looked at the window. The missing pane let in night air that had been cool and green-smelling five minutes ago. Now it carried something else. A faint mineral edge. Like wet stone. Like the inside of a well.
+He looked out into the dark.
 
-The edges of his vision wavered. The same wrongness from the crater. A shimmer at the periphery, as if reality was slightly undecided about its own shape.
+The air at the tree line had thickened.
+
+A small moth fluttered in through the missing pane, drawn to the lamp. Its wings beat once, twice, as it crossed the air toward the light.
+
+Then it passed through a patch of shadow near the sill.
+
+The moth stopped. Mid-air. For half a second its wings caught the lamp light and went the wrong color. Pale. Powdery. Then it dropped to the sill, still alive, still moving, but slower, as if the air itself had forgotten how to hold it up.
+
+Zaro saw it.
+
+He understood.
 
 His hands were already rising.
 
-The warmth pushed outward before he chose to push it. Instinct deeper than decision. A ripple expanded from his chest, visible only as shimmer, like heat moving across glass. It spread through the walls, through the floor, through the ceiling, pressing outward in a widening sphere.
+Warmth pushed out from his chest before he chose it. A ripple. Visible only as shimmer, like heat moving across glass. It spread through the cabin in a widening sphere. Across the floor. Up the walls. Out past the missing window.
 
-Then — a lock.
+Then something locked.
 
-A clean, decisive click. Not mechanical. Structural. The sound a puzzle makes when the last piece finds its place. The shimmer settled into something invisible but absolute. A boundary. A line in the air between here and there, between warm and not.
+A clean click. The sound a puzzle makes when the last piece finds its place.
 
-A dome.
+The shimmer settled into something invisible but absolute. A boundary. A line in the air between here and there. Between warm and not.
 
-Zaro blinked. His hands were still raised. He hadn't known he could do this. He hadn't known he would. But his body knew, the way bodies know to flinch before the mind registers danger, and the dome was here and it was real and when he touched the air near the window, warm resistance met his fingers. Gentle, firm, alive.
+Zaro blinked. His hands were still raised. He did not know what he had just made, but his body had known how to make it.
 
-Inside the dome: warm. Lamp-lit. The Seed Core pulsing beneath the floor. The cabin breathing.
+He touched the air near the missing pane.
 
-Outside: the wet-static pressed against the boundary and held. Testing. The muffled silence deepened.
+Warm resistance met his fingers. Gentle. Firm. Like a promise.
 
-The dome cost him. He felt it immediately. A drop, not collapse, like stepping down a stair he didn't see. His amber dimmed another shade. His fingertips went thin and translucent. The ledger his body was keeping had added another line, and the total was starting to show.
+Inside: warm room, amber lamp, sealed floorboard, hidden stone.
 
-"Good," he whispered.
+Outside: wet-static, dead sound, dark forest.
 
-He sat down on the floor. Back against the wall. Facing the door.
+Between them, the boundary, humming low and steady.
 
-The dome hummed. Low. Constant. The vibration of a boundary that intended to stay.
+It cost him. He felt it immediately. A drop, not a collapse, like stepping down a stair he had not seen. The amber at his fingertips thinned again. A tired ache opened behind his ribs.
 
-✦ ✦ ✦
+He sat down before he fell.
 
-*A different world.*
+The moth lay weakly on the sill.
 
-Cold. Clean. Silent in a way that is the opposite of the forest's silence. Not muffled but engineered. The silence of a place that was built to contain only what it measures.
+Zaro reached over and cupped his hand around it, shielding it from the patch of shadow.
 
-A vast structure floated in space that wasn't quite space: a city of geometry and teal light, surfaces meeting at angles so precise they looked calculated rather than constructed. Data planes flickered in and out of existence: walls made of information, corridors of pure measurement, a civilization built on the principle that everything real can be quantified.
+"You're okay," he whispered.
 
-ARC-7 stood at the center of a monitoring chamber.
+The moth trembled in his palm and quieted.
 
-Teal light pulsed through armor that looked less forged than assembled from rules. Each plate a function. Each seam a protocol. His visor was not a face. It was a focused lens. It observed. It did not express.
+Outside, something pressed against the boundary.
 
-A reading spiked on his array.
-
-> *YELLOW LIGHT ANOMALY — EARTH SECTOR.*
-> *FREQUENCY: Y-PRIME.*
-
-Beneath it, a second alert. Darker. Smeared across the readout like something the instruments didn't want to touch:
-
-> *FOREIGN CONTAMINATION TRACE.*
-> *UNKNOWN BIO-SIGNATURE.*
-
-ARC-7 leaned toward the display.
-
-The forest resolved in the data: a crater. A structure. A dome signature. Crude, unoptimized, but unmistakably Y-Prime frequency. Spark Dust scatter pattern across the surrounding canopy. Angle-dependent. Prismatic.
-
-And at the edges of the scan, barely registering: a dark smear. Moving with a coherence that weather doesn't have. Approaching the dome.
-
-"A new spark," he said.
-
-Not wonder. Classification.
-
-A system log appeared in the corner of his display:
-
-> *ZARO-001-START*
-> *ARC TIME: CYCLE 7.00.01*
-
-He studied the dome's readings. Structurally sound but inefficient. Enormous energy expenditure for minimal coverage. The Y-Prime was burning through reserves to maintain a field that a properly calibrated system could hold at a tenth the cost.
-
-Unoptimized. Instinctive. Untrained.
-
-And alive. Against significant odds, *alive*.
-
-The contamination trace moved closer to the dome on the scan. Slow. Deliberate.
-
-ARC-7 straightened.
-
-His teal brightened by a degree. Not a decision, not a reaction. A calibration. The instruments adjusting to something that required more attention than the previous ninety seconds of data had suggested.
-
-He watched.
-
-✦ ✦ ✦
-
-*Back in the cabin.*
-
-The lamp breathed amber. The dome hummed. The walls held their warmth. Outside the missing window pane, the night was vast and dark and pressing gently against the boundary that Zaro had made from instinct and stubbornness and whatever he was running low on now.
-
-He sat with his back to the wall. His light was dim. Not spent, but tired. Enough to see by. Not enough to waste.
-
-His eyes kept going to the floorboard. The one with his handprint sealed into the seam. The one with the box underneath. The one with the Seed Core pulsing its quiet amber heartbeat in the dark, patient, alive, waiting for morning.
-
-Something moved at the tree line beyond the dome.
-
-Not sharp. A thickening in the shadow beneath the lowest branches. An oily darkness that was the wrong texture for shadow, too dense, too deliberate, pooling where the moonlight was weakest and leaning toward the warm shimmer of the dome the way a plant leans toward a window.
-
-The wet-static rose. Closer now. Close enough that the air on his side of the dome felt heavier, as if the boundary was carrying weight.
+The wet-static rose. The air at the tree line thickened further. An oily darkness pooled beneath the lowest branches, too dense for ordinary shadow, leaning toward the warm shimmer of the boundary the way a plant leans toward light.
 
 The mist advanced. Cracked once. Solid behavior in a thing that should have been air. Then smoothed again, pleased with its own correction.
 
-Zaro's lamp thinned for a heartbeat.
+Zaro's lamp thinned for one heartbeat. Then steadied.
 
-He didn't blink.
+Beneath the floor, the stone pulsed.
 
-Outside, the darkness pressed closer.
+He did not blink.
 
-Inside, the Seed Core pulsed beneath the floor.
+Outside, the dark pressed closer.
 
-Between them — a dome made of warmth and will and a cost Zaro couldn't calculate yet, humming steady, holding the line between a small warm room and a very large, very patient dark.
+Inside, the stone pulsed beneath the floor.
 
-"Okay," Zaro said to the empty cabin, to the glowing Core beneath the floor, to the warm walls, to the dome, to himself, to whatever was listening outside that he couldn't see. "Okay."
+Between them, a boundary made of warmth and will and a cost he could not yet calculate, humming steady, holding the line between a small warm room and a very large, very patient dark.
+
+"Okay," Zaro said. To the empty cabin. To the glowing stone beneath the floor. To the warm walls. To the moth in his palm. To whatever was listening outside that he could not see.
+
+"Okay."
 
 The dome held.
 
 The dark waited.
 
 ✦ ✦ ✦
+
+END OF CHAPTER 1
