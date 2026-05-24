@@ -24,10 +24,14 @@
           ]
         },
         "kid": {
-          "languages": []
+          "languages": [
+            "en"
+          ]
         },
         "bedtime": {
-          "languages": []
+          "languages": [
+            "en"
+          ]
         },
         "commentary": {
           "languages": []
