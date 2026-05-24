@@ -452,6 +452,8 @@ Between them, the boundary, humming low and steady.
 
 It cost him. He felt it immediately. A drop, not a collapse, like stepping down a stair he had not seen. The amber at his fingertips thinned again. A tired ache opened behind his ribs.
 
+"Good," he whispered.
+
 He sat down before he fell.
 
 The moth lay weakly on the sill.
