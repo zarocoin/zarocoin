@@ -1,0 +1,11 @@
+{
+  "_comment": "Global language registry for ZaroVerse books. To add a language: (1) add an entry here, (2) add the language code to the relevant chapter editions in chapters/_meta.json, (3) create the translated chapter file using the naming convention CHAPTER_N_TITLE[_EDITION].{lang}.md (English is always the canonical with no language suffix).",
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "dir": "ltr"
+    }
+  ]
+}
