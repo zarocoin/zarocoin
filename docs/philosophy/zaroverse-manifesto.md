@@ -1,5 +1,9 @@
 # A New Yellow Spark: Why ZaroVerse Exists
 
+> **Historical artifact — early ZaroVerse era (2025).** This document is the founding manifesto of ZaroVerse, written in the project's early phase. It is preserved verbatim as a primary-source statement of the founder's vision at that time. The forward-looking language (10-year horizon, comparisons to other studios, growth claims) reflects the author's intent then and is **not a commitment, guarantee, or financial promise**. ZARO Coin is a digital collectible with no intrinsic value. The company does not sell ZARO Coin. For the project's current state and the December 2025 incident response, see [zarocoin.xyz/history](https://www.zarocoin.xyz/history) and the sober statement of what ZARO is at [zarocoin.xyz/manifesto.html](https://www.zarocoin.xyz/manifesto.html).
+
+---
+
 In 1923, a young animator with more ideas than resources started a small studio that would slowly grow into Disney.  
 It took a century of trial, failure, courage, and stubborn optimism to build what we all know today: films, parks, music, merchandise, memories.
 

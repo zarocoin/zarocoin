@@ -1,5 +1,9 @@
-# Founder Message #2  
+# Founder Message #2
 ## Restoring Order in Crypto — The ZARO Way
+
+> **Historical artifact — August 2025.** This message was published shortly after launch. It is preserved verbatim as a primary-source record per the [folder index](./README.md). The forward-looking statements and the comparative framing ("gold standard", "we set the standard") reflect the author's posture at the time and are **not commitments, guarantees, or financial promises**. ZARO is a digital collectible with no intrinsic value. The company does not sell ZARO. For the project's current state and the December 2025 incident response, see [Founder Message #3 — The Decision](./founder-message-3.md) and [zarocoin.xyz/history](https://www.zarocoin.xyz/history).
+
+---
 
 Crypto was supposed to be a revolution.  
 Instead, it got hijacked by shortcuts, scams, and silent rug pulls.  

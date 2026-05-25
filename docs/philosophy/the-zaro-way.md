@@ -2,6 +2,8 @@
 
 _Also published as ZaroProject Podcast Episode 2 & Medium Essay — September 2025_
 
+> **Historical artifact — September 2025.** This essay was published as ZaroProject Podcast Episode 2 and a companion Medium piece. It is preserved verbatim as a primary-source statement. The hiring, equity, and growth statements reflect the project's posture at that time and are **not present commitments, offers, or financial promises**. Any future equity issuance by ZaroVerse Ltd would follow applicable securities laws. ZARO is a digital collectible with no intrinsic value. The company does not sell ZARO. For the project's current state and the December 2025 incident response, see [zarocoin.xyz/history](https://www.zarocoin.xyz/history).
+
 ---
 
 This isn’t a podcast episode. It’s a **timestamp**.  
