@@ -1,6 +1,6 @@
 # ZARO — Security Overview
 
-_Last updated: 2026-05-23_
+_Last updated: 2026-05-26_
 
 This document is the canonical security reference for the ZARO token across all chains. It is intended for security aggregators, listing platforms, auditors, and blockchain data providers. All claims are verifiable on-chain.
 

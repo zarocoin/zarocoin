@@ -81,11 +81,11 @@ ZARO is not a meme coin. It is not a DeFi protocol. It is not a governance token
 
 **ZaroVerse is the ecosystem.** ZaroVerse Ltd. serves as the steward and custodian of the ZaroVerse intellectual property — building the stories, the characters, and the products of the universe. The company does not control or develop the token; the contract is fully renounced and immutable.
 
-The roadmap in Part VII belongs to ZaroVerse, not to the token. As the ZaroVerse ecosystem matures, the company will consider whether a utility dimension can be authentically introduced for ZARO — consistent with the lore. This is not a plan. Nothing has been designed, announced, or committed to. No price outcome is implied or suggested.
+The roadmap in Part VII belongs to ZaroVerse, not to the token. ZARO is a finished on-chain artifact — no utility, no revenue, no governance, no rights, and no future utility is planned for or attached to the token. The token's role in the universe is purely commemorative.
 
 ### Contract Renounced
 
-The owner is the zero address. No admin keys. No mint function. No pause. No blacklist. No upgrade mechanism. The contract is fully immutable — structurally analogous to Bitcoin. No entity, including ZaroVerse Ltd., has any control over the token supply or contract behavior.
+The owner is the zero address. No admin keys. No mint function. No pause. No blacklist. No upgrade mechanism. The contract is fully immutable. No entity, including ZaroVerse Ltd., has any control over the token supply or contract behavior.
 
 ### Liquidity Permanently Secured
 
