@@ -1,60 +1,31 @@
-# ZaroVerse Philosophy & Manifestos
+# ZaroVerse Philosophy
 
-This folder hosts the core philosophical documents of the ZaroVerse ecosystem — why it exists, how it should be built, and the principles that guide every decision.
+This folder contains two early-era philosophical documents written by the project's founder. Both are preserved verbatim as primary-source artifacts and are clearly dated. Each carries a historical-context banner at the top explaining the era it was written in.
 
-These texts are not legal contracts or whitepapers. They are the *“why”* behind everything else in the repository.
-
----
-
-## Documents in This Folder
-
-### 1. A New Yellow Spark: Why ZaroVerse Exists  
-**File:** `zaroverse-manifesto.md`  
-
-This is the founding manifesto of ZaroVerse.:contentReference[oaicite:0]{index=0}  
-
-It answers a single question:
-
-> If someone started “Disney” today, with all the tools we now have, what could they build in 10 years?
-
-Key themes:
-
-- **The Yellow Spark** – introduction of Zaro as a quiet, optimistic companion character designed to live in the real world, not only on screens.  
-- **Three Pillars** – ZaroVerse Studios, ZaroShop lifestyle retail, and ZARO Coin as the digital thread that connects them.  
-- **100 Years vs 10 Years** – a respectful acknowledgment of Disney’s 100-year journey, and a statement that modern tools (AI, real-time engines, global logistics, blockchain) allow a new universe to grow on a 10-year horizon, without copying Disney’s path.  
-- **Invitation to the Reader** – frames 2025 as the year “a yellow spark was created” and asks where the reader was when Zaro began.
-
-Use this document when you need to explain the *big picture* of ZaroVerse to partners, collaborators, and the community.
-
-👉 **Read it:** [`zaroverse-manifesto.md`](./zaroverse-manifesto.md)
+For the project's current posture and structural facts, see the main repo [README](../../README.md), the [vision overview](../vision/readme.md), and [zarocoin.xyz](https://www.zarocoin.xyz).
 
 ---
 
-### 2. The ZARO Way – Philosophy & Principles  
-**File:** `the-zaro-way.md`  
+## Documents in this folder
 
-“The ZARO Way” is the operating philosophy for how ZaroVerse is built across decades. It functions as an internal constitution for culture, ethics, and execution.
+### 1. A New Yellow Spark — Why ZaroVerse Exists
+**File:** [`zaroverse-manifesto.md`](./zaroverse-manifesto.md)  
+**Era:** Early ZaroVerse (2025)
 
-Core ideas include:
+The founding statement of vision for ZaroVerse — describing why the project was started and how the founder framed its ambition at that time. Forward-looking language in this document reflects intent at the time of writing, not present commitments.
 
-- **Culture before hype** – build real parks, products, and stories before marketing them loudly.  
-- **Receipts over promises** – favor on-chain proof, documentation, and shipped work over speculation.  
-- **Family-safe, cross-cultural design** – ZARO as a calm, warm, non-violent character that can travel across cultures and generations.  
-- **Long-term horizon** – ZaroVerse is planned as a 10- to 50-year company, not a short-term campaign.  
-- **Clean token design** – tokens are used as loyalty and culture infrastructure, not as financial traps.
+### 2. The ZARO Way
+**File:** [`the-zaro-way.md`](./the-zaro-way.md)  
+**Era:** September 2025 (also published as ZaroProject Podcast Episode 2 and a companion Medium essay)
 
-Use this document when you need guidance on *how* to act in alignment with ZaroVerse values — from community decisions to partnerships, content, parks, and token design.
-
-👉 **Read it:** [`the-zaro-way.md`](./the-zaro-way.md)
+A founder essay on the project's operating principles as articulated in mid-2025. Hiring, equity, and growth statements in this document reflect the project's posture at that time and are not present commitments, offers, or financial promises.
 
 ---
 
-## How to Use This Folder
+## How to use this folder
 
-- **For new team members:** Start here before reading technical docs or business plans. This folder explains *why* ZaroVerse exists and what kind of company it aims to be.  
-- **For partners & investors:** Share links to these files alongside formal decks and legal documents to communicate the deeper vision and cultural intent.  
-- **For community & creators:** Treat these texts as the reference point for tone, ethics, and long-term direction when making art, stories, games, or proposals.
+These documents capture the founder's voice in 2025. They are useful as primary-source historical context — what the project said at a specific moment in time. For the project's current state, structural facts, and verifiable on-chain evidence, refer to the active documents in `/docs` and the public site.
 
-All future philosophy or manifesto-style documents should be added to this folder and linked from this `readme.md` for easy discovery.
+---
 
-© 2025 ZaroVerse Ltd. – “Community First. Story Forever.”
+© 2025 ZaroVerse Ltd.

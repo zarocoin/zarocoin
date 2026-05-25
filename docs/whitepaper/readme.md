@@ -133,7 +133,7 @@ ZARO is backed by a live fictional universe under active development:
 - Published lore chapters — [ZaroVerse Books](https://www.zaroverse.com)
 - Merchandise in development (plush toys, apparel)
 - Games in development (Meme Wars)
-- IP licensing model comparable to Hello Kitty / Pudgy Penguins
+- Character-led IP licensing model (mascot, merchandise, animation, media)
 
 ---
 

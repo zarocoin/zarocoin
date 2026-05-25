@@ -1,43 +1,35 @@
 # ZARO Creator & Brand Guidelines
 
-_For artists, writers, story architects, brand stewards, lore builders, and cultural custodians of the ZaroVerse._
+_For artists, writers, story architects, and community creators making content with or about ZARO._
 
 ---
 
-## 🧭 THE TRUE PURPOSE
+## 🧭 Purpose
 
-This is not a marketing manual.  
-It’s a doctrine for digital culture creators.
+This is a brand-voice and creative reference, not a marketing manual.
 
-If you touch the ZARO brand — through story drops, captions, stickers, illustrations, games, videos, or even community replies — this document is for you.
+If you touch the ZARO brand — through story drops, captions, stickers, illustrations, games, videos, or community replies — this document explains the tone, character, and posture to keep things consistent.
 
-**Your task isn’t to generate hype. It’s to generate meaning.**
-
-ZARO isn’t here to be another fleeting trend. ZARO is here to become a cultural landmark — a mascot who outlives cycles, a symbol that survives storms, a message that resonates beyond price.
-
-This guide is a complete framework for building that world, one pixel and phrase at a time.
+The guidance throughout: **focus on the character and the story, not on price, market, or speculation.**
 
 ---
 
-## 🧬 ZARO’S DEEP IDENTITY
+## 🧬 ZARO's character
 
-Let’s go beyond bullet points. Here’s what ZARO really is:
+ZARO is:
 
-- He’s a **rebellion without rage**. Calm. Focused. He stands still while the world spins.  
-- He’s **digital heritage**. Like a cultural coin pressed onto Ethereum.  
-- He’s not a cartoon — he’s a **reaction**. A response to the scams, noise, and panic of crypto.  
-- He’s the **anti-pump**. Because what pumps dies. What resonates lives.
+- Calm. Focused. Quietly observational rather than loud.
+- A character first, with a fixed-supply on-chain artifact attached
+- Designed to travel across cultures and ages — family-safe, non-violent, optimistic
+- Independent of market behavior — the character's meaning does not depend on the token's price
 
 ZARO is for those who:
 
-- Value creativity over greed.  
-- Want fun without fear.  
-- Believe in stories with memory.  
-- Seek a brand that can become a global IP movement — not just a ticker.
+- Value creativity over noise
+- Want fun without fear
+- Care about stories with memory
 
-Your role as a creator?  
-**To make people feel ZARO.**  
-To make them recognize him, use him, remix him, and eventually — trust him.
+Your role as a creator: make people recognize, use, and remix the character. The token is the on-chain receipt of the story; the story is the work.
 
 ---
 
@@ -181,34 +173,21 @@ He must resonate in **Manila, Lagos, Jakarta, Dubai, São Paulo, Delhi**, and ev
 
 ---
 
-## 📌 FINAL REMINDER FOR CREATORS
+## 📌 Final reminder for creators
 
-You’re not building a brand.  
-You’re co-writing a **mythology**.
+You're co-writing a story, not promoting a financial product.
 
-You’re not hyping a token.  
-You’re drawing a **mascot** that could outlive markets.
-
-You’re not marketing a moment.  
-You’re shaping **culture** that deserves to last.
-
-ZARO is the first mascot that represents a future people actually want to believe in.  
-Make sure everything you post — feels like that.
-
-> **ZARO doesn’t shout. He signals.**  
-> **Not here to moon. Here to matter.**  
-> **Not just to exist — but to endure.**  
-> _Not financial advice. Just a cultural artifact. DYOR._
+> **ZARO doesn't shout. He signals.**
+> _Not financial advice. ZARO is a digital collectible with no intrinsic value. DYOR._
 
 ---
 
-## 🤝 OPEN INVITATION
+## 🤝 Open invitation
 
-Want to contribute? Remix? Build with us?
+To contribute, remix, or build:
 
-Fork this doc. Propose new ideas.  
-Create your own ZARO lore drop, sticker, remix, or cultural thread — and tag us.
-
-> **Let’s write a new history. One sticker at a time.**
+- Fork this doc, propose new ideas
+- Create lore drops, stickers, remixes, or community threads
+- Tag the project channels when sharing
 
 ---

@@ -1,210 +1,139 @@
-# ZARO: Extended Vision & Strategic Plan  
-**Version 1.2 – May 2026**
+# ZARO — Project Overview
+**Version 2.0 — May 2026**
+
+This document describes what ZARO is, how the project is structured, and where to find verifiable evidence for every claim made on the public site.
+
+For the chronological record of every event since incorporation, see [zarocoin.xyz/history](https://www.zarocoin.xyz/history). For every on-chain receipt and external transparency document, see [zarocoin.xyz/proof](https://www.zarocoin.xyz/proof).
 
 ---
 
-## 1. A Clean Foundation
+## 1. What ZARO Is
 
-ZARO launched with unmatched transparency:
+ZARO is a fixed-supply ERC-20 collectible deployed on Ethereum, bridged 1:1 to Base, BNB Chain, and Solana via audited bridges. Total supply is 1,000,000,000 — mathematically fixed by a renounced contract. The contract owner is the zero address. Liquidity is permanently locked or burned on every chain.
 
-- No presale  
-- No VC allocation  
-- No taxes  
-- No team wallet  
-- Fixed supply: 1 billion ZARO  
-- Founder bought tokens at public price  
-- LP locked for 255+ years  
-- Contract renounced and minting permanently disabled  
-
-From the beginning, ZARO set a standard. No tricks. No privileged insiders. Just a fair, public launch documented on-chain.
+ZARO is the on-chain artifact of the **ZaroVerse** fictional universe — a transmedia IP being developed by ZaroVerse Ltd.
 
 ---
 
-## 2. Real Company, Real Vision
+## 2. What ZARO Is Not
 
-ZARO is not a social experiment. It’s a long-term company with a determined mission.
-
-Behind the mascot stands **ZaroVerse Ltd.**, a legally registered BVI entity (BVI No. 2183451, also registered in Dubai, UAE). The founder is **Shihab Khalil** — software engineer, MBA, LLM, founder of ZagTrader (institutional fintech platform serving banks, brokers, and exchanges globally), and a 20+ year fintech operator.
-
-Plans include:
-
-- Global board of directors  
-- Regional offices  
-- IPO strategy  
-- Holding ZARO and future characters under one parent brand  
+- Not a yield product
+- Not a utility token
+- Not a governance token
+- Not a security under applicable law (independent BVI legal opinion by Drew Barnholtz, Esq.)
+- Not sold by the company — trading occurs only via third-party decentralized exchanges
+- Has no intrinsic value; the company makes no financial claims about it
 
 ---
 
-## 3. From On-Chain Collectible to Cultural Brand
+## 3. Launch Structure
 
-ZARO is more than a token. It’s a character with a growing creative universe.
+The launch was structured to leave no administrative control over the token in the company's hands:
 
-We are building:
-
-- Animated series and shorts  
-- Mobile/web games  
-- Plush toys and collectibles  
-- Comics, music, and lore  
-- Global merchandise  
-- Sticker packs and emoji reactions  
-- Community remix tools  
-
-Long-term? Think **theme parks** — places to walk through the ZaroVerse.
+- No presale, no ICO, no private sale
+- No team allocation, no advisor allocation, no VC round
+- 0% transfer tax on every chain
+- Initial liquidity (300M ZARO + 6 ETH) seeded by the company and locked at UNCX for 255 years
+- Contract ownership renounced to the zero address (post-launch transaction)
+- The founder acquired 195M ZARO from the company treasury at the public launch price via an on-chain OTC transaction — same price as anyone else paid on the open market
 
 ---
 
-## 4. Global & Cross-Cultural
+## 4. Multi-Chain Architecture
 
-ZARO was built for the world.
+| Chain | Role | Bridge | LP status |
+|---|---|---|---|
+| Ethereum | Origin | — | Locked 255 years via UNCX |
+| Base | OP Stack L2 | OP Stack Standard Bridge | LP burned to `0x…dEaD` (permanent) |
+| BNB Chain | Wormhole wrapped | Wormhole Token Bridge | PancakeSwap V2 pool |
+| Solana | Wormhole wrapped | Wormhole Token Bridge | Meteora DLMM positions, locked |
 
-- Community across Asia, MENA, Europe, Africa, LatAm, and North America  
-- Holiday-based campaigns, regional languages, and localized content  
-- Embracing blockchain’s borderless ethos  
+The Ethereum cap (1,000,000,000) is enforced at the origin layer. No bridge can create new supply.
 
-ZARO is human-first and culturally neutral — a canvas for everyone.
-
----
-
-## 5. An App Store for Culture
-
-ZaroVerse is evolving into a cultural platform — an "app store" for creativity.
-
-We invite:
-
-- Creator tool builders  
-- AR/AI remix plugins  
-- Language tools  
-- NFT/gated community apps  
-- Token utility integrations  
-
-ZARO becomes the cultural operating system.
+Per-chain security profiles: [/docs/security](../security)
 
 ---
 
-## 6. Revenue Strategy & Utility Path
+## 5. Company
 
-ZARO offers no speculative promises, but prepares real pathways:
+**ZaroVerse Ltd.** — British Virgin Islands company (BVI No. 2183451), incorporated August 1, 2025. Operates from the UAE.
 
-- **Equity Conversion** – Future legal option for holders  
-- **Licensing Revenue** – Distribution from IP deals  
-- **Governance** – Treasury votes, media decisions  
-- **Token-Gated Perks** – Early access, creator tools, merch
+**Founder & CEO:** Shihab Khalil. 25+ years in technology innovation. MBA, New York Institute of Technology. LLM in International Law and Global Leadership, Aristotle University. Also Founder & CEO of [ZagTrader](https://zagtrader.com) (founded 2009), an institutional fintech platform serving 100+ institutions across 25+ regulated markets. ZagTrader and ZaroVerse Ltd are operationally and legally separate.
 
-All of this will be compliant and optional. We are building the rails now.
+Full founder bio: [zarocoin.xyz/founder](https://www.zarocoin.xyz/founder).
 
 ---
 
-## 7. Liquidity
+## 6. Liquidity
 
-ZARO has no discretionary treasury. All tokens are in permanent LP positions or in the founder's wallet — none are held by the company for sale or speculation:
+ZARO has no discretionary trading treasury. Token holdings are categorised as follows:
 
-- 300M ZARO — ETH Uniswap V2 LP, locked 255 years (UNCX on-chain)
-- ~210M ZARO — Cross-chain DEX LPs (BSC/Solana/Base), locked or burned
-- ~295M ZARO — Remaining permanent LP positions (locked — not team-held)
-- 195M ZARO — Founder's wallet (OTC purchase at public market price)
+- **300M ZARO** — Ethereum Uniswap V2 LP, locked 255 years via UNCX (on-chain)
+- **~210M ZARO** — Cross-chain DEX LPs across Base, BNB Chain, and Solana (locked or burned per chain — see Section 4)
+- **~295M ZARO** — Remaining company treasury holdings (post-buyback)
+- **195M ZARO** — Founder's wallet (acquired via OTC purchase at public launch price)
+
+The company does not sell ZARO. Treasury holdings are not deployed for market-making or price activity.
 
 ---
 
-## 8. Equal Power Among Holders
+## 7. December 2025 Incident
+
+In December 2025, the founder's wallet and a portion of the company treasury were compromised through malware (detail at [zarocoin.xyz/buyback](https://www.zarocoin.xyz/buyback)). The renounced contract, the 255-year LP lock, and the bridge backing were not affected — the structural defenses were not the breach point. A third-party forensic investigation was conducted by [Collisionless Global Technology Services Inc.](https://www.collisionless.io) and is published in full. The company subsequently executed a buyback over December 2025 – February 2026, funded from personal capital. The stolen supply was reacquired.
+
+The renounced contract did not allow a single new token to be minted during or after the incident.
+
+---
+
+## 8. Holder Equality
 
 In the ZARO ecosystem:
 
-- No one has special rights  
-- The founder, Treasury, and community are equal  
-- The contract is renounced  
-- No privileged wallets or mint rights  
+- No wallet has special rights
+- The founder, the treasury, and any other holder are equal at the contract level
+- No privileged wallets, no mint function accessible to any human key
+- No party — including the founder — can alter the contract, mint new tokens, or change balances
 
-All tokens were distributed publicly via LP.
-
-No one — including the founder — can manipulate the system.
+All structural facts above are independently verifiable on-chain.
 
 ---
 
-## 9. Exchanges & Investors
+## 9. Documentation
 
-We welcome collaboration — not charity.
-
-- Central exchanges looking for long-term, clean listings  
-- VCs aligned with IP, culture, and platform utility  
-- Builders who want to integrate ethical tools  
-
-We don’t hype. We deliver.
-
----
-
-## 10. The Ethereum Ethos
-
-Ethereum was chosen deliberately — not for speed, but for values:
-
-- Open and permissionless  
-- Transparent and proven  
-- Home of cultural public goods  
-
-ZARO aligns with Ethereum’s mission to be infrastructure for the world.
+| Document | Location |
+|---|---|
+| Transparency report | [/docs/transparency](../transparency) |
+| Security profiles (per chain) | [/docs/security](../security) |
+| BVI legal opinion | [/docs/legal](../legal) |
+| CMY (White) Paper | [/docs/whitepaper](../whitepaper) |
+| Trademarks & USPTO filings | [/docs/trademarks](../trademarks) |
+| Founder messages | [/docs/founder-message](../founder-message) |
+| December 2025 incident record | [/docs/security/incidents/2025-12-11-malware-compromise](../security/incidents/2025-12-11-malware-compromise) |
 
 ---
 
-## 11. What Comes Next?
+## 10. Technical Reference (Ethereum origin)
 
-- Animated ZARO content  
-- Games (MEMEWARS)  
-- Regional sticker drops and campaigns  
-- Community art, story, lore, remix tools  
-- Creator grant programs  
-- Character expansions (ARC7, etc.)  
-- Youth engagement programs  
-- Public goods apps  
-- Global partnerships  
-- Long-term listing strategy
+| Field | Value |
+|---|---|
+| Network | Ethereum (ERC-20) |
+| Contract | [`0xc311FD6DA9686507F33991543d8158EF5FaDd5E7`](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7) |
+| Decimals | 18 |
+| Supply | 1,000,000,000 (fixed) |
+| Tax | 0% |
+| Ownership | Renounced (owner = zero address) |
+| Upgradeable | No (EIP-1167 minimal proxy of audited Thirdweb `TokenERC20`; not an upgradeable proxy) |
+| Audit reference | [Thirdweb audit report #12](https://github.com/thirdweb-dev/contracts/blob/main/audit-reports/audit-12.pdf) |
 
-Everything is documented, transparent, and globally accessible.
-
----
-
-## 12. Transparency & Technical Verification
-
-### 🔐 Smart Contract Info
-
-- **Network:** Ethereum (ERC-20)  
-- **Token:** ZARO Coin  
-- **Contract Address:** [`0xc311FD6DA9686507F33991543d8158EF5FaDd5E7`](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7)  
-- **Fixed Supply:** 1B  
-- **Taxes:** 0%  
-- **Team Wallets:** None  
-- **Ownership Status:** Renounced  
-- **Upgradeable?:** No (minimal proxy - fixed logic)  
-- **Implementation:** [TokenERC20 by Thirdweb](https://github.com/thirdweb-dev/contracts/blob/main/contracts/prebuilts/token/TokenERC20.sol) (OpenZeppelin-audited)
+**LP lock TX:** [`0xbb17a0d0…`](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581)
+**Ownership renounce TX:** [`0x15e47399…`](https://etherscan.io/tx/0x15e4739956e05a80d03cd258eb6a35d7ace2406b7c49a99bc8aa7f7c8fbb3b8a)
 
 ---
 
-### 💧 Liquidity Lock
+## 11. Disclaimers
 
-- **Uniswap V2 Pool:** [`0x53085839A2Ee860E58108665825Fc7Ef5e061213`](https://dexscreener.com/ethereum/0x53085839A2Ee860E58108665825Fc7Ef5e061213)  
-- **Lock:** 255 years via UNCX  
-- [Lock TX](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581)
+ZARO is a digital collectible with no intrinsic value. The contract is fully renounced. The company does not sell ZARO. Trading occurs only on third-party decentralized exchanges. Nothing in this document constitutes financial, legal, or tax advice. Users are responsible for compliance with applicable law in their jurisdiction.
 
 ---
 
-### 🧾 OTC Purchase
-
-- Founder bought **195M ZARO** for **3.9 ETH** from the Treasury  
-- [Payment TX](https://etherscan.io/tx/0x8bfec6c0fa1ebcf416bf1225bc55cef134b3190c38b2c6a79e94b7cb08d26e9d)  
-- [Token TX](https://etherscan.io/tx/0x06a3c67288ef42e28fb4b0b6d7b56e6f80a09889f59e27dd78ecd26480681afd)
-
----
-
-### 📚 Documentation Links
-
-- [Transparency Report](https://github.com/zarocoin/zarocoin/tree/main/docs/transparency)  
-- [CMY (White) Paper (PDF)](https://github.com/zarocoin/zarocoin/blob/main/docs/whitepaper/whitepaper.pdf)  
-- [Security Profile](https://github.com/zarocoin/zarocoin/tree/main/docs/security)  
-- [Creator Guidelines](https://github.com/zarocoin/zarocoin/tree/main/docs/creator-guidelines)
-
----
-
-## 🌍 ZARO  
-**Community First. Story Forever.**  
-Visit: [https://www.zaroverse.com](https://www.zaroverse.com)  
-Explore: [https://www.zarocoin.xyz](https://www.zarocoin.xyz)
-
----
+[zarocoin.xyz](https://www.zarocoin.xyz) · [zaroverse.com](https://www.zaroverse.com) · [GitHub](https://github.com/zarocoin/zarocoin)
