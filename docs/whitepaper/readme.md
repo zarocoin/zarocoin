@@ -88,7 +88,21 @@ The owner is the zero address. No admin keys. No mint function. No pause. No bla
 
 ### 100% Fair Launch
 
-No presale, no ICO, no private sale, no team wallet, no vesting, no VC. The founder purchased 195M ZARO at the public market price via on-chain OTC — verifiable on Etherscan.
+No presale, no ICO, no private sale, no team wallet, no vesting, no VC. The founder purchased 195M ZARO at the public market price — purchased from the company treasury at the same price any holder paid via the open market. On-chain verifiable.
+
+### Supply Distribution (Launch Allocation — June 29, 2025)
+
+| Allocation | Amount | % | Notes |
+|---|---|---|---|
+| ETH Uniswap V2 LP (company seed) | 300,000,000 | 30.0% | Company funded the ETH pair; locked 255 years via UNCX |
+| Founder purchase | 195,000,000 | 19.5% | Purchased from company treasury at open market price — no discount |
+| Company treasury | 505,000,000 | 50.5% | Community, philanthropy, cross-chain LP deployment, ecosystem growth |
+| Team / VC allocation | 0 | 0% | None |
+| **Total** | **1,000,000,000** | **100%** | Fixed supply — no mint ever |
+
+*Treasury deployment:* ~209,872,870 deployed to cross-chain DEX LPs (BSC/Solana/Base) — all locked or burned. ~295,127,130 retained for ecosystem and future deployment.
+
+*December 2025 — security incident:* The founder's wallet was compromised via a malware attack. The founder's 195M ZARO was stolen and dumped on the open market. The company treasury was also partially affected. The company executed a full public buyback — repurchasing all stolen tokens from the open market. Every impacted token was paid for twice. Full documentation: https://www.zarocoin.xyz/history
 
 ### Legal Classification
 
