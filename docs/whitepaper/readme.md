@@ -110,9 +110,9 @@ Under BVI law: a cultural non-security collectible (Drew Barnholtz, Esq., Octobe
 
 Full legal opinion: [docs/legal](../legal/)
 
-### Available Globally, Including the United States
+### Jurisdiction
 
-ZARO is a permissionless, ownerless public smart contract. US participants interact with the same contract as everyone else — no issuer relationship, no controlling party, no mechanism to harm holders. This is structurally identical to buying Bitcoin.
+ZARO is a permissionless public smart contract — the owner is the zero address. The contract is accessible globally. The company does not sell ZARO; trading occurs only via third-party decentralized exchanges. Users are individually responsible for compliance with applicable laws in their jurisdiction.
 
 ---
 
