@@ -38,8 +38,7 @@ The ZARO Way is a startup methodology that uses Web3 to build **legitimacy**, no
 - Contract renounced forever  
 - Liquidity locked  
 - No team tokens  
-- Founder bought fairly  
-- 5% of any Treasury usage goes to charity
+- Founder bought fairly
 
 This is not about minting coins — it's about minting trust.  
 And it’s working.

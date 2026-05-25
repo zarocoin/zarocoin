@@ -94,7 +94,7 @@ All of this will be compliant and optional. We are building the rails now.
 
 ---
 
-## 7. Liquidity & Philanthropy
+## 7. Liquidity
 
 ZARO has no discretionary treasury. All tokens are in permanent LP positions or in the founder's wallet — none are held by the company for sale or speculation:
 
@@ -102,10 +102,6 @@ ZARO has no discretionary treasury. All tokens are in permanent LP positions or 
 - ~210M ZARO — Cross-chain DEX LPs (BSC/Solana/Base), locked or burned
 - ~295M ZARO — Remaining permanent LP positions (locked — not team-held)
 - 195M ZARO — Founder's wallet (OTC purchase at public market price)
-
-If ZARO ever uses ecosystem funds in the future, **5% of the value of any tokens used will be allocated to verified charities** — documented on-chain and publicly tracked. See the full pledge: [docs/philanthropy](../philanthropy/).
-
-ZARO treats giving back as a design principle — not a marketing tactic.
 
 ---
 
@@ -197,20 +193,11 @@ Everything is documented, transparent, and globally accessible.
 
 ---
 
-### 🧠 Uniswap V4 Liquidity Addition
-
-- **5 ETH + ~40M ZARO** added voluntarily  
-- Founder wallet: [`0x984e23643acABDd447E8969ba08aaE6120A9bC8b`](https://etherscan.io/address/0x984e23643acABDd447E8969ba08aaE6120A9bC8b)  
-- Pledge: Will not withdraw unless $5M MC or 30-day notice
-
----
-
 ### 📚 Documentation Links
 
 - [Transparency Report](https://github.com/zarocoin/zarocoin/tree/main/docs/transparency)  
 - [CMY (White) Paper (PDF)](https://github.com/zarocoin/zarocoin/blob/main/docs/whitepaper/whitepaper.pdf)  
 - [Security Profile](https://github.com/zarocoin/zarocoin/tree/main/docs/security)  
-- [Philanthropy Pledge](https://github.com/zarocoin/zarocoin/tree/main/docs/philanthropy)  
 - [Creator Guidelines](https://github.com/zarocoin/zarocoin/tree/main/docs/creator-guidelines)
 
 ---

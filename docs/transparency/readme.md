@@ -61,29 +61,6 @@ This document outlines the transparent and on-chain verified steps taken in the 
 
 ---
 
-## ✅ What’s Next
-- [ ] Centralized Exchange Listings (underway)
-- [ ] GitHub archive & badge verification
-
-
-
-
-### 2025-07-20 – Founder Liquidity Addition (Uniswap V4)
-
-**Wallet**: [0x984e23643acABDd447E8969ba08aaE6120A9bC8b](https://etherscan.io/address/0x984e23643acABDd447E8969ba08aaE6120A9bC8b)  
-**ETH Added**: 5.0 ETH  
-**ZARO Added**: 40,074,191.65 ZARO  
-**Platform**: Uniswap V4  
-**Transaction Hash**: [0xe6a5ef9c97eca67272769cfb44f4a2d1fb587c73b7fbcc3e50c8c6363ef2d4f3](https://etherscan.io/tx/0xe6a5ef9c97eca67272769cfb44f4a2d1fb587c73b7fbcc3e50c8c6363ef2d4f3)  
-**NFT Position ID**: 38455  
-**LP Token Holder**: 0x984e2364...bc8b  
-**LP Lock Status**: Not locked — but publicly pledged: no withdrawal before $5M MC or without 30-day public notice  
-**Statement**:  
-> “I am very happy to own ZARO and ETH. The best of both worlds.”
-
----
-
----
 
 ## 🟢 Cross-Chain Extension: BNB Smart Chain (via Wormhole)
 
@@ -101,7 +78,6 @@ On **Nov 2, 2025 (UTC)**, ZARO expanded from Ethereum to **BNB Smart Chain (BSC)
 | **Origin Token (Ethereum)** | `0xc311FD6DA9686507F33991543d8158EF5FaDd5E7` (Etherscan) |
 | **Destination Token (BSC)** | `0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc` (BscScan) |
 | **Wormhole Token Bridge (BSC)** | `0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7` |
-| **Source Tx (Ethereum, Attestation)** | **(to be added)** → see “How to fetch the attestation tx” below |
 | **Redeem/Mint Tx (BSC)** | `0x9090d5140b887c3efb5188b0f79b38bdbc9f2a15cdbd407b68ba6798e44541e2` |
 | **Additional Bridge Tx (BSC)** | `0x7e821ed5f9fe2ee0d2d3e3b9d03937ea16879ea729aa649734db29b7324368e2` |
 | **Total Bridged to BSC (to date)** | **1,025,000 ZARO** (25k test + 1,000,000 main) |

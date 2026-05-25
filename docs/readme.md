@@ -14,7 +14,6 @@ Official documentation for ZARO — the on-chain artifact of the ZaroVerse ficti
 | [`legal/`](./legal/) | BVI legal opinion (non-security classification, Howey analysis) |
 | [`vision/`](./vision/) | Long-term strategy and roadmap |
 | [`philosophy/`](./philosophy/) | ZaroVerse manifesto and operating principles |
-| [`philanthropy/`](./philanthropy/) | 5% charity pledge |
 | [`creator-guidelines/`](./creator-guidelines/) | IP usage guidelines for community creators |
 | [`exchanges/`](./exchanges/) | Exchange listing references (CEX and DEX) |
 | [`founder-message/`](./founder-message/) | Dated primary-source messages from the founder |

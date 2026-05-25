@@ -104,7 +104,7 @@ No presale, no ICO, no private sale, no team wallet, no vesting, no VC. The foun
 |---|---|---|---|
 | ETH Uniswap V2 LP (company seed) | 300,000,000 | 30.0% | Company funded the ETH pair; locked 255 years via UNCX |
 | Founder purchase | 195,000,000 | 19.5% | Purchased from company treasury at open market price — no discount |
-| Company treasury | 505,000,000 | 50.5% | Community, philanthropy, cross-chain LP deployment, ecosystem growth |
+| Company treasury | 505,000,000 | 50.5% | Community distribution, cross-chain LP deployment, ecosystem growth |
 | Team / VC allocation | 0 | 0% | None |
 | **Total** | **1,000,000,000** | **100%** | Fixed supply — no mint ever |
 
@@ -146,8 +146,6 @@ ZARO is backed by a live fictional universe under active development:
 | Transparency Report | [docs/transparency](../transparency/) |
 | Vision & Strategy | [docs/vision](../vision/) |
 | Founder Messages | [docs/founder-message](../founder-message/) |
-| Philanthropy Pledge | [docs/philanthropy](../philanthropy/) |
-
 ---
 
 > *"This is not a paper about emptiness. C + M + Y = White. This is a paper about completeness."*

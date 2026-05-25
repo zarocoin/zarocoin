@@ -1,104 +1,30 @@
-# 🤝 ZARO Philanthropy Pledge
+# ZARO Philanthropy Pledge — Archived
 
-**Last Updated:** August 1, 2025  
-**Status:** Voluntary Community Commitment  
-**Applies To:** ZARO Treasury Usage  
-**URL:** https://github.com/zarocoin/zarocoin/tree/main/docs/philanthropy
-
----
-
-## 📜 Overview
-
-ZARO was launched with a simple principle:  
-**Transparency. Fairness. Ethics. Forever.**
-
-From Day 1, we rejected presales, team wallets, and VC allocations.  
-Our founder bought at the same price as the public.  
-Our liquidity is locked forever.  
-Our contract is renounced.  
-And our Treasury is untouched — reserved solely for the growth and future of the ecosystem.
-
-But as we grow, we want to give more.
+**Status:** No longer active  
+**Originally published:** August 1, 2025  
+**Archived:** May 2026
 
 ---
 
-## 🎯 The Commitment
+## Historical Context
 
-If ZARO ever uses a portion of its Treasury in the future — whether for:
+In August 2025, ZARO published a voluntary pledge to allocate 5% of the USD value of any future treasury token usage to verified charitable causes. The pledge was made in good faith and documented publicly as part of the project's commitment to ethical standards.
 
-- Centralized exchange listings  
-- Ecosystem expansion  
-- Development or operations  
-- Marketing or partner programs  
+In December 2025, the founder's wallet and a significant portion of the treasury were compromised in a targeted malware attack. Stolen tokens were sold on the open market. The company executed a complete public buyback using personal capital — repurchasing all stolen tokens. Full documentation: [zarocoin.xyz/history](https://www.zarocoin.xyz/history)
 
-**Then 5% of the USD value of any tokens used from the Treasury will be allocated to charity.**
-
-This is a **voluntary**, **on-chain-traceable**, and **community-first** pledge.
+Because the treasury capital originally earmarked for future usage (and therefore subject to the 5% pledge) was stolen, and because the subsequent buyback was funded from personal capital rather than a free allocation, the pledge cannot be honored as originally stated.
 
 ---
 
-## 🌍 Why This Matters
+## Current Status
 
-Too many projects in crypto enrich a few and leave nothing behind.  
-ZARO was born to set a higher standard — not just with transparency, but with purpose.
+The philanthropy pledge is **no longer active**.
 
-As ZARO grows, the world should grow with it.
-
----
-
-## 🧾 Examples
-
-If 10 million ZARO tokens are used from the Treasury when the token price is $0.01:
-
-- Total value used: $100,000  
-- **Charity Allocation:** $5,000  
-- Proof will be shared publicly, including:
-  - Recipient organization
-  - Transaction hash
-  - USD valuation at time of use
+No treasury funds are presently designated for philanthropic disbursement.
 
 ---
 
-## 🏛️ Selection of Causes
+## Related
 
-We aim to support causes that align with:
-- Children’s education  
-- Open internet and privacy rights  
-- Environmental sustainability  
-- Global crisis relief
-
-The community may be consulted on charity selection through on-chain voting or Snapshot polls.
-
----
-
-## 🔗 Verifiability
-
-All charity transfers will be:
-- From a dedicated wallet (TBA)  
-- Documented in the [Transparency](https://github.com/zarocoin/zarocoin/tree/main/docs/transparency) section  
-- Posted on ZARO’s X account and GitHub
-
----
-
-## 🚫 What This Is Not
-
-This is not a tax shelter.  
-This is not a utility mechanism.  
-This is not a securities promise.
-
-It’s simply what the cultural-token space should be:  
-**Ethical. Verifiable. Human.**
-
----
-
-## 📣 Final Note
-
-This pledge is **voluntary**, but public.  
-We expect the community to hold us accountable — and we welcome it.
-
-ZARO is here to build a cultural legacy, not just a coin.  
-And that legacy must include giving back.
-
-### Solana Extension
-ZARO’s bridge expansion to Solana will follow the same 5% philanthropy pledge on any treasury utilization or liquidity deployment.
-
+- [Transparency Report](../transparency/)
+- [December 2025 Security Incident](https://www.zarocoin.xyz/history)

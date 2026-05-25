@@ -30,7 +30,7 @@ Instead:
 - The **founder bought at the same LP price as the public**, via an OTC transaction, without moving the market.  
 - The **liquidity pool (300M ZARO + 6 ETH)** was locked permanently — with no keys, no exit.  
 - The **contract was renounced**. No one can change it.  
-- The **treasury wallet** is public. And 5% of any usage will go to charity.  
+- The **treasury wallet** is public and verifiable on-chain.  
 - **No tokens were sold or transferred privately.**  
 - Every step is verifiable, on-chain, and documented in [our Transparency Report](https://github.com/zarocoin/zarocoin/tree/main/docs/transparency).
 
@@ -86,7 +86,7 @@ It’s a **10-year mission** to build a crypto-born media empire.
 - With physical toys, wearables, and collectibles.  
 - With games like “Portal Pop” and “MEMEWARS.”  
 - With stories, characters, and maybe even series.  
-- With real charity and real community participation.
+- With real community participation.
 
 We're building something **that will outlast trends**.  
 Not financial hype — but cultural longevity.
@@ -110,8 +110,6 @@ Here’s everything we’ve built so far — all public:
 - [Etherscan for ZARO](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7)
   
 - [White Paper](https://github.com/zarocoin/zarocoin/blob/main/docs/whitepaper/whitepaper.pdf)
-  
-- [Philanthropy Pledge](https://github.com/zarocoin/zarocoin/blob/main/docs/philanthropy)
   
 - [ZARO on CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/)
   

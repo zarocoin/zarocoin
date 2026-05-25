@@ -80,9 +80,6 @@ This repo serves as a **documentation hub** for exchanges, partners, and the com
 - 🧠 **Philosophy – The ZARO Way:**
   [`/docs/philosophy`](./docs/philosophy)
 
-- 💛 **Philanthropy:**
-  [`/docs/philanthropy`](./docs/philanthropy)
-
 - 🎨 **Creator Guidelines (Mascot & IP Usage):**
   [`/docs/creator-guidelines`](./docs/creator-guidelines)
 

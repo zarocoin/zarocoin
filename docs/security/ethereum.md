@@ -62,7 +62,6 @@ No owner exists. No wallet has any privileged role. No balance-altering function
 | Total supply | 1,000,000,000 ZARO (fixed, immutable) |
 | Uniswap V2 LP | 300M ZARO + 6 ETH — locked 255 years via UNCX |
 | Lock TX | [`0xbb17a0d0...`](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581) |
-| Uniswap V3 LP | 40,074,191 ZARO + 5 ETH — publicly pledged, no withdrawal before $5M MC or 30-day notice |
 | Treasury wallet | [`0xb285dcc3A547e5649dfEa8E10134C322c67a63fC`](https://etherscan.io/address/0xb285dcc3A547e5649dfEa8E10134C322c67a63fC) |
 | Bridge escrow (BSC + SOL) | ~11M ZARO locked in Wormhole custody |
 | Bridge escrow (Base) | 10M ZARO locked in L1StandardBridge |
