@@ -61,7 +61,7 @@ The CMY (White) Paper is organized in 9 parts:
 | IV | Tokenomics | Supply, distribution, all LP locks |
 | V | Legal Classification | Howey Test analysis — why ZARO is not a security |
 | VI | Security | Renounced contract, permanent LP locks, audit |
-| VII | The Road Ahead | Roadmap — books, games, merchandise, exchanges |
+| VII | The Road Ahead | ZaroVerse ecosystem roadmap — books, games, merchandise, IP licensing |
 | VIII | Team | Founder, company, ZaroVerse Ltd. |
 | IX | Invitation | The open door |
 
@@ -74,6 +74,14 @@ The CMY (White) Paper is organized in 9 parts:
 ZARO is a **fixed-supply ERC-20 collectible** — the canonical on-chain artifact of the ZaroVerse fictional universe. The Giving Tree in the ZaroVerse narrative produces exactly 1 billion fruits — no more, ever. The token's fixed supply is a direct expression of the lore itself.
 
 ZARO is not a meme coin. It is not a DeFi protocol. It is not a governance token. It is not a security.
+
+### ZaroVerse & ZARO — Two Distinct Layers
+
+**ZARO is the foundation.** The token is complete — its supply, contract, and liquidity are permanently set. Nothing about ZARO itself will change.
+
+**ZaroVerse is the ecosystem.** ZaroVerse Ltd. serves as the steward and custodian of the ZaroVerse intellectual property — building the stories, the characters, and the products of the universe. The company does not control or develop the token; the contract is fully renounced and immutable.
+
+The roadmap in Part VII belongs to ZaroVerse, not to the token. As the ZaroVerse ecosystem matures, the company will consider whether a utility dimension can be authentically introduced for ZARO — consistent with the lore. This is not a plan. Nothing has been designed, announced, or committed to. No price outcome is implied or suggested.
 
 ### Contract Renounced
 
