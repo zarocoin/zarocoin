@@ -1,164 +1,134 @@
-# ZARO WHITEPAPER  
-*Version 2.0 – August 2025*
+# The CMY (White) Paper
+
+**ZARO Coin — Official White Paper**  
+**Version 1.0 — May 2026**  
+**Issued by:** ZaroVerse Ltd. (BVI No. 2183451)
 
 ---
 
-## 1. Introduction: What is ZARO?
+## What Is This?
 
-ZARO is a decentralized cultural artifact born on Ethereum. It is an on-chain collectible, a community canvas, and a story in motion. Launched without presale, team wallets, or venture capital, ZARO was built to stand apart — a clean start with open hands.
+This is a whitepaper. It is white — because **C + M + Y = White**.
 
-ZARO is not just a coin. It is the nucleus of a broader universe called **ZaroVerse** — a community-driven IP ecosystem of characters, stories, games, art, and culture.
+| | |
+|---|---|
+| **C** | The digital layer — the blockchain, the contract, the chain |
+| **M** | The creative layer — the IP, the stories, the universe |
+| **Y** | The explorer layer — the community, the early believers, the holders |
 
-The token is 100% on-chain, but the mission extends far beyond crypto.
+Combined, they form something complete. That is ZARO.
 
----
-
-## 2. The Cultural Vision
-
-ZARO isn’t trying to be the next financial utility token or yield-bearing asset. It is the **narrative heartbeat** of a movement. ZARO’s value comes from the strength of its story, the joy of its community art, and the commitment of its community.
-
-- **Remix culture**: Everyone is free to build, draw, animate, and play with ZARO.  
-- **Global relevance**: ZARO celebrates stories across borders, languages, and cultures.  
-- **Forever open**: No centralized narrative. No gatekeeping. The story evolves with the community.
-
-ZARO is not just a mirror to internet culture — it's a lens through which new stories will emerge.
+The CMY (White) Paper replaces all earlier ZARO documentation. It is the canonical reference for the token, the project, and the vision.
 
 ---
 
-## 3. Origin Story: A Clean Start
+## Download
 
-Most tokens are born dirty — with hidden allocations, insider deals, and opaque control. ZARO was launched with the opposite philosophy:
-
-- **No Presale**  
-- **No Team Wallet**  
-- **No VC Allocation**  
-- **0% Tax**  
-- **Fixed Supply: 1 Billion ZARO**  
-- **Fair Market OTC Buy by Founder at Public Price**  
-- **Liquidity Permanently Locked**  
-- **Contract Renounced**
-
-This was not marketing spin. It was executed fully on-chain, with receipts, and documented publicly:
-
-- **Transparency Report**: [GitHub link](https://github.com/zarocoin/zarocoin/tree/main/docs/transparency)  
-- **Etherscan LP Lock**: [Link](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581)  
-- **Contract Audit**: [Thirdweb TokenERC20 – based on OpenZeppelin](https://github.com/thirdweb-dev/contracts/blob/main/contracts/prebuilts/token/TokenERC20.sol)
-
-ZARO started pure — and stayed pure.
+📄 [**ZARO_CMY_White_Paper_v1.0.pdf**](./whitepaper.pdf) — Full paper (PDF)
 
 ---
 
-## 4. Tokenomics Overview
+## At a Glance
 
-- **Name**: ZARO  
-- **Symbol**: ZARO  
-- **Chain**: Ethereum (ERC-20)  
-- **Contract Address**: `0xc311FD6DA9686507F33991543d8158EF5FaDd5E7`  
-- **Total Supply**: 1,000,000,000  
-- **Tax**: 0%
-
-### Initial Liquidity Setup
-
-- 300M ZARO + 6 ETH paired on Uniswap V2  
-- Locked for 255 years via UNCX  
-- LP Ownership permanently renounced
-
-### Treasury & Founder Allocation
-
-- 195M ZARO bought OTC at public price by founder  
-- 505M ZARO retained in Treasury for CEX listings, partnerships, and creative expansion  
-- 5% of all treasury usage donated to verified charities ([Philanthropy](https://github.com/zarocoin/zarocoin/tree/main/docs/philanthropy))
+| Field | Value |
+|---|---|
+| **Token Name** | Zaro Coin |
+| **Symbol** | ZARO |
+| **Standard** | ERC-20 (Ethereum canonical) |
+| **Total Supply** | 1,000,000,000 ZARO (fixed — no mint, ever) |
+| **Circulating Supply** | 704,872,870 ZARO (~70.5%) |
+| **Contract (ETH)** | [`0xc311FD6DA9686507F33991543d8158EF5FaDd5E7`](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7) |
+| **Contract (BSC)** | [`0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc`](https://bscscan.com/token/0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc) |
+| **Contract (Solana)** | [`AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W`](https://solscan.io/token/AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W) |
+| **Contract (Base)** | [`0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0`](https://basescan.org/token/0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0) |
+| **Ownership** | Fully renounced — owner = zero address |
+| **LP Status** | Locked 255 years via UNCX (ETH) · Burned on Base · Locked on Solana (Meteora) |
+| **Bridge** | Wormhole (BSC, Solana, Base) |
+| **Launch Type** | 100% fair launch — no presale, no ICO, no team allocation, no VC |
+| **Launch Date** | June 29, 2025 |
 
 ---
 
-## 5. ZaroVerse Ecosystem
+## Structure
 
-ZaroVerse is the world that ZARO the token lives in. It’s a creative universe where:
+The CMY (White) Paper is organized in 9 parts:
 
-- **Zaro**: the yellow mascot, a cheerful spirit of hope and mischief, leads the narrative.  
-- **ARC-7**: a mysterious AI from Ethereum’s forgotten past watches silently.  
-- **More characters**: new beings will arrive from across portals as the world expands.
-
-### Ecosystem Pillars:
-
-- **Stories & Lore** — community-driven narrative + remixed visual culture  
-- **Games** — simple, addictive arcade-style games (“Portal Pop,” “MEMEWARS”)  
-- **Media** — shorts, animations, TikToks, and episodic content  
-- **Merchandise** — apparel, toys, stickers, collectibles  
-- **Partnerships** — artists, studios, brands, and developers invited to co-create
-
-The mascot, Zaro, is copyright registered and owned by ZaroVerse Ltd. Community contributions and remixes are welcomed under open-source style guidelines ([creator rules](https://github.com/zarocoin/zarocoin/tree/main/docs/creator-guidelines)).
+| Part | Title | Summary |
+|---|---|---|
+| I | The Artifact | What ZARO is and what it is not |
+| II | Early Explorer | Who finds it first — the garage phase |
+| III | The Universe | ZaroVerse, lore, IP, the Giving Tree |
+| IV | Tokenomics | Supply, distribution, all LP locks |
+| V | Legal Classification | Howey Test analysis — why ZARO is not a security |
+| VI | Security | Renounced contract, permanent LP locks, audit |
+| VII | The Road Ahead | Roadmap — books, games, merchandise, exchanges |
+| VIII | Team | Founder, company, ZaroVerse Ltd. |
+| IX | Invitation | The open door |
 
 ---
 
-## 6. Utility & Roadmap Philosophy
+## Key Points
 
-ZARO does not promise any future utility — and that’s intentional. We do not mislead or imply financial value.
+### What ZARO Is
 
-However, ZARO has a **vision**:
+ZARO is a **fixed-supply ERC-20 collectible** — the canonical on-chain artifact of the ZaroVerse fictional universe. The Giving Tree in the ZaroVerse narrative produces exactly 1 billion fruits — no more, ever. The token's fixed supply is a direct expression of the lore itself.
 
-- Build a global IP brand — similar to Hello Kitty, Minions, or Pokémon.  
-- Expand media presence — through shows, shorts, story drops, and music.  
-- Enable creative monetization — artists, devs, and creators get recognition.  
-- Explore optional utility paths:  
-  - **IP Licensing Rewards** (e.g. future revenue-sharing once compliant)  
-  - **Token-Gated Access** to merch, games, or events  
-  - **Public Company Linkage** — potential equity link if ZaroVerse Ltd. IPOs
+ZARO is not a meme coin. It is not a DeFi protocol. It is not a governance token. It is not a security.
 
-There are no promises. Just transparency, exploration, and a community that builds together.
+### Contract Renounced
 
----
+The owner is the zero address. No admin keys. No mint function. No pause. No blacklist. No upgrade mechanism. The contract is fully immutable — structurally analogous to Bitcoin. No entity, including ZaroVerse Ltd., has any control over the token supply or contract behavior.
 
-## 7. Governance & Community Involvement
+### Liquidity Permanently Secured
 
-ZARO is 100% community-owned. The founder holds no special privileges. We are exploring decentralized coordination tools such as:
+- ETH LP locked 255 years via UNCX — [Lock TX](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581)
+- Base LP burned to 0xdead permanently
+- Solana LP permanently locked via Meteora
+- Cannot be rug-pulled by anyone
 
-- **Snapshot** — to propose and vote on treasury actions  
-- **Guild.xyz** — to gate roles based on on-chain holdings  
-- **Manual verification** — for trusted community admins
+### 100% Fair Launch
 
-All proposals will be public. Votes can shape marketing, treasury spending, partnerships, and future lore decisions.
+No presale, no ICO, no private sale, no team wallet, no vesting, no VC. The founder purchased 195M ZARO at the public market price via on-chain OTC — verifiable on Etherscan.
 
----
+### Legal Classification
 
-## 8. Transparency & Security
+Under BVI law: a cultural non-security collectible (Drew Barnholtz, Esq., October 2025). The CMY (White) Paper contains a full four-prong Howey Test analysis in Part V. ZARO fails the "efforts of others" prong definitively — post-renouncement, no controlling entity exists whose work determines the token's value. This is the same structural position as Bitcoin.
 
-ZARO is documented from day one:
+Full legal opinion: [docs/legal](../legal/)
 
-- **Liquidity Lock Proof** — available on-chain and GitHub  
-- **Contract Ownership Renounced** — no ability to change supply or settings  
-- **Audited Smart Contract** — from Thirdweb, based on OpenZeppelin  
-- **Public GitHub** — all mascot files, token metadata, and documentation: [ZARO GitHub](https://github.com/zarocoin/zarocoin)
+### Available Globally, Including the United States
 
-We don't just say we’re transparent. We build like it.
+ZARO is a permissionless, ownerless public smart contract. US participants interact with the same contract as everyone else — no issuer relationship, no controlling party, no mechanism to harm holders. This is structurally identical to buying Bitcoin.
 
 ---
 
-## 9. Legal Disclaimers
+## IP Foundation
 
-ZARO is not an investment, not a security, and not a financial product. It is an on-chain cultural collectible.
+ZARO is backed by a live fictional universe under active development:
 
-- No future value is promised  
-- Jurisdictions with regulatory restrictions are blocked  
-- U.S. persons and other restricted regions may not be eligible
-
-Please consult your local laws before interacting with the token.
-
----
-
-## 10. References & Links
-
-- **Token Website**: [https://www.zarocoin.xyz](https://www.zarocoin.xyz)  
-- **Ecosystem Website**: [https://www.zaroverse.com](https://www.zaroverse.com)  
-- **GitHub**: [https://github.com/zarocoin/zarocoin](https://github.com/zarocoin/zarocoin)  
-- **Transparency Report**: [Transparency Docs](https://github.com/zarocoin/zarocoin/tree/main/docs/transparency)  
-- **Uniswap Trading Link**: [Uniswap](https://app.uniswap.org/swap?outputCurrency=0xc311FD6DA9686507F33991543d8158EF5FaDd5E7&chain=mainnet)  
-- **CoinMarketCap**: [ZARO on CMC](https://coinmarketcap.com/currencies/zaro-coin)  
-- **Telegram**: [ZARO Group](https://t.me/zaroprojectofficial)  
-- **X/Twitter**: [@ZaroProject](https://x.com/zaroproject)
+- 9 USPTO trademark filings pending (ZARO, ZAROVERSE, ARC-7, MEMEWARS, ZaroLand, and related marks)
+- US Copyright registered for the ZARO character and origin story (June 2025)
+- Published lore chapters — [ZaroVerse Books](https://www.zaroverse.com)
+- Merchandise in development (plush toys, apparel)
+- Games in development (Meme Wars)
+- IP licensing model comparable to Hello Kitty / Pudgy Penguins
 
 ---
 
-*ZARO is more than a token. It’s a movement.*  
+## Related Documents
 
-**Community First. Story Forever.**
+| Document | Link |
+|---|---|
+| Security Profiles (per-chain) | [docs/security](../security/) |
+| Legal Opinion (BVI) | [docs/legal](../legal/) |
+| Transparency Report | [docs/transparency](../transparency/) |
+| Vision & Strategy | [docs/vision](../vision/) |
+| Founder Messages | [docs/founder-message](../founder-message/) |
+| Philanthropy Pledge | [docs/philanthropy](../philanthropy/) |
+
+---
+
+> *"This is not a paper about emptiness. C + M + Y = White. This is a paper about completeness."*
+
+**ZARO. Community First. Story Forever.**  
+https://www.zarocoin.xyz

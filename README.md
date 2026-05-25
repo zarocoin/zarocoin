@@ -51,7 +51,7 @@ For full transparency details, audits, and launch breakdown, see:
 - 🔍 **Transparency:**
   [`/docs/transparency`](./docs/transparency)
 
-- 📄 **Whitepaper (ZARO):**
+- 📄 **CMY (White) Paper:**
   [`/docs/whitepaper`](./docs/whitepaper)
 
 - 🛡 **Security & Contract Info:**
@@ -65,7 +65,7 @@ This repo serves as a **documentation hub** for exchanges, partners, and the com
 
 ### 2.1 Core ZARO Docs
 
-- 📄 **ZARO Whitepaper:**
+- 📄 **CMY (White) Paper:**
   [`/docs/whitepaper`](./docs/whitepaper)
 
 - 🔍 **Transparency (Launch, Liquidity, Wallets):**
@@ -157,7 +157,7 @@ These are the **official, canonical external links** for ZARO Coin.
 - 🧾 **Transparency Report:**
   https://github.com/zarocoin/zarocoin/tree/main/docs/transparency
 
-- 📄 **Whitepaper (ZARO):**
+- 📄 **CMY (White) Paper:**
   https://github.com/zarocoin/zarocoin/tree/main/docs/whitepaper
 
 - 🔐 **Security Docs:**
@@ -188,10 +188,26 @@ Before opening a PR, please:
 
 ---
 
-## 5. Legal & Disclaimers
+## 5. IP & Legal Foundation
+
+ZARO is backed by a serious intellectual property and legal structure:
+
+**Trademarks (USPTO — all pending):** 9 filings covering the ZARO word mark, logo, mascot, ZAROVERSE, MEMEWARS, ZAROVERSE MEMEWARS, ZaroLand, and ARC-7 — across apparel, toys, games, animation, retail, and theme park services. [→ View Trademarks](./docs/trademarks/)
+
+**Copyright:** US Copyright registered for the ZARO character (visual + narrative) and the ZaroVerse story/lore (Book 1 — The Yellow Spark). [→ View Trademarks](./docs/trademarks/)
+
+**Legal Opinion:** BVI legal opinion by Drew Barnholtz, Esq. (October 2025) confirms ZARO is a non-security cultural collectible under BVI law, with a favorable four-prong Howey Test analysis. [→ View Legal Opinion](./docs/legal/)
+
+**CMY (White) Paper:** Full canonical document covering token mechanics, tokenomics, Howey analysis, IP foundation, and the ZaroVerse universe. [→ View CMY (White) Paper](./docs/whitepaper/)
+
+**Decentralization:** The contract is fully renounced — owner is the zero address. Liquidity locked 255 years via UNCX. No controlling entity. Structurally analogous to Bitcoin.
+
+---
+
+## 6. Disclaimers
 
 - **ZARO** is an on-chain collectible tied to the ZaroVerse fictional universe, issued on Ethereum. It does **not** represent equity or ownership in ZaroVerse Ltd. or any affiliated entity.
-- ZARO is not offered or promoted as an investment contract. Access to, and use of, the token may be restricted or limited in certain jurisdictions.
+- ZARO is not offered or promoted as an investment contract. The contract is fully renounced and trading occurs only via third-party decentralized exchanges.
 
 Nothing in this repository or its linked documents constitutes financial, legal, or tax advice.
 Users, exchanges, and partners should perform their own due diligence and seek professional counsel where needed.

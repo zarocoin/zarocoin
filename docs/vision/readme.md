@@ -1,5 +1,5 @@
 # ZARO: Extended Vision & Strategic Plan  
-**Version 1.1 – August 2025**
+**Version 1.2 – May 2026**
 
 ---
 
@@ -24,7 +24,7 @@ From the beginning, ZARO set a standard. No tricks. No privileged insiders. Just
 
 ZARO is not a social experiment. It’s a long-term company with a determined mission.
 
-Behind the mascot stands **ZaroVerse Ltd.**, a legally registered BVI entity. The founder — a respected fintech expert — will publicly reveal himself once ZARO stands strong.
+Behind the mascot stands **ZaroVerse Ltd.**, a legally registered BVI entity (BVI No. 2183451, also registered in Dubai, UAE). The founder is **Shihab Khalil** — software engineer, MBA, LLM, founder of ZagTrader (institutional fintech platform serving banks, brokers, and exchanges globally), and a 20+ year fintech operator.
 
 Plans include:
 
@@ -94,15 +94,16 @@ All of this will be compliant and optional. We are building the rails now.
 
 ---
 
-## 7. Treasury & Philanthropy
+## 7. Liquidity & Philanthropy
 
-The ZARO Treasury is transparent and ethical:
+ZARO has no discretionary treasury. All tokens are in permanent LP positions or in the founder's wallet — none are held by the company for sale or speculation:
 
-- ~505M ZARO remain  
-- 5% of Treasury usage goes to charity  
-- No team wallet, no sell-offs  
-- Public tracking of usage  
-- GitHub-hosted philanthropy disclosures
+- 300M ZARO — ETH Uniswap V2 LP, locked 255 years (UNCX on-chain)
+- ~210M ZARO — Cross-chain DEX LPs (BSC/Solana/Base), locked or burned
+- ~295M ZARO — Remaining permanent LP positions (locked — not team-held)
+- 195M ZARO — Founder's wallet (OTC purchase at public market price)
+
+If ZARO ever uses ecosystem funds in the future, **5% of the value of any tokens used will be allocated to verified charities** — documented on-chain and publicly tracked. See the full pledge: [docs/philanthropy](../philanthropy/).
 
 ZARO treats giving back as a design principle — not a marketing tactic.
 
@@ -150,7 +151,7 @@ ZARO aligns with Ethereum’s mission to be infrastructure for the world.
 ## 11. What Comes Next?
 
 - Animated ZARO content  
-- Games (Portal Pop, MEMEWARS)  
+- Games (MEMEWARS)  
 - Regional sticker drops and campaigns  
 - Community art, story, lore, remix tools  
 - Creator grant programs  
@@ -207,7 +208,7 @@ Everything is documented, transparent, and globally accessible.
 ### 📚 Documentation Links
 
 - [Transparency Report](https://github.com/zarocoin/zarocoin/tree/main/docs/transparency)  
-- [Whitepaper (PDF)](https://github.com/zarocoin/zarocoin/blob/main/docs/whitepaper/whitepaper.pdf)  
+- [CMY (White) Paper (PDF)](https://github.com/zarocoin/zarocoin/blob/main/docs/whitepaper/whitepaper.pdf)  
 - [Security Profile](https://github.com/zarocoin/zarocoin/tree/main/docs/security)  
 - [Philanthropy Pledge](https://github.com/zarocoin/zarocoin/tree/main/docs/philanthropy)  
 - [Creator Guidelines](https://github.com/zarocoin/zarocoin/tree/main/docs/creator-guidelines)

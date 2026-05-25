@@ -38,10 +38,12 @@ Full PDF copies of each official application are stored in this folder for verif
 
 ---
 
-## © Copyright Registration
+## © Copyright Registrations
 
-**Character:** ZARO (the mascot)  
-**Type:** Visual character artwork, animation model, and narrative identity  
+### ZARO Character
+
+**What:** Visual character artwork, animation model, and narrative identity of ZARO  
+**Type:** Artistic/visual character work  
 **Jurisdiction:** United States Copyright Office  
 **Status:** Officially registered (certificate pending issuance)  
 **Registrant:** ZaroVerse Ltd. (BVI)  
@@ -49,6 +51,20 @@ Full PDF copies of each official application are stored in this folder for verif
 
 > ZARO is a protected copyrighted character.  
 > Community art, remixes, and derivatives are permitted under the [ZARO Creator Guidelines](https://github.com/zarocoin/zarocoin/tree/main/docs/creator-guidelines), provided they respect project ethics and do not imply financial promotion or misrepresentation.
+
+---
+
+### Story & Literary IP — Book 1: The Yellow Spark
+
+**What:** Narrative text, lore bible, chapter prose, and canon snapshot for the ZaroVerse universe  
+**Type:** Literary / fictional narrative work  
+**Jurisdiction:** United States Copyright Office  
+**Status:** Registered  
+**Registrant:** ZaroVerse Ltd. (BVI)  
+**Scope:** Chapter 1 source text, book outline, combined lore bible, canon snapshot, and all derivative world-building material  
+
+> The ZaroVerse story and fictional universe — including all characters, realms, events, and lore — are protected works.  
+> The CMYK Primes system (Yellow/Zaro, Cyan/ARC-7, Magenta/Aurora, Black/The Black Hole), the Giving Tree, the Seed Core, and all narrative elements are owned by ZaroVerse Ltd.
 
 ---
 

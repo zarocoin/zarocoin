@@ -26,7 +26,7 @@ This folder documents the official smart contract for the $ZARO ERC-20 token. It
 - **Decimals**: 18  
 - **Total Supply**: 1,000,000,000 ZARO  
 - **Treasury Wallet**: [`0xb285dcc3A547e5649dfEa8E10134C322c67a63fC`](https://etherscan.io/address/0xb285dcc3A547e5649dfEa8E10134C322c67a63fC)  
-- **Ownership**: Admin rights held by Treasury until renouncement
+- **Ownership**: Fully renounced — owner = zero address (June 29, 2025)
 
 ---
 
@@ -48,7 +48,7 @@ This contract is a minimal proxy that inherits all logic from a Thirdweb-audited
 - ✅ No burn function  
 - ✅ No transfer tax or blacklist logic  
 - ✅ Transferability is unrestricted  
-- 🔜 Ownership to be renounced post-launch and liquidity lock
+- ✅ Ownership fully renounced — owner = zero address
 
 ---
 
@@ -60,8 +60,8 @@ This contract is a minimal proxy that inherits all logic from a Thirdweb-audited
 | Loan from Founder to Treasury (6 ETH) | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0x9387c6744b156f7d1e3fc98ddad3972e456fa4f4b3623fe1296389f619681233) |
 | OTC Payment (3.9 ETH from Founder to Treasury) | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0x8bfec6c0fa1ebcf416bf1225bc55cef134b3190c38b2c6a79e94b7cb08d26e9d) |
 | OTC Token Transfer (195M ZARO from Treasury to Founder) | ✅ Complete | [Etherscan Tx](https://etherscan.io/tx/0x06a3c67288ef42e28fb4b0b6d7b56e6f80a09889f59e27dd78ecd26480681afd) |
-| LP Setup (300M ZARO + 6 ETH)   | 🔜 Pending  | — |
-| Ownership Renounce              | 🔜 Pending (Post LP Lock) | — |
+| LP Setup (300M ZARO + 6 ETH on Uniswap V2) | ✅ Complete | [LP Lock TX](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581) — locked 255 years via UNCX |
+| Ownership Renounce              | ✅ Complete | Owner = zero address — verified on Etherscan |
 
 ---
 
