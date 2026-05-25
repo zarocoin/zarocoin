@@ -72,9 +72,6 @@ This repo serves as a **documentation hub** for exchanges, partners, and the com
 - ⚖️ **Legal Opinion (BVI):**
   [`/docs/legal`](./docs/legal)
 
-- 🧠 **Philosophy – The ZARO Way:**
-  [`/docs/philosophy`](./docs/philosophy)
-
 - 🎨 **Creator Guidelines (Mascot & IP Usage):**
   [`/docs/creator-guidelines`](./docs/creator-guidelines)
 
@@ -155,8 +152,8 @@ These are the **official, canonical external links** for ZARO Coin.
 - 🔐 **Security Docs:**
   https://github.com/zarocoin/zarocoin/tree/main/docs/security
 
-- 🧭 **ZARO Way (Philosophy):**
-  https://github.com/zarocoin/zarocoin/blob/main/docs/philosophy/the-zaro-way.md
+- 📜 **Project Overview (Vision):**
+  https://github.com/zarocoin/zarocoin/tree/main/docs/vision
 
 ---
 
