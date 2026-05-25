@@ -1,5 +1,9 @@
 # A Message from the Founder
 
+> **Historical artifact — July 2025.** This is the founder's first public message, written at early launch. It is preserved verbatim as a primary-source record per the [folder index](./README.md). The forward-looking statements in this message reflect the author's intent at the time and are **not commitments, guarantees, or financial promises**. ZARO is a digital collectible with no intrinsic value. The company does not sell ZARO. For the project's current state and the December 2025 incident response, see [Founder Message #3 — The Decision](./founder-message-3.md) and [zarocoin.xyz/history](https://www.zarocoin.xyz/history).
+
+---
+
 🟡 **To the early believers of ZARO,**
 
 Very soon, we’ll open up the Telegram group to all our valued followers. Right now, it’s closed—just to reach basic critical mass—but we’re nearly there. It’s a matter of days, maybe even hours.
