@@ -35,13 +35,12 @@ Live distribution: [Etherscan holders](https://etherscan.io/token/0xc311FD6DA968
 
 ---
 
-## Key Wallets
+## Key Addresses
 
-| Wallet | Address |
+| | Address |
 |---|---|
-| Company (ZaroVerse Ltd) | `0xb285dcc3A547e5649dfEa8E10134C322c67a63fC` |
 | Token contract | `0xc311FD6DA9686507F33991543d8158EF5FaDd5E7` |
-| Uniswap V2 pool | `0x53085839a2ee860e58108665825fc7ef5e061213` |
+| Uniswap V2 pool (locked LP) | `0x53085839a2ee860e58108665825fc7ef5e061213` |
 
 ---
 
