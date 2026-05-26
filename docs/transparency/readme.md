@@ -1,78 +1,121 @@
 # ZARO Transparency Summary
 
-This document outlines the transparent and on-chain verified steps taken in the ZARO project launch.
+Current state is at the top. The full chronological record is below.
 
 ---
 
-## 🔑 Key Wallets
-- **Treasury Wallet:** `0xb285dcc3A547e5649dfEa8E10134C322c67a63fC`
-- **Token Contract:** `0xc311FD6DA9686507F33991543d8158EF5FaDd5E7`
-- **Uniswap V2 Pool Contract:** `0x53085839a2ee860e58108665825fc7ef5e061213`
-- **UNCX Lock Transaction:** [View Final Lock on Etherscan](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581)
+## Current State
+
+| Field | Value |
+|---|---|
+| Total supply | 1,000,000,000 ZARO — fixed, no mint function |
+| Allocations | None — no presale, no team tokens, no VC round, no vesting schedule of any kind |
+| Permanently locked LP | 300,000,000 ZARO in Uniswap V2 (UNCX, 255-year lock). Base LP burned to `0x000…dEaD`. Solana LP locked with no expiry (Meteora). |
+| Non-locked supply | ~700,000,000 ZARO — every token acquired through market-price transactions |
+| Pending unlock / vesting cliff | None |
+| Contract ownership | Renounced — owner is the zero address |
+| Mintable | No |
+
+On-chain reference: [Etherscan token page](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7)
 
 ---
 
-## 🧱 Initial Deployment
-- **Total Supply:** 1,000,000,000 ZARO (fixed)
-- Contract created using **Thirdweb’s open-source**, audited ERC20 implementation
-- Based on **OpenZeppelin** standards
-- Ownership retained temporarily for LP setup, then **fully renounced**
+## Supply: Two Categories
+
+There are **no allocations**. Every ZARO falls into one of two categories.
+
+| Category | Amount | Notes |
+|---|---|---|
+| Permanently locked LP (Uniswap V2, UNCX 255-year lock) | 300,000,000 | Cannot be withdrawn by anyone — including the company or the founder. [Lock TX →](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581) |
+| Market-acquired | ~700,000,000 | Held across many wallets. Every token was purchased at the same per-token price publicly available on Uniswap. No free distribution has ever occurred. |
+| Team / VC / presale allocation | 0 | None has ever existed. |
+| **Total supply** | **1,000,000,000** | Fixed. No mint function. |
+
+Live distribution: [Etherscan holders](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7#balances) · [CoinGecko](https://www.coingecko.com/en/coins/zaro-coin) · [CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/)
 
 ---
 
-## 🧑‍🚀 Founder Contribution
-- Founder loaned **6 ETH** to the Treasury to seed the LP
-- OTC Purchase: Founder paid **3.9 ETH** to Treasury for **195M ZARO** at the same public price (`0.00000002 ETH`)
-- All transactions are **public and verifiable on-chain**
-- Payment of 3.9 ETH from Founder to Treasury (195M ZARO @ 0.00000002 ETH OTC Deal): https://etherscan.io/tx/0x8bfec6c0fa1ebcf416bf1225bc55cef134b3190c38b2c6a79e94b7cb08d26e9d
-- Received 195M ZARO from Treasury to Founder to complete the transaction: https://etherscan.io/tx/0x06a3c67288ef42e28fb4b0b6d7b56e6f80a09889f59e27dd78ecd26480681afd
+## Key Wallets
 
-
----
-
-## 💧 Liquidity Pool (Uniswap V2)
-- LP created with **6 ETH** + **300M ZARO**
-- **Initial price:** `0.00000002 ETH per ZARO`
-- LP tokens are **permanently locked for 255 years** via UNCX
-- 🔒 Lock Proof: [Final Lock Transaction on Etherscan](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581)
-- ⛓️ Status: Verified on UNCX dashboard
+| Wallet | Address |
+|---|---|
+| Company (ZaroVerse Ltd) | `0xb285dcc3A547e5649dfEa8E10134C322c67a63fC` |
+| Token contract | `0xc311FD6DA9686507F33991543d8158EF5FaDd5E7` |
+| Uniswap V2 pool | `0x53085839a2ee860e58108665825fc7ef5e061213` |
 
 ---
 
-## 🔒 Initial Treasury Holdings (June 29, 2025)
-- Tokens held in Treasury at launch: **505,000,000 ZARO**
-- ❌ No presale
-- ❌ No team allocation
-- ❌ No VC allocation
-- ❌ No vesting, no insider distribution
+## Contract and LP Verification
 
-> **Post-December 2025 incident:** Treasury composition changed materially. The supply that was stolen on December 11, 2025 was reacquired through a buyback funded from personal capital (OTC settlements + open-market purchases through Uniswap). Outside the permanently locked 300M LP, every ZARO currently held by the company or the founder was paid for through capital deployed at market or original-buyer prices. Full record: [zarocoin.xyz/buyback](https://www.zarocoin.xyz/buyback). For current circulating-supply tracking: [CoinGecko](https://www.coingecko.com/en/coins/zaro-coin) · [CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/).
-
----
-
-## 🔍 Audit Reference
-- Token contract is a minimal proxy of [Thirdweb ERC20 contract](https://github.com/thirdweb-dev/contracts)
-- Thirdweb templates are audited by **OpenZeppelin**
-- [Audit Report](https://github.com/thirdweb-dev/contracts/blob/main/audit-reports/audit-12.pdf)
+| Event | Proof |
+|---|---|
+| Ownership renounced | [TX on Etherscan](https://etherscan.io/tx/0x15e4739956e05a80d03cd258eb6a35d7ace2406b7c49a99bc8aa7f7c8fbb3b8a) |
+| LP locked 255 years (UNCX) | [TX on Etherscan](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581) |
+| Audit (Thirdweb ERC-20, OpenZeppelin) | [Audit report PDF](https://github.com/thirdweb-dev/contracts/blob/main/audit-reports/audit-12.pdf) |
 
 ---
 
-## 🚫 Ownership Renounced
-- Ownership of the token contract was **permanently renounced**
-- This ensures no further changes or upgrades can be made
-- 🔗 [Renounce Transaction on Etherscan](https://etherscan.io/tx/0x15e4739956e05a80d03cd258eb6a35d7ace2406b7c49a99bc8aa7f7c8fbb3b8a)
+---
+
+## Chronological Record
+
+The sections below document the full project history. If you only needed the current state, you already have it above.
 
 ---
 
+### Deployment — June 29, 2025
 
-## 🟢 Cross-Chain Extension: BNB Smart Chain (via Wormhole)
+- 1,000,000,000 ZARO minted to the treasury wallet at contract creation
+- Contract template: Thirdweb ERC-20 (OpenZeppelin-based, audited)
+- Ownership temporarily retained for LP setup, then permanently renounced
+- No presale, no ICO, no private sale, no team allocation of any kind
+
+### Liquidity Pool — June 29, 2025
+
+- 300,000,000 ZARO + 6 ETH deployed to Uniswap V2 at launch
+- Initial price: 0.00000002 ETH per ZARO
+- LP tokens locked for 255 years via UNCX on the same day
+- [Lock TX on Etherscan](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581)
+
+### Ownership Renounced — June 29, 2025
+
+Contract ownership permanently renounced immediately after LP setup. Owner is now the zero address. No further changes can be made by any party.
+
+[TX on Etherscan](https://etherscan.io/tx/0x15e4739956e05a80d03cd258eb6a35d7ace2406b7c49a99bc8aa7f7c8fbb3b8a)
+
+### Founder Market-Price Acquisition — July 2025
+
+The founder of ZaroVerse Ltd (Shihab Khalil) purchased 195,000,000 ZARO from the company at 0.00000002 ETH per token — the same price publicly available on the Uniswap pool at that date. Payment was 3.9 ETH directly to the company wallet. No tokens were granted or allocated for free.
+
+- 3.9 ETH payment (founder → company): [TX on Etherscan](https://etherscan.io/tx/0x8bfec6c0fa1ebcf416bf1225bc55cef134b3190c38b2c6a79e94b7cb08d26e9d)
+- 195M ZARO received (company → founder): [TX on Etherscan](https://etherscan.io/tx/0x06a3c67288ef42e28fb4b0b6d7b56e6f80a09889f59e27dd78ecd26480681afd)
+
+### Cross-Chain Expansion — November 2025
+
+ZARO expanded to BNB Smart Chain (November 2, 2025) and Solana (November 9, 2025) via Wormhole. Full technical details in the cross-chain sections below.
+
+### Post-Launch Market Activity — December 2025 and February 2026
+
+A portion of the non-locked supply changed hands through open-market activity. The company subsequently reacquired the equivalent supply through direct on-chain purchases from the Uniswap pool and direct settlements with original buyers at their original acquisition prices, funded entirely from personal capital. Total supply remained 1,000,000,000 throughout — no tokens were created or destroyed.
+
+Full record: [zarocoin.xyz/buyback](https://www.zarocoin.xyz/buyback) · [zarocoin.xyz/history](https://www.zarocoin.xyz/history)
+
+### Base Expansion — May 2026
+
+ZARO expanded to Base via OP Stack Standard Bridge (May 23, 2026). Full technical details in the Base section below.
+
+---
+
+---
+
+## Cross-Chain Extension: BNB Smart Chain (via Wormhole)
 
 **Overview**  
 On **Nov 2, 2025 (UTC)**, ZARO expanded from Ethereum to **BNB Smart Chain (BSC)** via the **Wormhole Portal** bridge. Supply integrity is preserved: every ZARO on BSC is backed 1:1 by locked ERC-20 ZARO on Ethereum (no new supply minted outside the bridge).
 
 ---
 
-### 🔹 Technical Summary
+### Technical Summary
 
 | Item | Detail |
 |---|---|
@@ -88,7 +131,7 @@ On **Nov 2, 2025 (UTC)**, ZARO expanded from Ethereum to **BNB Smart Chain (BSC)
 
 ---
 
-### 🔹 PancakeSwap Liquidity (BSC)
+### PancakeSwap Liquidity (BSC)
 
 | Item | Detail |
 |---|---|
@@ -103,7 +146,7 @@ On **Nov 2, 2025 (UTC)**, ZARO expanded from Ethereum to **BNB Smart Chain (BSC)
 
 ---
 
-### 🔹 Public Verification Links
+### Public Verification Links
 
 - **BSC Token (ZARO, via Wormhole):** `0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc`  
 - **Pancake v2 Pair (ZARO/WBNB):** `0xAB900B7D4fb0cce879F1c3A831b1c172af6f72F4`  
@@ -111,11 +154,11 @@ On **Nov 2, 2025 (UTC)**, ZARO expanded from Ethereum to **BNB Smart Chain (BSC)
 - **BSC Additional Bridge Tx:** `0x7e821e…24368e2`  
 - **DEX Screener (BSC pair):** https://dexscreener.com/bsc/0xAB900B7D4fb0cce879F1c3A831b1c172af6f72F4  
 
-> **Note:** Wormhole contract addresses are documented here for reference: Ethereum core/token bridge and BNB token bridge are listed in Wormhole’s official contract reference.  
+> **Note:** Wormhole contract addresses are documented here for reference: Ethereum core/token bridge and BNB token bridge are listed in Wormhole's official contract reference.  
 
 ---
 
-### 🔹 Verification Notes
+### Verification Notes
 
 - The BSC token is a Wormhole-wrapped twin of the Ethereum ERC-20 ZARO; no extra supply was created.  
 - **1,025,000 ZARO** are locked on Ethereum with an equal amount minted on BSC.  
@@ -123,7 +166,8 @@ On **Nov 2, 2025 (UTC)**, ZARO expanded from Ethereum to **BNB Smart Chain (BSC)
 - All transactions are on-chain and linked above.
 
 ---
-### 🔹 BSC Bridge Update — November 2025
+
+### BSC Bridge Update — November 2025
 
 As of Nov-03-2025, the ZARO Wormhole Bridge Wallet  
 `0x485e2305E953558a2ef959ce9C4FFa317e502BAB`  
@@ -156,11 +200,13 @@ This transaction brings total BSC liquidity to approximately $2,000 (combined ZA
 All actions were executed by the official ZARO Wormhole Bridge Wallet, with LP tokens held securely by the same wallet pending future lock.
 
 
-## 🔵 Base Integration (OP Stack Standard Bridge)
+---
 
-**Date:** 2026-05-23
-**Bridge:** OP Stack Standard Bridge (Coinbase / OP Labs)
-**Parent Token:** Ethereum `0xc311FD6DA9686507F33991543d8158EF5FaDd5E7`
+## Cross-Chain Extension: Base (OP Stack Standard Bridge)
+
+**Date:** 2026-05-23  
+**Bridge:** OP Stack Standard Bridge (Coinbase / OP Labs)  
+**Parent Token:** Ethereum `0xc311FD6DA9686507F33991543d8158EF5FaDd5E7`  
 **Base Contract (OptimismMintableERC20):** [`0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0`](https://basescan.org/token/0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0)
 
 ### Technical Summary
@@ -198,7 +244,7 @@ All bridged tokens correspond 1:1 with locked ERC-20 supply on Ethereum. No new 
 
 ---
 
-## 🌐 Solana Integration (Wormhole)
+## Cross-Chain Extension: Solana (Wormhole)
 
 **Date:** 9 Nov 2025  
 **Bridge:** Wormhole (Mainnet)  
@@ -210,9 +256,8 @@ All bridged tokens correspond 1:1 with locked ERC-20 supply on Ethereum. No new 
 **Amount:** 1,010,000 ZARO (first mint)  
 **Status:** ✅ Completed – confirmed via WormholeScan & SolScan  
 **Bridge Custody:** 1:1 locked on Ethereum  
-**Notes:** This marks the official expansion of ZARO to Solana via Wormhole. The wrapped SPL token inherits all transparency policies from the parent ERC-20.
 
-### ✅ Solana Bridge Status
+### Solana Bridge Status
 
 **Total Bridged Supply:** 10,000,000 ZARO  
 **Percentage of Total Supply:** 1% (out of 1,000,000,000 ZARO)
@@ -234,7 +279,5 @@ All bridged tokens correspond 1:1 with locked ERC-20 supply on Ethereum. No new 
 - Verified on Solscan:  
   https://solscan.io/token/AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W  
 
-**Remarks:**
 All bridged tokens correspond 1:1 with the locked ERC-20 supply on Ethereum.  
-No new tokens were minted or issued outside the canonical 1,000,000,000 ZARO supply.  
-This allocation (1%) is reserved for Solana-based liquidity, ecosystem growth, and multi-chain interoperability testing.
+No new tokens were minted or issued outside the canonical 1,000,000,000 ZARO supply.
