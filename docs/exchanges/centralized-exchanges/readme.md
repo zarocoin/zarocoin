@@ -29,7 +29,10 @@ For exchange due diligence and listing inquiries:
 | **Symbol** | ZARO |
 | **Standard** | ERC-20 (Ethereum canonical) |
 | **Total Supply** | 1,000,000,000 ZARO (fixed — immutable) |
-| **Circulating Supply** | 704,872,870 ZARO (~70.5%) |
+| **Allocations** | None. No team, no VC, no presale, no vesting |
+| **Locked LP (ETH)** | 300,000,000 ZARO (Uniswap V2, 255 years via UNCX) |
+| **Live Circulating** | See [CoinGecko](https://www.coingecko.com/en/coins/zaro-coin) / [CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/) |
+| **Supply note** | Non-locked supply has been paid for at market price — including post-Dec 2025 buyback. No pending unlock, no vesting cliff. See [zarocoin.xyz/buyback](https://www.zarocoin.xyz/buyback). |
 | **Contract (ETH)** | `0xc311FD6DA9686507F33991543d8158EF5FaDd5E7` |
 | **Contract (BSC)** | `0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc` |
 | **Contract (Solana)** | `AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W` |

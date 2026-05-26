@@ -39,11 +39,14 @@ This document outlines the transparent and on-chain verified steps taken in the 
 
 ---
 
-## 🔒 Treasury Holdings
-- Remaining tokens held in Treasury: **505,000,000 ZARO**
-- ❌ No presale  
-- ❌ No team wallet  
-- ❌ No VC allocation  
+## 🔒 Initial Treasury Holdings (June 29, 2025)
+- Tokens held in Treasury at launch: **505,000,000 ZARO**
+- ❌ No presale
+- ❌ No team allocation
+- ❌ No VC allocation
+- ❌ No vesting, no insider distribution
+
+> **Post-December 2025 incident:** Treasury composition changed materially. The supply that was stolen on December 11, 2025 was reacquired through a buyback funded from personal capital (OTC settlements + open-market purchases through Uniswap). Outside the permanently locked 300M LP, every ZARO currently held by the company or the founder was paid for through capital deployed at market or original-buyer prices. Full record: [zarocoin.xyz/buyback](https://www.zarocoin.xyz/buyback). For current circulating-supply tracking: [CoinGecko](https://www.coingecko.com/en/coins/zaro-coin) · [CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/).
 
 ---
 

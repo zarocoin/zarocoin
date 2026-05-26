@@ -64,16 +64,21 @@ Full founder bio: [zarocoin.xyz/founder](https://www.zarocoin.xyz/founder).
 
 ---
 
-## 6. Liquidity
+## 6. Supply and Liquidity
 
-ZARO has no discretionary trading treasury. Token holdings are categorised as follows:
+ZARO has no allocations. No team, no VC, no presale, no vesting, no insider distribution. None has ever existed.
 
-- **300M ZARO** — Ethereum Uniswap V2 LP, locked 255 years via UNCX (on-chain)
-- **~210M ZARO** — Cross-chain DEX LPs across Base, BNB Chain, and Solana (locked or burned per chain — see Section 4)
-- **~295M ZARO** — Remaining company treasury holdings (post-buyback)
-- **195M ZARO** — Founder's wallet (acquired via OTC purchase at public launch price)
+Every ZARO that exists is in one of two categories:
 
-The company does not sell ZARO. Treasury holdings are not deployed for market-making or price activity.
+1. **Permanently locked liquidity (300,000,000 ZARO + 6 ETH)** — seeded into Uniswap V2 at launch and locked at UNCX for 255 years. Cross-chain DEX pools on Base (LP burned), BNB Chain, and Solana (Meteora positions locked) hold a portion of bridged supply with the same permanence model per chain.
+
+2. **Acquired through market-price transactions (~700,000,000 ZARO)** — distributed across many wallets including the company and the founder. Every wallet in this category holds supply that was paid for at the same per-token price publicly available on the Uniswap pool.
+
+**The entire non-locked supply of ZARO has been paid for, in some cases twice.** After the December 2025 incident, the company executed a buyback funded from personal capital — OTC settlements at original buyer USD prices, plus open-market purchases through Uniswap. The founder's original 195M OTC position (acquired July 2025) was already paid for once at launch and paid for again during the response. See [zarocoin.xyz/buyback](https://www.zarocoin.xyz/buyback) for the full record.
+
+The company does not sell ZARO. Holdings are not deployed for market-making or price activity.
+
+Live circulating-supply data: [CoinGecko](https://www.coingecko.com/en/coins/zaro-coin) · [CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/).
 
 ---
 

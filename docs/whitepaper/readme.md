@@ -36,7 +36,9 @@ The CMY (White) Paper replaces all earlier ZARO documentation. It is the canonic
 | **Symbol** | ZARO |
 | **Standard** | ERC-20 (Ethereum canonical) |
 | **Total Supply** | 1,000,000,000 ZARO (fixed — no mint, ever) |
-| **Circulating Supply** | 704,872,870 ZARO (~70.5%) |
+| **Allocations** | None. No team, no VC, no presale, no vesting |
+| **Locked LP** | 300,000,000 ZARO (Uniswap V2, 255 years via UNCX) |
+| **Live circulating data** | See [CoinGecko](https://www.coingecko.com/en/coins/zaro-coin) · [CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/) |
 | **Contract (ETH)** | [`0xc311FD6DA9686507F33991543d8158EF5FaDd5E7`](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7) |
 | **Contract (BSC)** | [`0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc`](https://bscscan.com/token/0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc) |
 | **Contract (Solana)** | [`AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W`](https://solscan.io/token/AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W) |
@@ -94,23 +96,40 @@ The owner is the zero address. No admin keys. No mint function. No pause. No bla
 - Solana LP permanently locked via Meteora
 - Cannot be rug-pulled by anyone
 
-### 100% Fair Launch
+### 100% Fair Launch — No Allocations Exist
 
-No presale, no ICO, no private sale, no team wallet, no vesting, no VC. The founder purchased 195M ZARO at the public market price — purchased from the company treasury at the same price any holder paid via the open market. On-chain verifiable.
+There are no allocations. No team allocation, no advisor allocation, no VC, no presale, no ICO, no private sale, no vesting, no insider distribution. None has ever existed.
 
-### Supply Distribution (Launch Allocation — June 29, 2025)
+Every ZARO that exists is in one of two categories:
 
-| Allocation | Amount | % | Notes |
-|---|---|---|---|
-| ETH Uniswap V2 LP (company seed) | 300,000,000 | 30.0% | Company funded the ETH pair; locked 255 years via UNCX |
-| Founder purchase | 195,000,000 | 19.5% | Purchased from company treasury at open market price — no discount |
-| Company treasury | 505,000,000 | 50.5% | Community distribution, cross-chain LP deployment, ecosystem growth |
-| Team / VC allocation | 0 | 0% | None |
-| **Total** | **1,000,000,000** | **100%** | Fixed supply — no mint ever |
+1. **Permanently locked liquidity (300,000,000 ZARO + 6 ETH)** — seeded into the Uniswap V2 ZARO/WETH pool at launch on June 29, 2025, and locked at UNCX for 255 years. Cannot be withdrawn by anyone, including the founder. [Lock transaction](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581).
 
-*Treasury deployment:* ~209,872,870 deployed to cross-chain DEX LPs (BSC/Solana/Base) — all locked or burned. ~295,127,130 retained for ecosystem and future deployment.
+2. **Acquired through market-price transactions (700,000,000 ZARO)** — held across many wallets including the company and the founder. Every wallet in this category holds supply that was paid for at the same per-token price publicly available on the Uniswap pool.
 
-*December 2025 — security incident:* The founder's wallet was compromised via a malware attack. The founder's 195M ZARO was stolen and dumped on the open market. The company treasury was also partially affected. The company executed a full public buyback — repurchasing all stolen tokens from the open market. Every impacted token was paid for twice. Full documentation: https://www.zarocoin.xyz/history
+### The Phrase That Does the Work
+
+> **The entire non-locked supply of ZARO has been paid for, in some cases twice.**
+
+In July 2025 the founder purchased 195,000,000 ZARO from the company treasury via an on-chain OTC transaction at the same per-token price as the public Uniswap pool — 3.9 ETH paid directly to the treasury wallet in exchange. Both legs of the transaction are independently verifiable on Etherscan.
+
+In December 2025, a malware attack drained the founder's wallet and a portion of the company treasury. The contract is renounced — no replacement tokens could be minted. Total supply remained at 1,000,000,000 throughout. The company executed a full buyback over December 2025 – February 2026, funded from personal capital, via two parallel paths:
+
+- **Path 1 — OTC settlements:** every pre-incident buyer was offered repurchase at their original USD purchase price (not at the post-crash ETH-denominated price).
+- **Path 2 — Open-market buyback:** on-chain purchases through the public Uniswap pool, at prevailing market prices, on the same access any other buyer had.
+
+The supply that was stolen was reacquired. The founder's original 195M position — already paid for once at launch — was paid for again during the response. Some buyers' tokens were paid for twice (original purchase + buyback). The result is that **outside the 300M LP that has been mathematically untouchable since launch, every ZARO currently held by the company or the founder was paid for through capital deployed at market or original-buyer prices**.
+
+Full chronology: [zarocoin.xyz/history](https://www.zarocoin.xyz/history) · Buyback record: [zarocoin.xyz/buyback](https://www.zarocoin.xyz/buyback)
+
+### Live Supply Data
+
+Circulating-supply tracking is best read from third-party platforms:
+
+- [CoinGecko](https://www.coingecko.com/en/coins/zaro-coin)
+- [CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/)
+- Live on-chain holder distribution: [Etherscan holders](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7#balances)
+
+Note: third-party trackers may classify large wallets (treasury, founder) as "non-circulating" by default. These wallets hold market-acquired supply, not free allocations. Project's view: every ZARO is either permanently locked in public LP or has cleared a market mechanism. There is no pending unlock, no vesting cliff, no insider distribution waiting to enter the market.
 
 ### Legal Classification
 
