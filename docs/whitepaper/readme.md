@@ -104,7 +104,7 @@ Every ZARO that exists is in one of two categories:
 
 1. **Permanently locked liquidity (300,000,000 ZARO + 6 ETH)** — seeded into the Uniswap V2 ZARO/WETH pool at launch on June 29, 2025, and locked at UNCX for 255 years. Cannot be withdrawn by anyone, including the founder. [Lock transaction](https://etherscan.io/tx/0xbb17a0d05a167047fb478c9769badaed00fa40e964a54d2917181420d26f4581).
 
-2. **Acquired through market-price transactions (700,000,000 ZARO)** — held across many wallets including the company and the founder. Every wallet in this category holds supply that was paid for at the same per-token price publicly available on the Uniswap pool.
+2. **Acquired through market-price transactions (700,000,000 ZARO)** — held across many wallets. Every wallet in this category holds supply that was paid for at the same per-token price publicly available on the Uniswap pool.
 
 ### The Phrase That Does the Work
 
@@ -129,7 +129,7 @@ Circulating-supply tracking is best read from third-party platforms:
 - [CoinMarketCap](https://coinmarketcap.com/currencies/zaro-coin/)
 - Live on-chain holder distribution: [Etherscan holders](https://etherscan.io/token/0xc311FD6DA9686507F33991543d8158EF5FaDd5E7#balances)
 
-Note: third-party trackers may classify large wallets (treasury, founder) as "non-circulating" by default. These wallets hold market-acquired supply, not free allocations. Project's view: every ZARO is either permanently locked in public LP or has cleared a market mechanism. There is no pending unlock, no vesting cliff, no insider distribution waiting to enter the market.
+Note: third-party trackers may flag large holding addresses as "non-circulating" by default. These addresses hold market-acquired supply, not free allocations. Project's view: every ZARO is either permanently locked in the public LP or has cleared a market mechanism. There is no pending unlock, no vesting cliff, no insider distribution waiting to enter the market.
 
 ### Legal Classification
 
