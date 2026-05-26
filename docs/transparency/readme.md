@@ -10,7 +10,8 @@ Current state is at the top. The full chronological record is below.
 |---|---|
 | Total supply | 1,000,000,000 ZARO — fixed, no mint function |
 | Allocations | None — no presale, no team tokens, no VC round, no vesting schedule of any kind |
-| Permanently locked LP | 300,000,000 ZARO in Uniswap V2 (UNCX, 255-year lock). Base LP burned to `0x000…dEaD`. Solana LP locked with no expiry (Meteora). |
+| Permanently locked LP | 300,000,000 ZARO in Uniswap V2 ETH (UNCX, 255-year lock). Old Base Aerodrome LP burned to `0x000…dEaD`. Solana LP locked with no expiry (Meteora). |
+| Active Base LP | ZARO/USDC 0.01% Uniswap v3 pool on Base (NFT #5191992) — LP lock via UNCX pending. Base is the primary low-cost trading rail. |
 | Non-locked supply | ~700,000,000 ZARO — every token acquired through market-price transactions |
 | Pending unlock / vesting cliff | None |
 | Contract ownership | Renounced — owner is the zero address |
@@ -228,14 +229,30 @@ All actions were executed by the official ZARO Wormhole Bridge Wallet, with LP t
 | Test bridge (1,000 ZARO) | [`0x72b96e27...`](https://etherscan.io/tx/0x72b96e279ad1ecfe718c5caa005a70ae6efe3136bb015de8349d697a1337169f) |
 | Main bridge (9,999,000 ZARO) | [`0x34974128...`](https://etherscan.io/tx/0x34974128cfb0465e3454dfa4f7bad4a0e589dff475f400dfb0d5310a0930bb2e) |
 
-### Aerodrome Liquidity (Base)
+### Uniswap v3 Liquidity — Primary Trading Rail (Base) — May 2026
 
 | Item | Detail |
 |---|---|
-| Exchange | Aerodrome Finance |
+| Exchange | Uniswap v3 |
+| Pair | ZARO / USDC (native USDC on Base) |
+| Fee Tier | 0.01% |
+| Pool Address | [`0x768eafe02ae5845aef95546f3e086132dda254cf`](https://basescan.org/address/0x768eafe02ae5845aef95546f3e086132dda254cf) |
+| USDC Address (Base) | `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913` |
+| Position NFT | [#5191992](https://app.uniswap.org/positions/v3/base/5191992) |
+| Price Range | $0.000223 – $0.001337 USDC per ZARO |
+| LP Size | ~$7,000 |
+| LP Lock | Pending via UNCX — to be locked after BaseScan contract verification is confirmed |
+| DexScreener | https://dexscreener.com/base/0x768eafe02ae5845aef95546f3e086132dda254cf |
+
+**Chain hierarchy:** Ethereum is the canonical origin and reference market. Base is the primary low-cost trading rail. BNB Chain and Solana are maintained as bridged representations for existing holders.
+
+### Aerodrome Liquidity (Base) — Legacy / Superseded
+
+| Item | Detail |
+|---|---|
+| Exchange | Aerodrome Finance (superseded by Uniswap v3 pool above) |
 | Pair | ZARO / WETH (volatile) |
 | Pool Address | `0x55f0a6b67cae42f6a38f754ae7d814bcece1a80a` |
-| BaseScan | https://basescan.org/address/0x55f0a6b67cae42f6a38f754ae7d814bcece1a80a |
 | LP Status | **Burned** — LP tokens sent to `0x000000000000000000000000000000000000dEaD` (permanent, no unlock possible) |
 | LP Burn TX | [`0x2033eda6...`](https://basescan.org/tx/0x2033eda615044458b723fb9b7a2141ddcd6cc60d5bf9c7cde933c8d2e33da332) |
 

@@ -1,9 +1,10 @@
 # ZARO on Base — Security Profile
 
-**Role:** Bridged mirror of the Ethereum origin contract via the OP Stack Standard Bridge (Coinbase/OP Labs infrastructure).
+**Role:** Primary low-cost trading rail. Bridged mirror of the Ethereum origin contract via the OP Stack Standard Bridge (Coinbase/OP Labs infrastructure). Uniswap v3 ZARO/USDC 0.01% pool is the active trading pool.
 **Contract:** [`0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0`](https://basescan.org/token/0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0)
 **Standard:** ERC-20 · OptimismMintableERC20 · Base Mainnet (chainId 8453)
 **Deployed:** 2026-05-23
+**Active Pool:** ZARO/USDC 0.01% Uniswap v3 — pool `0x768eafe02ae5845aef95546f3e086132dda254cf`
 
 ---
 
@@ -78,8 +79,11 @@ No owner exists. The bridge can only mint or burn in direct response to a verifi
 | L2StandardBridge | https://basescan.org/address/0x4200000000000000000000000000000000000010 |
 | L1StandardBridge (ETH) | https://etherscan.io/address/0x3154Cf16ccdb4C6d922629664174b904d80F2C35 |
 | OP Stack bridge docs | https://docs.optimism.io/builders/app-developers/bridging/standard-bridge |
-| Aerodrome pool (ZARO/WETH) | https://basescan.org/address/0x55f0a6b67cae42f6a38f754ae7d814bcece1a80a |
-| LP burn TX | https://basescan.org/tx/0x2033eda615044458b723fb9b7a2141ddcd6cc60d5bf9c7cde933c8d2e33da332 |
+| Uniswap v3 pool (ZARO/USDC 0.01%) | https://basescan.org/address/0x768eafe02ae5845aef95546f3e086132dda254cf |
+| DexScreener (Base pool) | https://dexscreener.com/base/0x768eafe02ae5845aef95546f3e086132dda254cf |
+| Uniswap position NFT #5191992 | https://app.uniswap.org/positions/v3/base/5191992 |
+| Aerodrome pool (ZARO/WETH) — legacy, burned | https://basescan.org/address/0x55f0a6b67cae42f6a38f754ae7d814bcece1a80a |
+| Aerodrome LP burn TX | https://basescan.org/tx/0x2033eda615044458b723fb9b7a2141ddcd6cc60d5bf9c7cde933c8d2e33da332 |
 
 ---
 

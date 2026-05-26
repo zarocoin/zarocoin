@@ -9,6 +9,8 @@ This repository is the canonical source of truth for the ZARO token. All contrac
 
 **ZARO** is an ERC-20 token on Ethereum, the on-chain artifact of the **ZaroVerse** fictional universe.
 
+> **ETH proves it. Base trades it.**
+
 - A fixed-supply digital collectible
 - Renounced contract — owner is the zero address
 - Liquidity permanently locked or burned on every chain
@@ -16,13 +18,13 @@ This repository is the canonical source of truth for the ZARO token. All contrac
 
 ### 1.1 Key Properties
 
-- ✅ Deployed on **Ethereum (ERC-20)**
-- ✅ Bridged to **Base** via OP Stack Standard Bridge (1:1 backed)
-- ✅ Bridged to **BNB Chain** and **Solana** via Wormhole (1:1 backed)
+- ✅ Deployed on **Ethereum (ERC-20)** — canonical origin, reference market
+- ✅ Bridged to **Base** via OP Stack Standard Bridge — **primary low-cost trading rail** (Uniswap v3 ZARO/USDC 0.01%)
+- ✅ Bridged to **BNB Chain** and **Solana** via Wormhole — maintained for existing holders
 - ✅ No presale
 - ✅ No team or advisor allocation
 - ✅ No VC allocation
-- ✅ Initial liquidity provided and locked for 255 years at UNCX
+- ✅ Initial liquidity provided and locked for 255 years at UNCX (Ethereum)
 - ✅ Ownership of the token contract renounced
 - ✅ Based on Thirdweb's audited `TokenERC20` implementation (OpenZeppelin-based)
 
@@ -36,7 +38,7 @@ This repository is the canonical source of truth for the ZARO token. All contrac
 | **Symbol**       | ZARO                              |
 | **Total Supply** | 1,000,000,000 ZARO                |
 | **Network**      | Ethereum (ERC-20)                 |
-| **Bridges**      | Base (OP Stack), BNB Chain (BEP-20), Solana (SPL) |
+| **Bridges**      | Base (OP Stack — primary rail), BNB Chain (BEP-20 via Wormhole), Solana (SPL via Wormhole) |
 | **Tax**          | 0%                                |
 | **Presale**      | None                              |
 | **Team Wallet**  | None                              |
@@ -80,6 +82,9 @@ This repo serves as a **documentation hub** for exchanges, partners, and the com
 
 - 🗣 **Founder Messages & Long-Term Vision:**
   [`/docs/founder-message`](./docs/founder-message)
+
+- ⛓ **Chain Hierarchy (ETH canonical, Base primary rail, BSC/Solana bridged):**
+  [`/docs/strategy/chain-hierarchy.md`](./docs/strategy/chain-hierarchy.md)
 
 ---
 
@@ -126,10 +131,16 @@ These are the **official, canonical external links** for ZARO Coin.
 - 🧾 **Solscan (ZARO Token, Solana):**
   https://solscan.io/token/AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W
 
-- 💱 **Uniswap (ZARO – Ethereum):**
+- 💱 **Uniswap v3 – Base (ZARO/USDC — primary trading rail):**
+  https://app.uniswap.org/swap?inputCurrency=0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913&outputCurrency=0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0&chain=base
+
+- 💱 **Uniswap – Ethereum (canonical reference market):**
   https://app.uniswap.org/swap?outputCurrency=0xc311FD6DA9686507F33991543d8158EF5FaDd5E7&chain=mainnet
 
-- 📊 **DEX Screener (ZARO Pair):**
+- 📊 **DEX Screener – Base (primary pool):**
+  https://dexscreener.com/base/0x768eafe02ae5845aef95546f3e086132dda254cf
+
+- 📊 **DEX Screener – Ethereum:**
   https://dexscreener.com/ethereum/0x53085839A2Ee860E58108665825Fc7Ef5e061213
 
 - 🪙 **CoinMarketCap – ZARO Coin:**
@@ -179,7 +190,7 @@ Before opening a PR:
 
 **CMY (White) Paper:** Token mechanics, tokenomics, Howey analysis, IP foundation, and the ZaroVerse universe. [→ View CMY (White) Paper](./docs/whitepaper/)
 
-**Structural facts:** Contract fully renounced — owner is the zero address. Liquidity locked 255 years via UNCX on Ethereum; burned on Base; locked on Solana. No controlling entity. No mint function accessible to any human key.
+**Structural facts:** Contract fully renounced — owner is the zero address. Ethereum LP locked 255 years via UNCX; old Base Aerodrome LP burned to 0x000…dEaD; active Base pool is Uniswap v3 ZARO/USDC (LP lock pending via UNCX); Solana LP locked with no expiry (Meteora). No controlling entity. No mint function accessible to any human key.
 
 ---
 
