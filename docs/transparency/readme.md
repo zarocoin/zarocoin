@@ -10,8 +10,8 @@ Current state is at the top. The full chronological record is below.
 |---|---|
 | Total supply | 1,000,000,000 ZARO — fixed, no mint function |
 | Allocations | None — no presale, no team tokens, no VC round, no vesting schedule of any kind |
-| Permanently locked LP | 300,000,000 ZARO in Uniswap V2 ETH (UNCX, 255-year lock). Old Base Aerodrome LP burned to `0x000…dEaD`. Solana LP locked with no expiry (Meteora). |
-| Active Base LP | ZARO/USDC 0.01% Uniswap v3 pool on Base (NFT #5191992) — LP lock via UNCX pending. Base is the primary low-cost trading rail. |
+| Permanently locked LP | 300,000,000 ZARO in Uniswap V2 ETH (UNCX, 255-year lock). Base Aerodrome ZARO/WETH LP burned to `0x000…dEaD` — permanent, no unlock possible. Solana LP locked with no expiry (Meteora). |
+| Active Base LP | ZARO/USDC 0.01% Uniswap v3 pool on Base (primary trading rail). Aerodrome ZARO/WETH pool active as fallback. |
 | Non-locked supply | ~700,000,000 ZARO — every token acquired through market-price transactions |
 | Pending unlock / vesting cliff | None |
 | Contract ownership | Renounced — owner is the zero address |
@@ -240,21 +240,20 @@ All actions were executed by the official ZARO Wormhole Bridge Wallet, with LP t
 | USDC Address (Base) | `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913` |
 | Position NFT | [#5191992](https://app.uniswap.org/positions/v3/base/5191992) |
 | Price Range | $0.000223 – $0.001337 USDC per ZARO |
-| LP Size | ~$7,000 |
-| LP Lock | Pending via UNCX — to be locked after BaseScan contract verification is confirmed |
 | DexScreener | https://dexscreener.com/base/0x768eafe02ae5845aef95546f3e086132dda254cf |
 
 **Chain hierarchy:** Ethereum is the canonical origin and reference market. Base is the primary low-cost trading rail. BNB Chain and Solana are maintained as bridged representations for existing holders.
 
-### Aerodrome Liquidity (Base) — Legacy / Superseded
+### Aerodrome Liquidity (Base) — Fallback Pool, LP Permanently Burned
 
 | Item | Detail |
 |---|---|
-| Exchange | Aerodrome Finance (superseded by Uniswap v3 pool above) |
-| Pair | ZARO / WETH (volatile) |
+| Exchange | Aerodrome Finance |
+| Pair | ZARO / WETH (volatile, ~0.3% fee) |
 | Pool Address | `0x55f0a6b67cae42f6a38f754ae7d814bcece1a80a` |
-| LP Status | **Burned** — LP tokens sent to `0x000000000000000000000000000000000000dEaD` (permanent, no unlock possible) |
+| LP Status | **Permanently burned** — LP tokens sent to `0x000000000000000000000000000000000000dEaD`. No unlock possible, ever. |
 | LP Burn TX | [`0x2033eda6...`](https://basescan.org/tx/0x2033eda615044458b723fb9b7a2141ddcd6cc60d5bf9c7cde933c8d2e33da332) |
+| Role | Fallback pool — remains live. Uniswap v3 ZARO/USDC is the primary trading pool. |
 
 All bridged tokens correspond 1:1 with locked ERC-20 supply on Ethereum. No new tokens were minted or issued outside the canonical 1,000,000,000 ZARO supply.
 

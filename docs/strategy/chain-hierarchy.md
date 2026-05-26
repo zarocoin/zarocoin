@@ -32,11 +32,11 @@ This document defines the official chain hierarchy for the ZARO multi-chain depl
 | Contract | `0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0` |
 | Standard | OptimismMintableERC20 (canonical OP Stack bridge token, factory-deployed) |
 | Bridge | OP Stack Standard Bridge (Coinbase / OP Labs) |
-| Active Pool | ZARO/USDC 0.01% Uniswap v3 — `0x768eafe02ae5845aef95546f3e086132dda254cf` |
+| Primary Pool | ZARO/USDC 0.01% Uniswap v3 — `0x768eafe02ae5845aef95546f3e086132dda254cf` |
 | USDC Address | `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913` (native USDC on Base) |
 | Position NFT | #5191992 |
-| LP Size | ~$7,000 |
-| LP Lock | Pending via UNCX (post BaseScan contract verification) |
+| Fallback Pool | Aerodrome ZARO/WETH (~0.3% volatile) — `0x55f0a6b67cae42f6a38f754ae7d814bcece1a80a` |
+| Fallback LP | Permanently burned to `0x000…dEaD` — no unlock possible, ever |
 | DexScreener | https://dexscreener.com/base/0x768eafe02ae5845aef95546f3e086132dda254cf |
 | Explorer | https://basescan.org/token/0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0 |
 | DEX | https://app.uniswap.org/swap?inputCurrency=0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913&outputCurrency=0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0&chain=base |
@@ -102,7 +102,7 @@ SUM across all chains ≤ 1,000,000,000 ZARO. Always.
 | ETH is the only canonical chain | Supply, provenance, and immutability all enforced at the Ethereum layer |
 | Base is the lowest-friction entry point | 0.01% fee, native USDC, near-zero gas, Coinbase infrastructure |
 | BSC/Solana maintained, not promoted | Existing holders respected; not used for new-holder onboarding |
-| Aerodrome (old Base pool) | LP burned to 0x000…dEaD — preserved for on-chain history, replaced by Uniswap v3 |
+| Aerodrome Base pool | LP permanently burned to 0x000…dEaD — active as fallback pool; Uniswap v3 USDC is the primary |
 
 ---
 
