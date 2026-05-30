@@ -61,7 +61,23 @@
     "CHAPTER_3_THE_GRAY_PATCH.md": {
       "number": 3,
       "title": "The Gray Patch",
-      "status": "locked"
+      "status": "published",
+      "editions": {
+        "original": {
+          "languages": [
+            "en"
+          ]
+        },
+        "kid": {
+          "languages": []
+        },
+        "bedtime": {
+          "languages": []
+        },
+        "commentary": {
+          "languages": []
+        }
+      }
     },
     "CHAPTER_4_EXPEDITION.md": {
       "number": 4,
