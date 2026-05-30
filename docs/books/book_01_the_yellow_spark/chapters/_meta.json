@@ -2,15 +2,16 @@
   "title": "Chapters",
   "order": [
     "CHAPTER_1_THE_SPARK.md",
-    "CHAPTER_2_BUILDING.md",
-    "CHAPTER_3_EXPEDITION.md",
-    "CHAPTER_4_FIRST_CONTACT.md",
-    "CHAPTER_5_NOT_OVER.md",
-    "CHAPTER_6_ARC7_ARRIVES.md",
-    "CHAPTER_7_THE_SIM_ARENA.md",
-    "CHAPTER_8_DISCOVERY.md",
-    "CHAPTER_9_THE_BATTLE.md",
-    "CHAPTER_10_THE_SIGNAL.md"
+    "CHAPTER_2_TWO_MAPS.md",
+    "CHAPTER_3_THE_GRAY_PATCH.md",
+    "CHAPTER_4_EXPEDITION.md",
+    "CHAPTER_5_FIRST_CONTACT.md",
+    "CHAPTER_6_THE_BREACH.md",
+    "CHAPTER_7_ARC7.md",
+    "CHAPTER_8_THE_ARENA.md",
+    "CHAPTER_9_DISCOVERY.md",
+    "CHAPTER_10_THE_BATTLE.md",
+    "CHAPTER_11_THE_SIGNAL.md"
   ],
   "chapters": {
     "CHAPTER_1_THE_SPARK.md": {
@@ -24,14 +25,10 @@
           ]
         },
         "kid": {
-          "languages": [
-            "en"
-          ]
+          "languages": []
         },
         "bedtime": {
-          "languages": [
-            "en"
-          ]
+          "languages": []
         },
         "commentary": {
           "languages": []
@@ -40,9 +37,9 @@
       "podcastSpotifyUrl": "https://open.spotify.com/episode/0mvEaCxQqL7lKrORz7oyRI",
       "podcastYouTubeUrl": "https://youtu.be/L3A3z2yHYw0"
     },
-    "CHAPTER_2_BUILDING.md": {
+    "CHAPTER_2_TWO_MAPS.md": {
       "number": 2,
-      "title": "Building",
+      "title": "Two Maps",
       "status": "published",
       "editions": {
         "original": {
@@ -59,47 +56,50 @@
         "commentary": {
           "languages": []
         }
-      },
-      "podcastSpotifyUrl": "https://open.spotify.com/episode/3jg6UF8wr4PWw52fp6gIeN",
-      "podcastYouTubeUrl": "https://youtu.be/zFEFKZOl2I4"
+      }
     },
-    "CHAPTER_3_EXPEDITION.md": {
+    "CHAPTER_3_THE_GRAY_PATCH.md": {
       "number": 3,
+      "title": "The Gray Patch",
+      "status": "locked"
+    },
+    "CHAPTER_4_EXPEDITION.md": {
+      "number": 4,
       "title": "Expedition",
       "status": "locked"
     },
-    "CHAPTER_4_FIRST_CONTACT.md": {
-      "number": 4,
+    "CHAPTER_5_FIRST_CONTACT.md": {
+      "number": 5,
       "title": "First Contact",
       "status": "locked"
     },
-    "CHAPTER_5_NOT_OVER.md": {
-      "number": 5,
-      "title": "NOT OVER",
-      "status": "locked"
-    },
-    "CHAPTER_6_ARC7_ARRIVES.md": {
+    "CHAPTER_6_THE_BREACH.md": {
       "number": 6,
-      "title": "ARC-7 Arrives",
+      "title": "The Breach",
       "status": "locked"
     },
-    "CHAPTER_7_THE_SIM_ARENA.md": {
+    "CHAPTER_7_ARC7.md": {
       "number": 7,
-      "title": "The Sim Arena",
+      "title": "ARC-7",
       "status": "locked"
     },
-    "CHAPTER_8_DISCOVERY.md": {
+    "CHAPTER_8_THE_ARENA.md": {
       "number": 8,
+      "title": "The Arena",
+      "status": "locked"
+    },
+    "CHAPTER_9_DISCOVERY.md": {
+      "number": 9,
       "title": "Discovery",
       "status": "locked"
     },
-    "CHAPTER_9_THE_BATTLE.md": {
-      "number": 9,
+    "CHAPTER_10_THE_BATTLE.md": {
+      "number": 10,
       "title": "The Battle",
       "status": "locked"
     },
-    "CHAPTER_10_THE_SIGNAL.md": {
-      "number": 10,
+    "CHAPTER_11_THE_SIGNAL.md": {
+      "number": 11,
       "title": "The Signal",
       "status": "locked"
     }
