@@ -82,42 +82,170 @@
     "CHAPTER_4_EXPEDITION.md": {
       "number": 4,
       "title": "Expedition",
-      "status": "locked"
+      "status": "published",
+      "editions": {
+        "original": {
+          "languages": [
+            "en"
+          ]
+        },
+        "kid": {
+          "languages": []
+        },
+        "bedtime": {
+          "languages": []
+        },
+        "commentary": {
+          "languages": []
+        }
+      }
     },
     "CHAPTER_5_FIRST_CONTACT.md": {
       "number": 5,
       "title": "First Contact",
-      "status": "locked"
+      "status": "published",
+      "editions": {
+        "original": {
+          "languages": [
+            "en"
+          ]
+        },
+        "kid": {
+          "languages": []
+        },
+        "bedtime": {
+          "languages": []
+        },
+        "commentary": {
+          "languages": []
+        }
+      }
     },
     "CHAPTER_6_THE_BREACH.md": {
       "number": 6,
       "title": "The Breach",
-      "status": "locked"
+      "status": "published",
+      "editions": {
+        "original": {
+          "languages": [
+            "en"
+          ]
+        },
+        "kid": {
+          "languages": []
+        },
+        "bedtime": {
+          "languages": []
+        },
+        "commentary": {
+          "languages": []
+        }
+      }
     },
     "CHAPTER_7_ARC7.md": {
       "number": 7,
       "title": "ARC-7",
-      "status": "locked"
+      "status": "published",
+      "editions": {
+        "original": {
+          "languages": [
+            "en"
+          ]
+        },
+        "kid": {
+          "languages": []
+        },
+        "bedtime": {
+          "languages": []
+        },
+        "commentary": {
+          "languages": []
+        }
+      }
     },
     "CHAPTER_8_THE_ARENA.md": {
       "number": 8,
       "title": "The Arena",
-      "status": "locked"
+      "status": "published",
+      "editions": {
+        "original": {
+          "languages": [
+            "en"
+          ]
+        },
+        "kid": {
+          "languages": []
+        },
+        "bedtime": {
+          "languages": []
+        },
+        "commentary": {
+          "languages": []
+        }
+      }
     },
     "CHAPTER_9_DISCOVERY.md": {
       "number": 9,
       "title": "Discovery",
-      "status": "locked"
+      "status": "published",
+      "editions": {
+        "original": {
+          "languages": [
+            "en"
+          ]
+        },
+        "kid": {
+          "languages": []
+        },
+        "bedtime": {
+          "languages": []
+        },
+        "commentary": {
+          "languages": []
+        }
+      }
     },
     "CHAPTER_10_THE_BATTLE.md": {
       "number": 10,
       "title": "The Battle",
-      "status": "locked"
+      "status": "published",
+      "editions": {
+        "original": {
+          "languages": [
+            "en"
+          ]
+        },
+        "kid": {
+          "languages": []
+        },
+        "bedtime": {
+          "languages": []
+        },
+        "commentary": {
+          "languages": []
+        }
+      }
     },
     "CHAPTER_11_THE_SIGNAL.md": {
       "number": 11,
       "title": "The Signal",
-      "status": "locked"
+      "status": "published",
+      "editions": {
+        "original": {
+          "languages": [
+            "en"
+          ]
+        },
+        "kid": {
+          "languages": []
+        },
+        "bedtime": {
+          "languages": []
+        },
+        "commentary": {
+          "languages": []
+        }
+      }
     }
   }
 }
