@@ -1,5 +1,7 @@
 # ARC MESSENGER SOLDIER
 
+> **⚠️ SCOPE NOTE (2026-06-02).** This file defines the Soldier CLASS (a category of background ARC line units) and is the canonical **Ink-infection mechanics template** for ANY infected ARC being. The **on-page Chapter 11** infected-then-cured arrival is **the General** (an Observer of ARC-7's own kind — white-marble armor, teal DIAMOND insignia), NOT a Soldier. See `ARC_GENERAL.md`. The Soldier class remains valid for background / Book 2 ARC-Realm use; references below to the "first on-page test that earns the team" now point to the General.
+
 The Soldier class is a category — basic line units that may appear as background ARC beings, including infected drones during ARC-Realm conflicts. The infection mechanics described below remain valid for ANY ARC being infected by Ink — Soldier, General, or Prime — with class-specific armor textures swapping in (Soldier: dark charcoal; General: white marble; Prime: dark charcoal).
 
 
@@ -117,13 +119,13 @@ Ink-infected hosts require the AMPLIFIED Verdant Seal:
 
 WHY THE SOLDIER CLASS MATTERS
 
-The Soldier is the first canonical example of the Ink reaching inside the ARC Realm. A ripple. A threat vector that was supposed to be impossible. The crisis that proves the Veil tunnel is not a one-way problem — the Ink can travel both ways.
+The Soldier class is the canonical pattern for the Ink reaching inside the ARC Realm — a threat vector that was supposed to be impossible, proof that the Veil tunnel is not a one-way problem (the Ink can travel both ways). Soldier-class units carry this role as background / line forces, primarily in Book 2 ARC-Realm conflicts.
 
-It is also the first real test of the team as a team:
+NOTE (Book 1 canon): the FIRST on-page infected ARC being is the General in Chapter 11, not a Soldier (see ARC_GENERAL.md). The General's cure is the moment that earns the team:
 - ARC-7 alone cannot save an infected host (Cyan cannot pierce Ink armor on a host).
 - Zaro alone cannot save an infected host (Yellow cannot pierce Ink armor on a host).
-- Even Controlled Verdant Seal cannot save an infected host (not strong enough).
-- Only Amplified Verdant Seal — all four + tree — can extract the Ink without killing the host.
+- Even the Controlled Verdant Seal cannot save an infected host (not strong enough).
+- Only the Amplified Verdant Seal — all four + tree — can extract the Ink without killing the host.
 
 This moment earns the team.
 
